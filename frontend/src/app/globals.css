@@ -1,0 +1,107 @@
+@import "tailwindcss";
+@import "@fontsource-variable/schibsted-grotesk";
+@import "@fontsource-variable/newsreader";
+
+/* ClearMetric design tokens.
+   Paper: sage-tinted neutral surfaces. Ink: green-black text. Forest: the single brand accent.
+   Rust is reserved for negative changes; brass for warnings. */
+@theme {
+  --color-paper: #eef0e9;
+  --color-paper-2: #e4e7de;
+  --color-surface: #fbfbf8;
+  --color-ink: #14201a;
+  --color-ink-2: #3d4a43;
+  --color-muted: #66726b;
+  --color-line: #d6dbd0;
+  --color-line-2: #c3cabd;
+  --color-forest: #1f6b52;
+  --color-forest-2: #17543f;
+  --color-forest-wash: #dfeee6;
+  --color-rust: #b4533c;
+  --color-rust-wash: #f6e3dc;
+  --color-brass: #a7791f;
+  --color-brass-wash: #f4ead2;
+  --color-slate: #3f6fa8;
+
+  --font-sans: "Schibsted Grotesk Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Newsreader Variable", Georgia, serif;
+
+  --text-2xs: 0.6875rem;
+  --radius-sm: 4px;
+  --radius-md: 7px;
+  --radius-lg: 12px;
+  --shadow-lift: 0 1px 0 rgb(20 32 26 / 0.04), 0 8px 24px -12px rgb(20 32 26 / 0.18);
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-feature-settings: "ss01", "cv11";
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Schibsted Grotesk's tabular figures also widen punctuation (“99 . 9”), so figures stay proportional
+   and lining; numeric table columns are right-aligned instead. */
+.tnum {
+  font-variant-numeric: lining-nums;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-forest);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+::selection {
+  background: var(--color-forest-wash);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Skeleton shimmer for loading states */
+@keyframes cm-pulse {
+  0%, 100% { opacity: 0.55; }
+  50% { opacity: 1; }
+}
+.skeleton {
+  background: var(--color-paper-2);
+  border-radius: var(--radius-sm);
+  animation: cm-pulse 1.4s ease-in-out infinite;
+}
+
+/* Hero evidence card: the single orchestrated reveal on the landing page */
+@keyframes cm-reveal {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+.reveal > * {
+  animation: cm-reveal 420ms ease-out both;
+}
+.reveal > *:nth-child(2) { animation-delay: 120ms; }
+.reveal > *:nth-child(3) { animation-delay: 240ms; }
+.reveal > *:nth-child(4) { animation-delay: 360ms; }
+
+dialog::backdrop {
+  background: rgb(20 32 26 / 0.35);
+}
+
+.doc-prose p {
+  margin: 0 0 0.75rem;
+}

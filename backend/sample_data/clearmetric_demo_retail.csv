@@ -1,0 +1,1465 @@
+Order ID,Order Date,Customer ID,Product,Category,Region,Sales Channel,Quantity,Unit Price,Discount,Gross Revenue,Net Revenue,Cost,Profit
+SO-10005,2024-11-02,C1130,Running Shoes,Apparel,West,Marketplace,4,94.47,0.05,377.88,358.99,172.47,186.52
+SO-10049,2024-11-02,C1153,Desk Lamp,Office,East,Retail Store,3,50.68,0.15,152.04,129.23,72.42,56.81
+SO-10013,2024-11-03,C1102,Hair Dryer,Beauty,North,Marketplace,2,86.38,0.15,172.76,146.85,87.57,59.28
+SO-10017,2024-11-03,C1147,Smart Watch,Electronics,East,Marketplace,1,201.38,0.1,201.38,181.24,125.91,55.33
+SO-10023,2024-11-03,C1167,Ergonomic Chair,Office,East,Retail Store,4,334.73,0.05,1338.92,1271.97,823.01,448.96
+SO-10034,2024-11-03,C1141,Wireless Earbuds,Electronics,East,Online Store,1,81.05,0.15,81.05,68.89,48.11,20.78
+SO-10027,2024-11-04,C1283,Running Shoes,Apparel,East,Retail Store,3,91.3,0.0,273.9,273.9,131.12,142.78
+SO-10048,2024-11-04,C1210,Notebook Pack,Office,Central,Online Store,1,14.43,0.0,14.43,14.43,5.97,8.46
+SO-10026,2024-11-05,C1099,Wool Scarf,Apparel,South,Online Store,4,28.7,0.15,114.8,97.58,45.34,52.24
+SO-10060,2024-11-05,C1016,Bluetooth Speaker,Electronics,East,Online Store,2,60.07,0.1,120.14,108.13,67.4,40.73
+SO-10063,2024-11-05,C1167,Running Shoes,Apparel,North,Marketplace,2,97.45,0.05,194.9,185.16,89.04,96.12
+SO-10002,2024-11-07,C1229,Laptop Stand,Electronics,West,Retail Store,4,45.82,0.1,183.28,164.95,96.27,68.68
+SO-10056,2024-11-07,C1217,Skincare Set,Beauty,North,Online Store,2,67.43,0.0,134.86,134.86,47.92,86.94
+SO-10007,2024-11-08,C1027,Smart Watch,Electronics,North,Retail Store,4,193.67,0.0,774.68,774.68,503.98,270.7
+SO-10010,2024-11-08,C1141,Laptop Stand,Electronics,Central,Online Store,3,46.5,0.0,139.5,139.5,70.91,68.59
+SO-10028,2024-11-08,C1296,Running Shoes,Apparel,North,Online Store,2,93.16,0.0,186.32,186.32,86.54,99.78
+SO-10004,2024-11-09,C1156,Wireless Earbuds,Electronics,South,Marketplace,4,76.69,0.0,306.76,306.76,190.9,115.86
+SO-10037,2024-11-09,C1319,Denim Jacket,Apparel,East,Marketplace,2,84.17,0.0,168.34,168.34,76.87,91.47
+SO-10041,2024-11-09,C1217,Skincare Set,Beauty,North,Online Store,2,66.75,0.1,133.5,120.15,45.96,74.19
+SO-10030,2024-11-10,C1038,Espresso Maker,Home & Kitchen,North,Retail Store,1,245.68,0.0,245.68,245.68,138.35,107.33
+SO-10033,2024-11-10,C1218,Running Shoes,Apparel,North,Marketplace,1,95.91,0.1,95.91,86.32,44.92,41.4
+SO-10014,2024-11-11,C1030,Ceramic Vase,Home & Kitchen,East,Marketplace,1,39.62,0.05,39.62,37.64,16.0,21.64
+SO-10036,2024-11-11,C1035,Smart Watch,Electronics,East,Online Store,1,205.93,0.05,205.93,195.63,130.67,64.96
+SO-10038,2024-11-11,C1063,Ergonomic Chair,Office,South,Online Store,1,338.78,0.15,338.78,287.96,202.19,85.77
+SO-10035,2024-11-12,C1213,Bluetooth Speaker,Electronics,West,Marketplace,1,59.28,0.1,59.28,53.35,34.49,18.86
+SO-10042,2024-11-12,C1111,Smart Watch,Electronics,West,Wholesale,6,197.91,0.12,1187.46,1044.96,786.67,258.29
+SO-10051,2024-11-12,C1288,Skincare Set,Beauty,West,Retail Store,3,67.02,0.15,201.06,170.9,68.37,102.53
+SO-10053,2024-11-12,C1277,Air Fryer,Home & Kitchen,West,Wholesale,8,132.71,0.12,1061.68,934.28,559.48,374.8
+SO-10029,2024-11-13,C1167,Ergonomic Chair,Office,East,Wholesale,5,334.03,0.12,1670.15,1469.73,990.05,479.68
+SO-10039,2024-11-13,C1014,Smart Watch,Electronics,South,Online Store,4,195.85,0.05,783.4,744.23,502.5,241.73
+SO-10059,2024-11-13,C1147,Ergonomic Chair,Office,West,Marketplace,2,331.68,0.0,663.36,663.36,398.84,264.52
+SO-10003,2024-11-14,C1167,Air Fryer,Home & Kitchen,Central,Online Store,1,128.48,0.05,128.48,122.06,71.0,51.06
+SO-10016,2024-11-14,C1077,Espresso Maker,Home & Kitchen,West,Wholesale,9,244.73,0.12,2202.57,1938.26,1303.7,634.56
+SO-10019,2024-11-14,C1180,Notebook Pack,Office,Central,Online Store,2,14.64,0.0,29.28,29.28,12.3,16.98
+SO-10050,2024-11-14,C1167,Air Fryer,Home & Kitchen,North,Retail Store,4,127.54,0.0,510.16,510.16,276.94,233.22
+SO-10061,2024-11-14,C1138,Wool Scarf,Apparel,West,Marketplace,2,28.13,0.0,56.26,56.26,21.69,34.57
+SO-10006,2024-11-15,C1016,Air Fryer,Home & Kitchen,North,Marketplace,1,131.5,0.15,131.5,111.77,72.94,38.83
+SO-10008,2024-11-15,C1142,Running Shoes,Apparel,West,Marketplace,1,91.66,0.0,91.66,91.66,44.32,47.34
+SO-10001,2024-11-16,C1293,Wireless Earbuds,Electronics,South,Online Store,1,82.06,0.0,82.06,82.06,47.57,34.49
+SO-10015,2024-11-16,C1213,Smart Watch,Electronics,West,Wholesale,8,201.2,0.12,1609.6,1416.45,1038.61,377.84
+SO-10011,2024-11-17,C1102,Smart Watch,Electronics,North,Marketplace,1,196.22,0.1,196.22,176.6,127.24,49.36
+SO-10057,2024-11-19,C1229,Smart Watch,Electronics,Central,Online Store,1,202.31,0.05,202.31,192.19,128.7,63.49
+SO-10012,2024-11-20,C1158,Cotton T-Shirt,Apparel,West,Online Store,1,18.54,0.0,18.54,18.54,6.51,12.03
+SO-10020,2024-11-20,C1273,Bluetooth Speaker,Electronics,Central,Marketplace,1,60.88,0.05,60.88,57.84,34.81,23.03
+SO-10022,2024-11-21,C1217,Cotton T-Shirt,Apparel,East,Online Store,1,18.76,0.05,18.76,17.82,6.62,11.2
+SO-10040,2024-11-21,C1213,Wool Scarf,Apparel,Central,Online Store,3,29.28,0.05,87.84,83.45,32.49,50.96
+SO-10054,2024-11-22,C1013,Smart Watch,Electronics,West,Online Store,2,204.72,0.15,409.44,348.02,255.4,92.62
+SO-10065,2024-11-22,C1145,Notebook Pack,Office,West,Marketplace,1,15.51,0.05,15.51,14.73,5.87,8.86
+SO-10018,2024-11-24,C1123,Smart Watch,Electronics,Central,Online Store,2,204.14,0.15,408.28,347.04,254.47,92.57
+SO-10047,2024-11-24,C1067,Wireless Earbuds,Electronics,Central,Marketplace,2,77.58,0.0,155.16,155.16,94.27,60.89
+SO-10052,2024-11-24,C1138,Smart Watch,Electronics,Central,Marketplace,1,205.54,0.15,205.54,174.71,129.13,45.58
+SO-10055,2024-11-24,C1167,Cotton T-Shirt,Apparel,North,Wholesale,5,19.44,0.12,97.2,85.54,32.27,53.27
+SO-10062,2024-11-25,C1156,Notebook Pack,Office,East,Retail Store,2,15.53,0.05,31.06,29.51,12.25,17.26
+SO-10064,2024-11-25,C1309,Cotton T-Shirt,Apparel,West,Online Store,3,19.26,0.05,57.78,54.89,20.25,34.64
+SO-10044,2024-11-26,C1296,Smart Watch,Electronics,North,Marketplace,1,192.25,0.0,192.25,192.25,129.39,62.86
+SO-10021,2024-11-27,C1289,Cotton T-Shirt,Apparel,West,Online Store,1,18.99,0.1,18.99,17.09,6.46,10.63
+SO-10032,2024-11-27,C1027,Desk Lamp,Office,North,Online Store,1,48.79,0.15,48.79,41.47,24.85,16.62
+SO-10046,2024-11-27,C1301,Air Fryer,Home & Kitchen,South,Retail Store,2,132.71,0.0,265.42,265.42,140.31,125.11
+SO-10046,2024-11-27,C1301,Air Fryer,Home & Kitchen,South,Retail Store,2,132.71,0.0,265.42,265.42,140.31,125.11
+SO-10058,2024-11-28,C1156,Air Fryer,Home & Kitchen,West,Retail Store,2,127.99,0.05,255.98,243.18,140.27,102.91
+SO-10009,2024-11-29,C1254,Air Fryer,Home & Kitchen,East,Online Store,1,128.92,0.05,128.92,122.47,71.3,51.17
+SO-10024,2024-11-29,C1147,Ceramic Vase,Home & Kitchen,North,Retail Store,4,39.64,0.05,158.56,150.63,67.14,83.49
+SO-10025,2024-11-29,C1156,Desk Lamp,Office,West,Retail Store,1,48.26,0.15,48.26,41.02,24.54,16.48
+SO-10043,2024-11-29,C1252,Smart Watch,Electronics,North,Retail Store,1,197.39,0.0,197.39,197.39,127.82,69.57
+SO-10031,2024-11-30,C1262,Air Fryer,Home & Kitchen,North,Marketplace,2,129.17,0.1,258.34,232.51,141.07,91.44
+SO-10045,2024-11-30,C1213,Smart Watch,Electronics,South,Marketplace,1,199.04,0.0,199.04,199.04,125.63,73.41
+SO-10074,2024-12-01,C1099,Notebook Pack,Office,North,Marketplace,4,14.74,0.0,58.96,58.96,23.44,35.52
+SO-10079,2024-12-03,C1229,Cotton T-Shirt,Apparel,West,Retail Store,3,19.12,0.0,57.36,57.36,20.05,37.31
+SO-10091,2024-12-03,C1025,Ceramic Vase,Home & Kitchen,West,Marketplace,2,39.4,0.15,78.8,66.98,32.41,34.57
+SO-10080,2024-12-04,C1061,Espresso Maker,Home & Kitchen,West,Online Store,1,241.48,0.05,241.48,229.41,137.68,91.73
+SO-10109,2024-12-04,C1177,Denim Jacket,Apparel,West,Online Store,1,86.49,0.05,86.49,82.17,36.28,45.89
+SO-10086,2024-12-05,C1217,Wool Scarf,Apparel,West,Online Store,4,28.35,0.05,113.4,107.73,44.56,63.17
+SO-10097,2024-12-05,C1032,Wool Scarf,Apparel,Central,Marketplace,4,29.0,0.15,116.0,98.6,44.55,54.05
+SO-10066,2024-12-06,C1147,Bluetooth Speaker,Electronics,West,Online Store,1,57.64,0.0,57.64,57.64,34.74,22.9
+SO-10111,2024-12-06,C1197,Notebook Pack,Office,South,Online Store,1,15.46,0.15,15.46,13.14,6.0,7.14
+SO-10110,2024-12-08,C1083,Running Shoes,Apparel,Central,Marketplace,2,98.45,0.0,196.9,196.9,86.75,110.15
+SO-10115,2024-12-08,C1033,Cotton T-Shirt,Apparel,West,Online Store,4,18.44,0.0,73.76,73.76,26.96,46.8
+SO-10073,2024-12-09,C1141,Cotton T-Shirt,Apparel,North,Retail Store,1,18.93,0.05,18.93,17.98,6.82,11.16
+SO-10101,2024-12-09,C1301,Hair Dryer,Beauty,West,Online Store,3,91.25,0.0,273.75,273.75,128.93,144.82
+SO-10122,2024-12-09,C1312,Skincare Set,Beauty,Central,Online Store,1,66.42,0.1,66.42,59.78,23.45,36.33
+SO-10089,2024-12-10,C1147,Wool Scarf,Apparel,West,Online Store,4,29.21,0.05,116.84,111.0,44.28,66.72
+SO-10075,2024-12-11,C1167,Bluetooth Speaker,Electronics,North,Marketplace,2,57.26,0.1,114.52,103.07,68.16,34.91
+SO-10084,2024-12-11,C1187,Laptop Stand,Electronics,North,Marketplace,4,45.12,0.15,180.48,153.41,96.05,57.36
+SO-10071,2024-12-12,C1217,Hair Dryer,Beauty,South,Marketplace,2,85.59,0.0,171.18,171.18,85.81,85.37
+SO-10098,2024-12-15,C1301,Ceramic Vase,Home & Kitchen,South,Online Store,3,38.69,0.0,116.07,116.07,49.27,66.8
+SO-10104,2024-12-15,C1167,Wireless Earbuds,Electronics,North,Online Store,4,80.2,0.1,320.8,288.72,185.1,103.62
+SO-10107,2024-12-15,C1071,Bluetooth Speaker,Electronics,West,Retail Store,1,60.48,0.15,60.48,51.41,34.04,17.37
+SO-10114,2024-12-15,C1274,Wool Scarf,Apparel,West,Retail Store,3,29.72,0.1,89.16,80.24,33.45,46.79
+SO-10067,2024-12-16,C1213,Skincare Set,Beauty,South,Marketplace,3,65.74,0.15,197.22,167.64,68.51,99.13
+SO-10083,2024-12-16,C1252,Air Fryer,Home & Kitchen,North,Online Store,2,129.44,0.15,258.88,220.05,141.79,78.26
+SO-10087,2024-12-16,C1035,Wireless Earbuds,Electronics,South,Online Store,1,82.08,0.0,82.08,82.08,48.17,33.91
+SO-10100,2024-12-16,C1308,Wireless Earbuds,Electronics,South,Marketplace,1,81.64,0.05,81.64,77.56,48.37,29.19
+SO-10112,2024-12-16,C1167,Running Shoes,Apparel,South,Marketplace,1,96.62,0.0,96.62,96.62,44.19,52.43
+SO-10119,2024-12-16,C1156,Cotton T-Shirt,Apparel,East,Retail Store,3,18.66,0.0,55.98,55.98,20.18,35.8
+SO-10082,2024-12-17,C1213,Espresso Maker,Home & Kitchen,West,Online Store,3,256.12,0.0,768.36,768.36,432.85,335.51
+SO-10102,2024-12-17,C1050,Cotton T-Shirt,Apparel,West,Wholesale,8,19.31,0.12,154.48,135.94,52.4,83.54
+SO-10070,2024-12-18,C1034,Air Fryer,Home & Kitchen,East,Online Store,2,124.79,0.0,249.58,249.58,144.25,105.33
+SO-10103,2024-12-18,C1213,Desk Lamp,Office,North,Online Store,3,50.18,0.0,150.54,150.54,74.26,76.28
+SO-10076,2024-12-19,C1122,Running Shoes,Apparel,West,Retail Store,1,98.29,0.1,98.29,88.46,43.35,45.11
+SO-10078,2024-12-19,C1143,Cotton T-Shirt,Apparel,North,Marketplace,2,19.66,0.0,39.32,39.32,13.65,25.67
+SO-10095,2024-12-19,C1164,Notebook Pack,Office,West,Retail Store,2,15.01,0.15,30.02,25.52,11.95,13.57
+SO-10116,2024-12-19,C1148,Notebook Pack,Office,South,Marketplace,1,14.68,0.0,14.68,14.68,5.95,8.73
+SO-10121,2024-12-19,C1138,Running Shoes,Apparel,Central,Retail Store,2,91.87,0.15,183.74,156.18,90.0,66.18
+SO-10124,2024-12-19,C1217,Denim Jacket,Apparel,East,Online Store,1,84.77,0.15,84.77,72.05,36.33,35.72
+SO-10081,2024-12-20,C1214,Skincare Set,Beauty,West,Marketplace,3,66.16,0.1,198.48,178.63,70.0,108.63
+SO-10108,2024-12-20,C1167,Cookware Set,Home & Kitchen,East,Online Store,1,184.3,0.05,184.3,175.09,92.93,82.16
+SO-10113,2024-12-20,C1229,Wireless Earbuds,Electronics,East,Online Store,2,81.71,0.15,163.42,138.91,96.01,42.9
+SO-10123,2024-12-20,C1156,Hair Dryer,Beauty,East,Retail Store,1,85.91,0.15,85.91,73.02,43.95,29.07
+SO-10094,2024-12-21,C1217,Cookware Set,Home & Kitchen,West,Online Store,2,175.28,0.0,350.56,350.56,184.33,166.23
+SO-10068,2024-12-22,C1184,Laptop Stand,Electronics,Central,Online Store,2,46.35,0.05,92.7,88.06,46.89,41.17
+SO-10077,2024-12-22,C1130,Wool Scarf,Apparel,North,Retail Store,2,30.06,0.15,60.12,51.1,21.59,29.51
+SO-10117,2024-12-24,C1213,Wool Scarf,Apparel,North,Online Store,3,28.94,0.0,86.82,86.82,32.12,54.7
+SO-10118,2024-12-24,C1214,Ergonomic Chair,Office,East,Retail Store,1,323.31,0.1,323.31,290.98,203.24,87.74
+SO-10125,2024-12-24,C1217,Notebook Pack,Office,East,Online Store,3,14.46,0.0,43.38,43.38,18.12,25.26
+SO-10105,2024-12-25,C1156,Cookware Set,Home & Kitchen,North,Marketplace,1,173.11,0.0,173.11,173.11,95.85,77.26
+SO-10106,2024-12-25,C1268,Denim Jacket,Apparel,West,Wholesale,8,81.69,0.12,653.52,575.1,301.37,273.73
+SO-10069,2024-12-26,C1101,Desk Lamp,Office,North,Wholesale,9,49.24,0.15,443.16,376.69,218.6,158.09
+SO-10085,2024-12-26,C1001,Cotton T-Shirt,Apparel,North,Online Store,4,19.42,0.15,77.68,66.03,26.77,39.26
+SO-10072,2024-12-27,C1086,Air Fryer,Home & Kitchen,South,Marketplace,3,128.51,0.0,385.53,385.53,210.45,175.08
+SO-10088,2024-12-27,C1038,Notebook Pack,Office,North,Online Store,2,14.77,0.05,29.54,28.06,12.2,15.86
+SO-10096,2024-12-27,C1301,Denim Jacket,Apparel,Central,Marketplace,2,84.2,0.05,168.4,159.98,73.85,86.13
+SO-10092,2024-12-28,C1207,Cookware Set,Home & Kitchen,Central,Retail Store,1,185.41,0.15,185.41,157.6,94.64,62.96
+SO-10090,2024-12-29,C1208,Desk Lamp,Office,East,Retail Store,2,47.33,0.15,94.66,80.46,47.69,32.77
+SO-10093,2024-12-30,C1130,Bluetooth Speaker,Electronics,North,Wholesale,7,58.86,0.12,412.02,362.58,238.17,124.41
+SO-10099,2024-12-30,C1295,Notebook Pack,Office,East,Retail Store,1,14.5,0.05,14.5,13.77,5.87,7.9
+SO-10120,2024-12-31,C1213,Skincare Set,Beauty,West,Wholesale,10,65.59,0.12,655.9,577.19,229.74,347.45
+SO-10129,2025-01-01,C1099,Cotton T-Shirt,Apparel,North,Online Store,1,18.45,0.05,18.45,17.53,6.61,10.92
+SO-10134,2025-01-02,C1114,Running Shoes,Apparel,North,Marketplace,4,94.93,0.0,379.72,379.72,172.43,207.29
+SO-10160,2025-01-02,C1148,Running Shoes,Apparel,North,Online Store,1,95.73,0.15,95.73,81.37,44.35,37.02
+SO-10146,2025-01-03,C1283,Hair Dryer,Beauty,North,Online Store,2,86.44,0.0,172.88,172.88,87.46,85.42
+SO-10140,2025-01-04,C1101,Wireless Earbuds,Electronics,East,Online Store,1,81.29,0.05,81.29,77.23,48.69,28.54
+SO-10167,2025-01-04,C1283,Skincare Set,Beauty,West,Online Store,1,66.66,0.05,66.66,63.33,23.26,40.07
+SO-10133,2025-01-05,C1167,Smart Watch,Electronics,West,Marketplace,1,196.11,0.0,196.11,196.11,123.92,72.19
+SO-10128,2025-01-06,C1067,Hair Dryer,Beauty,Central,Marketplace,4,90.7,0.05,362.8,344.66,168.34,176.32
+SO-10158,2025-01-07,C1018,Cotton T-Shirt,Apparel,Central,Retail Store,4,18.95,0.0,75.8,75.8,26.35,49.45
+SO-10168,2025-01-07,C1213,Wireless Earbuds,Electronics,North,Retail Store,1,77.05,0.15,77.05,65.49,47.4,18.09
+SO-10130,2025-01-08,C1229,Hair Dryer,Beauty,North,Retail Store,1,86.85,0.0,86.85,86.85,43.27,43.58
+SO-10153,2025-01-08,C1213,Wireless Earbuds,Electronics,Central,Marketplace,1,79.17,0.1,79.17,71.25,48.02,23.23
+SO-10166,2025-01-08,C1025,Smart Watch,Electronics,West,Retail Store,1,192.27,0.05,192.27,182.66,125.95,56.71
+SO-10143,2025-01-09,C1159,Cotton T-Shirt,Apparel,East,Marketplace,2,19.55,0.05,39.1,37.15,12.94,24.21
+SO-10141,2025-01-10,C1283,Bluetooth Speaker,Electronics,North,Online Store,1,56.92,0.05,56.92,54.07,34.81,19.26
+SO-10151,2025-01-10,C1207,Air Fryer,Home & Kitchen,East,Online Store,1,124.22,0.15,124.22,105.59,72.74,32.85
+SO-10142,2025-01-11,C1290,Wireless Earbuds,Electronics,West,Marketplace,4,75.92,0.0,303.68,303.68,186.5,117.18
+SO-10162,2025-01-11,C1046,Espresso Maker,Home & Kitchen,West,Marketplace,2,252.73,0.15,505.46,429.64,281.11,148.53
+SO-10159,2025-01-12,C1117,Cookware Set,Home & Kitchen,Central,Retail Store,1,181.35,0.0,181.35,181.35,95.23,86.12
+SO-10155,2025-01-13,C1210,Desk Lamp,Office,East,Marketplace,2,48.78,0.15,97.56,82.93,48.46,34.47
+SO-10163,2025-01-13,C1083,Wool Scarf,Apparel,East,Online Store,4,29.48,0.0,117.92,117.92,42.78,75.14
+SO-10144,2025-01-15,C1120,Hair Dryer,Beauty,Central,Retail Store,1,85.99,0.05,85.99,81.69,41.68,40.01
+SO-10147,2025-01-15,C1156,Skincare Set,Beauty,West,Marketplace,3,65.49,0.1,196.47,176.82,68.27,108.55
+SO-10152,2025-01-15,C1207,Smart Watch,Electronics,West,Online Store,3,206.63,0.0,619.89,619.89,392.49,227.4
+SO-10154,2025-01-15,C1152,Skincare Set,Beauty,West,Marketplace,4,67.07,0.1,268.28,241.45,93.85,147.6
+SO-10169,2025-01-16,C1038,Desk Lamp,Office,East,Retail Store,3,47.41,0.0,142.23,142.23,73.9,68.33
+SO-10165,2025-01-17,C1281,Skincare Set,Beauty,North,Wholesale,6,65.37,0.12,392.22,345.15,141.68,203.47
+SO-10139,2025-01-18,C1217,Cotton T-Shirt,Apparel,North,Online Store,2,19.28,0.05,38.56,36.63,12.98,23.65
+SO-10157,2025-01-18,C1045,Skincare Set,Beauty,Central,Marketplace,1,66.33,0.1,66.33,59.7,23.43,36.27
+SO-10132,2025-01-19,C1061,Cookware Set,Home & Kitchen,North,Online Store,1,176.71,0.0,176.71,176.71,93.62,83.09
+SO-10145,2025-01-19,C1244,Smart Watch,Electronics,East,Online Store,4,205.6,0.05,822.4,781.28,514.74,266.54
+SO-10138,2025-01-20,C1130,Denim Jacket,Apparel,East,Marketplace,2,86.37,0.1,172.74,155.47,73.66,81.81
+SO-10148,2025-01-21,C1101,Smart Watch,Electronics,East,Retail Store,2,198.57,0.1,397.14,357.43,256.49,100.94
+SO-10149,2025-01-21,C1319,Ergonomic Chair,Office,East,Retail Store,1,341.81,0.15,341.81,290.54,205.1,85.44
+SO-10136,2025-01-23,C1311,Wireless Earbuds,Electronics,North,Marketplace,2,78.53,0.15,157.06,133.5,94.3,39.2
+SO-10127,2025-01-24,C1229,Hair Dryer,Beauty,South,Online Store,3,87.87,0.1,263.61,237.25,125.03,112.22
+SO-10126,2025-01-26,C1229,Ceramic Vase,Home & Kitchen,West,Online Store,4,38.29,0.0,153.16,153.16,64.76,88.4
+SO-10161,2025-01-26,C1050,Cotton T-Shirt,Apparel,North,Marketplace,1,18.45,0.0,18.45,18.45,6.65,11.8
+SO-10135,2025-01-27,C1143,Espresso Maker,Home & Kitchen,Central,Online Store,1,248.7,0.05,248.7,236.26,145.19,91.07
+SO-10137,2025-01-29,C1034,Smart Watch,Electronics,South,Retail Store,1,201.18,0.15,201.18,171.0,126.91,44.09
+SO-10150,2025-01-29,C1217,Notebook Pack,Office,North,Wholesale,10,14.83,0.15,148.3,126.06,58.59,67.47
+SO-10164,2025-01-29,C1020,Air Fryer,Home & Kitchen,South,Retail Store,1,127.49,0.05,127.49,121.12,72.47,48.65
+SO-10156,2025-01-30,C1102,Cotton T-Shirt,Apparel,North,Marketplace,1,19.1,0.0,19.1,19.1,6.67,12.43
+SO-10131,2025-01-31,C1158,Skincare Set,Beauty,Central,Online Store,2,63.94,0.05,127.88,121.49,45.72,75.77
+SO-10172,2025-02-01,C1308,Wireless Earbuds,Electronics,West,Marketplace,3,77.55,0.05,232.65,221.02,142.25,78.77
+SO-10207,2025-02-01,C1082,Bluetooth Speaker,Electronics,Central,Retail Store,1,60.49,0.0,60.49,60.49,34.83,25.66
+SO-10214,2025-02-01,C1167,Bluetooth Speaker,Electronics,North,Online Store,1,61.35,0.0,61.35,61.35,33.8,27.55
+SO-10193,2025-02-02,C1067,Running Shoes,Apparel,West,Online Store,1,94.54,0.15,94.54,80.36,44.55,35.81
+SO-10203,2025-02-02,C1167,Cotton T-Shirt,Apparel,South,Online Store,2,18.96,0.15,37.92,32.23,13.38,18.85
+SO-10213,2025-02-03,C1213,Notebook Pack,Office,South,Online Store,2,14.57,0.15,29.14,24.77,11.97,12.8
+SO-10190,2025-02-05,C1000,Air Fryer,Home & Kitchen,West,Retail Store,1,130.67,0.05,130.67,124.14,69.85,54.29
+SO-10173,2025-02-07,C1293,Espresso Maker,Home & Kitchen,North,Online Store,4,255.91,0.15,1023.64,870.09,566.47,303.62
+SO-10182,2025-02-08,C1101,Hair Dryer,Beauty,West,Marketplace,3,91.92,0.15,275.76,234.4,128.66,105.74
+SO-10217,2025-02-08,C1076,Wireless Earbuds,Electronics,South,Online Store,2,77.33,0.05,154.66,146.93,93.88,53.05
+SO-10170,2025-02-10,C1308,Wireless Earbuds,Electronics,North,Online Store,2,81.32,0.0,162.64,162.64,93.52,69.12
+SO-10191,2025-02-10,C1120,Cotton T-Shirt,Apparel,South,Online Store,4,18.86,0.1,75.44,67.9,26.69,41.21
+SO-10184,2025-02-11,C1167,Ergonomic Chair,Office,East,Retail Store,1,318.34,0.0,318.34,318.34,196.87,121.47
+SO-10197,2025-02-11,C1285,Denim Jacket,Apparel,West,Retail Store,2,83.68,0.05,167.36,158.99,72.89,86.1
+SO-10201,2025-02-11,C1245,Cotton T-Shirt,Apparel,North,Online Store,4,19.54,0.1,78.16,70.34,26.9,43.44
+SO-10205,2025-02-11,C1305,Air Fryer,Home & Kitchen,North,Online Store,1,126.85,0.05,126.85,120.51,72.28,48.23
+SO-10208,2025-02-11,C1030,Ceramic Vase,Home & Kitchen,South,Retail Store,4,40.35,0.05,161.4,153.33,64.99,88.34
+SO-10171,2025-02-12,C1213,Running Shoes,Apparel,West,Marketplace,2,96.15,0.05,192.3,182.69,88.21,94.48
+SO-10179,2025-02-13,C1029,Cookware Set,Home & Kitchen,East,Marketplace,2,182.93,0.05,365.86,347.57,190.85,156.72
+SO-10181,2025-02-13,C1071,Denim Jacket,Apparel,Central,Marketplace,2,87.76,0.05,175.52,166.74,73.89,92.85
+SO-10185,2025-02-13,C1045,Running Shoes,Apparel,West,Online Store,1,98.79,0.05,98.79,93.85,44.85,49.0
+SO-10194,2025-02-14,C1151,Wireless Earbuds,Electronics,East,Retail Store,2,76.2,0.1,152.4,137.16,94.66,42.5
+SO-10202,2025-02-15,C1027,Running Shoes,Apparel,West,Retail Store,2,98.23,0.05,196.46,186.64,86.48,100.16
+SO-10198,2025-02-16,C1017,Desk Lamp,Office,Central,Online Store,4,49.37,0.0,197.48,197.48,95.6,101.88
+SO-10209,2025-02-16,C1301,Wireless Earbuds,Electronics,Central,Retail Store,2,80.18,0.0,160.36,160.36,92.66,67.7
+SO-10210,2025-02-16,C1067,Desk Lamp,Office,Central,Retail Store,2,49.52,0.15,99.04,84.18,47.59,36.59
+SO-10211,2025-02-16,C1167,Skincare Set,Beauty,South,Marketplace,1,66.96,0.05,66.96,63.61,23.56,40.05
+SO-10186,2025-02-17,C1152,Wireless Earbuds,Electronics,West,Retail Store,3,80.7,0.0,242.1,242.1,146.39,95.71
+SO-10204,2025-02-17,C1229,Running Shoes,Apparel,West,Marketplace,1,92.93,0.05,92.93,88.28,43.83,44.45
+SO-10187,2025-02-18,C1311,Cookware Set,Home & Kitchen,South,Marketplace,1,179.36,0.15,179.36,152.46,94.57,57.89
+SO-10174,2025-02-19,C1083,Ceramic Vase,Home & Kitchen,South,Online Store,2,39.45,0.0,78.9,78.9,31.85,47.05
+SO-10192,2025-02-19,C1120,Laptop Stand,Electronics,Central,Online Store,1,45.44,0.0,45.44,45.44,22.76,22.68
+SO-10178,2025-02-20,C1217,Hair Dryer,Beauty,Central,Online Store,2,87.12,0.15,174.24,148.1,83.64,64.46
+SO-10188,2025-02-20,C1229,Skincare Set,Beauty,Central,Wholesale,9,66.93,0.12,602.37,530.09,215.91,314.18
+SO-10206,2025-02-20,C1023,Ergonomic Chair,Office,East,Online Store,1,329.83,0.05,329.83,313.34,204.87,108.47
+SO-10212,2025-02-20,C1213,Ergonomic Chair,Office,North,Retail Store,1,324.72,0.05,324.72,308.48,202.74,105.74
+SO-10183,2025-02-21,C1213,Wool Scarf,Apparel,West,Retail Store,2,29.23,0.05,58.46,55.54,21.43,34.11
+SO-10199,2025-02-21,C1051,Denim Jacket,Apparel,North,Marketplace,2,83.22,0.1,166.44,149.8,72.81,76.99
+SO-10200,2025-02-21,C1229,Desk Lamp,Office,South,Online Store,1,50.92,0.05,50.92,48.37,24.6,23.77
+SO-10180,2025-02-22,C1167,Air Fryer,Home & Kitchen,South,Retail Store,4,130.52,0.1,522.08,469.87,276.93,192.94
+SO-10195,2025-02-23,C1208,Running Shoes,Apparel,Central,Retail Store,4,98.34,0.0,393.36,393.36,176.33,217.03
+SO-10215,2025-02-23,C1217,Cookware Set,Home & Kitchen,Central,Online Store,4,181.7,0.15,726.8,617.78,389.8,227.98
+SO-10176,2025-02-25,C1308,Ergonomic Chair,Office,South,Retail Store,2,332.68,0.0,665.36,665.36,412.0,253.36
+SO-10196,2025-02-25,C1277,Bluetooth Speaker,Electronics,Central,Retail Store,2,59.95,0.1,119.9,107.91,69.75,38.16
+SO-10177,2025-02-26,C1229,Cotton T-Shirt,Apparel,North,Online Store,2,18.42,0.15,36.84,31.31,13.27,18.04
+SO-10175,2025-02-27,C1055,Notebook Pack,Office,West,Marketplace,2,14.9,0.0,29.8,29.8,11.86,17.94
+SO-10189,2025-02-27,C1210,Ergonomic Chair,Office,North,Marketplace,2,327.57,0.0,655.14,655.14,394.47,260.67
+SO-10216,2025-02-27,C1229,Espresso Maker,Home & Kitchen,East,Online Store,2,248.0,0.0,496.0,496.0,288.69,207.31
+SO-10242,2025-03-01,C1158,Bluetooth Speaker,Electronics,North,Online Store,3,57.86,0.05,173.58,164.9,104.75,60.15
+SO-10254,2025-03-01,C1281,Denim Jacket,Apparel,East,Online Store,3,83.93,0.0,251.79,251.79,110.35,141.44
+SO-10235,2025-03-02,C1126,Desk Lamp,Office,East,Online Store,2,47.73,0.0,95.46,95.46,49.72,45.74
+SO-10239,2025-03-02,C1156,Smart Watch,Electronics,East,Online Store,1,204.66,0.0,204.66,204.66,127.83,76.83
+SO-10244,2025-03-02,C1126,Skincare Set,Beauty,North,Marketplace,1,65.92,0.15,65.92,56.03,23.24,32.79
+SO-10224,2025-03-03,C1217,Smart Watch,Electronics,North,Retail Store,1,203.62,0.0,203.62,203.62,127.3,76.32
+SO-10240,2025-03-03,C1164,Denim Jacket,Apparel,North,Marketplace,1,82.71,0.0,82.71,82.71,36.56,46.15
+SO-10233,2025-03-04,C1132,Running Shoes,Apparel,South,Retail Store,1,92.55,0.05,92.55,87.92,43.27,44.65
+SO-10251,2025-03-04,C1184,Hair Dryer,Beauty,East,Marketplace,1,90.09,0.15,90.09,76.58,42.02,34.56
+SO-10227,2025-03-05,C1029,Cookware Set,Home & Kitchen,West,Marketplace,2,175.59,0.1,351.18,316.06,191.83,124.23
+SO-10249,2025-03-05,C1310,Denim Jacket,Apparel,West,Retail Store,2,84.44,0.0,168.88,168.88,75.15,93.73
+SO-10252,2025-03-05,C1167,Laptop Stand,Electronics,Central,Marketplace,2,45.71,0.0,91.42,91.42,47.97,43.45
+SO-10226,2025-03-06,C1027,Desk Lamp,Office,East,Retail Store,1,48.77,0.05,48.77,46.33,24.06,22.27
+SO-10241,2025-03-07,C1318,Ceramic Vase,Home & Kitchen,East,Online Store,1,38.12,0.1,38.12,34.31,16.29,18.02
+SO-10218,2025-03-08,C1217,Ceramic Vase,Home & Kitchen,North,Marketplace,2,39.93,0.05,79.86,75.87,32.25,43.62
+SO-10228,2025-03-08,C1209,Smart Watch,Electronics,Central,Marketplace,2,202.19,0.05,404.38,384.16,256.87,127.29
+SO-10243,2025-03-08,C1213,Smart Watch,Electronics,West,Online Store,2,204.01,0.15,408.02,346.82,258.59,88.23
+SO-10247,2025-03-08,C1059,Hair Dryer,Beauty,East,Online Store,2,87.76,0.0,175.52,175.52,85.6,89.92
+SO-10221,2025-03-09,C1313,Air Fryer,Home & Kitchen,North,Wholesale,7,132.47,0.12,927.29,816.02,493.88,322.14
+SO-10230,2025-03-09,C1027,Espresso Maker,Home & Kitchen,West,Wholesale,10,255.92,0.12,2559.2,2252.1,1406.07,846.03
+SO-10236,2025-03-10,C1076,Wireless Earbuds,Electronics,West,Online Store,4,75.97,0.15,303.88,258.3,192.8,65.5
+SO-10258,2025-03-10,C1198,Espresso Maker,Home & Kitchen,North,Online Store,1,241.68,0.05,241.68,229.6,139.71,89.89
+SO-10229,2025-03-11,C1224,Cotton T-Shirt,Apparel,Central,Online Store,1,18.57,0.15,18.57,15.78,6.84,8.94
+SO-10232,2025-03-11,C1217,Cookware Set,Home & Kitchen,West,Marketplace,4,176.41,0.0,705.64,705.64,372.55,333.09
+SO-10225,2025-03-12,C1217,Running Shoes,Apparel,East,Online Store,1,97.06,0.15,97.06,82.5,44.95,37.55
+SO-10245,2025-03-12,C1002,Running Shoes,Apparel,West,Online Store,1,94.9,0.05,94.9,90.16,42.44,47.72
+SO-10250,2025-03-12,C1167,Air Fryer,Home & Kitchen,South,Online Store,1,128.91,0.1,128.91,116.02,71.76,44.26
+SO-10219,2025-03-14,C1287,Smart Watch,Electronics,West,Marketplace,1,195.79,0.15,195.79,166.42,127.74,38.68
+SO-10246,2025-03-14,C1032,Hair Dryer,Beauty,West,Online Store,3,85.88,0.0,257.64,257.64,126.74,130.9
+SO-10231,2025-03-16,C1167,Wool Scarf,Apparel,West,Online Store,4,28.65,0.05,114.6,108.87,42.78,66.09
+SO-10223,2025-03-17,C1314,Notebook Pack,Office,East,Online Store,3,15.16,0.0,45.48,45.48,18.01,27.47
+SO-10248,2025-03-17,C1218,Desk Lamp,Office,West,Retail Store,3,50.49,0.05,151.47,143.9,75.43,68.47
+SO-10260,2025-03-17,C1076,Bluetooth Speaker,Electronics,West,Online Store,1,60.83,0.15,60.83,51.71,33.63,18.08
+SO-10237,2025-03-18,C1167,Smart Watch,Electronics,West,Marketplace,1,204.77,0.0,204.77,204.77,124.01,80.76
+SO-10238,2025-03-19,C1060,Laptop Stand,Electronics,East,Retail Store,4,45.31,0.0,181.24,181.24,94.08,87.16
+SO-10253,2025-03-19,C1165,Wireless Earbuds,Electronics,South,Retail Store,2,79.11,0.1,158.22,142.4,96.8,45.6
+SO-10255,2025-03-23,C1293,Wool Scarf,Apparel,East,Online Store,1,29.0,0.0,29.0,29.0,11.21,17.79
+SO-10220,2025-03-24,C1213,Skincare Set,Beauty,North,Online Store,1,63.9,0.1,63.9,57.51,24.03,33.48
+SO-10234,2025-03-26,C1099,Air Fryer,Home & Kitchen,Central,Online Store,2,125.38,0.05,250.76,238.22,140.43,97.79
+SO-10259,2025-03-28,C1038,Denim Jacket,Apparel,North,Marketplace,2,86.26,0.1,172.52,155.27,76.06,79.21
+SO-10256,2025-03-30,C1141,Notebook Pack,Office,South,Online Store,1,14.62,0.05,14.62,13.89,6.13,7.76
+SO-10257,2025-03-30,C1313,Bluetooth Speaker,Electronics,Central,Wholesale,6,57.43,0.12,344.58,303.23,200.64,102.59
+SO-10222,2025-03-31,C1118,Cotton T-Shirt,Apparel,East,Marketplace,1,19.62,0.05,19.62,18.64,6.78,11.86
+SO-10270,2025-04-01,C1209,Bluetooth Speaker,Electronics,North,Marketplace,2,57.25,0.05,114.5,108.77,66.56,42.21
+SO-10298,2025-04-02,C1217,Wireless Earbuds,Electronics,East,Marketplace,1,80.06,0.1,80.06,72.05,47.13,24.92
+SO-10287,2025-04-03,C1036,Air Fryer,Home & Kitchen,West,Marketplace,3,133.18,0.0,399.54,399.54,208.56,190.98
+SO-10292,2025-04-03,C1312,Ergonomic Chair,Office,West,Marketplace,2,324.58,0.05,649.16,616.7,397.27,219.43
+SO-10265,2025-04-04,C1141,Cookware Set,Home & Kitchen,South,Retail Store,2,182.0,0.05,364.0,345.8,193.36,152.44
+SO-10278,2025-04-04,C1066,Cotton T-Shirt,Apparel,West,Online Store,4,19.53,0.1,78.12,70.31,27.3,43.01
+SO-10274,2025-04-05,C1032,Desk Lamp,Office,North,Online Store,3,48.27,0.05,144.81,137.57,75.51,62.06
+SO-10284,2025-04-06,C1038,Hair Dryer,Beauty,South,Marketplace,1,90.73,0.15,90.73,77.12,43.17,33.95
+SO-10302,2025-04-06,C1244,Hair Dryer,Beauty,North,Online Store,2,87.57,0.15,175.14,148.87,85.35,63.52
+SO-10310,2025-04-06,C1053,Cookware Set,Home & Kitchen,West,Online Store,2,173.48,0.05,346.96,329.61,192.93,136.68
+SO-10275,2025-04-07,C1210,Cotton T-Shirt,Apparel,North,Marketplace,2,18.55,0.0,37.1,37.1,13.2,23.9
+SO-10277,2025-04-07,C1156,Wireless Earbuds,Electronics,West,Online Store,1,76.51,0.1,76.51,68.86,47.28,21.58
+SO-10296,2025-04-08,C1135,Skincare Set,Beauty,South,Retail Store,2,66.34,0.15,132.68,112.78,46.56,66.22
+SO-10315,2025-04-08,C1207,Notebook Pack,Office,Central,Marketplace,1,15.57,0.1,15.57,14.01,5.88,8.13
+SO-10273,2025-04-09,C1138,Smart Watch,Electronics,North,Online Store,3,191.35,0.1,574.05,516.64,393.11,123.53
+SO-10299,2025-04-09,C1137,Laptop Stand,Electronics,South,Retail Store,1,46.32,0.05,46.32,44.0,23.83,20.17
+SO-10311,2025-04-09,C1189,Running Shoes,Apparel,North,Online Store,1,97.94,0.0,97.94,97.94,43.95,53.99
+SO-10283,2025-04-11,C1151,Notebook Pack,Office,North,Marketplace,2,14.41,0.0,28.82,28.82,12.1,16.72
+SO-10288,2025-04-11,C1076,Cotton T-Shirt,Apparel,Central,Marketplace,2,19.71,0.1,39.42,35.48,13.65,21.83
+SO-10293,2025-04-11,C1283,Wool Scarf,Apparel,South,Online Store,2,28.25,0.0,56.5,56.5,21.91,34.59
+SO-10267,2025-04-12,C1167,Skincare Set,Beauty,Central,Retail Store,4,64.71,0.0,258.84,258.84,93.41,165.43
+SO-10307,2025-04-12,C1167,Wool Scarf,Apparel,West,Retail Store,2,28.75,0.05,57.5,54.62,21.72,32.9
+SO-10261,2025-04-13,C1229,Running Shoes,Apparel,North,Online Store,4,96.85,0.15,387.4,329.29,172.06,157.23
+SO-10316,2025-04-13,C1120,Wool Scarf,Apparel,Central,Marketplace,1,29.65,0.05,29.65,28.17,11.11,17.06
+SO-10281,2025-04-14,C1229,Desk Lamp,Office,West,Marketplace,1,48.6,0.0,48.6,48.6,23.9,24.7
+SO-10306,2025-04-14,C1318,Ergonomic Chair,Office,South,Retail Store,1,331.33,0.0,331.33,331.33,199.85,131.48
+SO-10286,2025-04-15,C1137,Air Fryer,Home & Kitchen,East,Online Store,1,129.45,0.0,129.45,129.45,72.78,56.67
+SO-10304,2025-04-15,C1083,Cotton T-Shirt,Apparel,North,Marketplace,3,19.69,0.05,59.07,56.12,20.45,35.67
+SO-10280,2025-04-16,C1301,Hair Dryer,Beauty,South,Marketplace,2,91.54,0.05,183.08,173.93,87.62,86.31
+SO-10263,2025-04-17,C1213,Running Shoes,Apparel,North,Marketplace,2,95.59,0.05,191.18,181.62,88.04,93.58
+SO-10264,2025-04-17,,Cotton T-Shirt,Apparel,West,Retail Store,1,19.5,0.05,19.5,18.52,6.62,11.9
+SO-10276,2025-04-17,C1081,Air Fryer,Home & Kitchen,East,Marketplace,1,131.59,0.05,131.59,125.01,72.69,52.32
+SO-10303,2025-04-17,C1254,Wireless Earbuds,Electronics,West,Online Store,3,78.58,0.0,235.74,235.74,139.54,96.2
+SO-10313,2025-04-17,C1099,Ceramic Vase,Home & Kitchen,North,Online Store,2,39.03,0.1,78.06,70.25,33.5,36.75
+SO-10291,2025-04-18,C1213,Laptop Stand,Electronics,South,Marketplace,1,46.09,0.0,46.09,46.09,23.38,22.71
+SO-10305,2025-04-18,C1283,Air Fryer,Home & Kitchen,East,Marketplace,1,130.17,0.1,130.17,117.15,70.53,46.62
+SO-10308,2025-04-18,C1317,Cookware Set,Home & Kitchen,West,Marketplace,4,172.01,0.1,688.04,619.24,380.0,239.24
+SO-10271,2025-04-19,C1140,Denim Jacket,Apparel,West,Retail Store,2,88.06,0.0,176.12,176.12,73.91,102.21
+SO-10290,2025-04-20,C1045,Skincare Set,Beauty,East,Marketplace,4,63.7,0.05,254.8,242.06,95.55,146.51
+SO-10289,2025-04-21,C1167,Cotton T-Shirt,Apparel,Central,Marketplace,1,19.37,0.05,19.37,18.4,6.67,11.73
+SO-10294,2025-04-21,C1205,Hair Dryer,Beauty,West,Online Store,1,92.18,0.05,92.18,87.57,43.49,44.08
+SO-10309,2025-04-21,C1142,Cotton T-Shirt,Apparel,East,Retail Store,1,19.23,0.05,19.23,18.27,6.47,11.8
+SO-10268,2025-04-24,C1156,Cookware Set,Home & Kitchen,East,Retail Store,1,172.88,0.05,172.88,164.24,92.62,71.62
+SO-10279,2025-04-24,C1167,Wool Scarf,Apparel,West,Marketplace,1,28.62,0.0,28.62,28.62,10.85,17.77
+SO-10314,2025-04-24,C1097,Denim Jacket,Apparel,East,Marketplace,3,84.8,0.0,254.4,254.4,110.04,144.36
+SO-10285,2025-04-25,C1294,Cotton T-Shirt,Apparel,East,Marketplace,1,19.42,0.0,19.42,19.42,6.47,12.95
+SO-10312,2025-04-25,C1090,Notebook Pack,Office,East,Online Store,1,15.37,0.05,15.37,14.6,6.12,8.48
+SO-10301,2025-04-27,C1311,Desk Lamp,Office,East,Marketplace,1,50.45,0.0,50.45,50.45,24.42,26.03
+SO-10266,2025-04-28,C1199,Laptop Stand,Electronics,West,Retail Store,1,46.64,0.0,46.64,46.64,23.48,23.16
+SO-10269,2025-04-28,C1156,Wireless Earbuds,Electronics,East,Marketplace,4,76.51,0.0,306.04,306.04,184.55,121.49
+SO-10272,2025-04-28,C1217,Skincare Set,Beauty,North,Online Store,1,65.51,0.0,65.51,65.51,23.49,42.02
+SO-10295,2025-04-28,C1143,Air Fryer,Home & Kitchen,South,Online Store,2,125.03,0.0,250.06,250.06,146.03,104.03
+SO-10297,2025-04-29,C1141,Running Shoes,Apparel,North,Marketplace,1,97.1,0.15,97.1,82.53,44.35,38.18
+SO-10300,2025-04-29,C1156,Skincare Set,Beauty,North,Online Store,2,65.85,0.05,131.7,125.11,45.75,79.36
+SO-10262,2025-04-30,C1261,Running Shoes,Apparel,South,Online Store,2,95.75,0.0,191.5,191.5,86.27,105.23
+SO-10282,2025-04-30,C1072,Notebook Pack,Office,North,Marketplace,1,14.83,0.15,14.83,12.61,6.02,6.59
+SO-10364,2025-05-02,C1038,Wireless Earbuds,Electronics,South,Online Store,4,77.68,0.0,310.72,310.72,184.11,126.61
+SO-10375,2025-05-02,C1101,Notebook Pack,Office,North,Marketplace,1,15.46,0.1,15.46,13.91,6.08,7.83
+SO-10346,2025-05-03,C1230,Denim Jacket,Apparel,Central,Retail Store,1,81.97,0.05,81.97,77.87,37.85,40.02
+SO-10377,2025-05-04,C1017,Skincare Set,Beauty,East,Marketplace,1,65.57,0.0,65.57,65.57,22.9,42.67
+SO-10384,2025-05-04,C1217,Hair Dryer,Beauty,West,Retail Store,1,86.73,0.05,86.73,82.39,42.28,40.11
+SO-10318,2025-05-05,C1301,Air Fryer,Home & Kitchen,South,Marketplace,4,132.84,0.05,531.36,504.79,283.08,221.71
+SO-10344,2025-05-05,C1071,Ceramic Vase,Home & Kitchen,East,Online Store,2,38.33,0.05,76.66,72.83,33.66,39.17
+SO-10383,2025-05-05,C1141,Wool Scarf,Apparel,East,Retail Store,2,28.17,0.15,56.34,47.89,21.64,26.25
+SO-10339,2025-05-06,C1118,Laptop Stand,Electronics,Central,Online Store,2,43.48,0.15,86.96,73.92,46.55,27.37
+SO-10342,2025-05-06,C1147,Bluetooth Speaker,Electronics,South,Retail Store,3,59.01,0.0,177.03,177.03,104.87,72.16
+SO-10329,2025-05-07,C1184,Running Shoes,Apparel,South,Marketplace,2,97.83,0.1,195.66,176.09,88.59,87.5
+SO-10340,2025-05-07,C1283,Ceramic Vase,Home & Kitchen,Central,Wholesale,8,39.31,0.12,314.48,276.74,132.45,144.29
+SO-10360,2025-05-07,C1014,Wool Scarf,Apparel,South,Marketplace,4,29.15,0.15,116.6,99.11,44.5,54.61
+SO-10386,2025-05-07,C1078,Ergonomic Chair,Office,North,Online Store,2,339.33,0.1,678.66,610.79,393.81,216.98
+SO-10336,2025-05-08,C1156,Ergonomic Chair,Office,South,Online Store,2,324.09,0.0,648.18,648.18,391.42,256.76
+SO-10363,2025-05-08,C1213,Cookware Set,Home & Kitchen,Central,Online Store,4,178.04,0.05,712.16,676.55,384.94,291.61
+SO-10379,2025-05-08,C1143,Running Shoes,Apparel,North,Online Store,1,97.85,0.05,97.85,92.96,43.81,49.15
+SO-10389,2025-05-08,C1283,Ceramic Vase,Home & Kitchen,South,Online Store,1,37.78,0.1,37.78,34.0,16.6,17.4
+SO-10321,2025-05-09,C1265,Desk Lamp,Office,West,Online Store,3,49.0,0.0,147.0,147.0,75.06,71.94
+SO-10385,2025-05-09,C1194,Laptop Stand,Electronics,North,Marketplace,1,43.51,0.15,43.51,36.98,22.84,14.14
+SO-10387,2025-05-09,C1158,Running Shoes,Apparel,South,Marketplace,1,91.69,0.05,91.69,87.11,43.3,43.81
+SO-10335,2025-05-10,C1167,Running Shoes,Apparel,East,Marketplace,3,94.16,0.05,282.48,268.36,133.17,135.19
+SO-10326,2025-05-11,C1229,Ergonomic Chair,Office,North,Retail Store,2,322.91,0.15,645.82,548.95,390.79,158.16
+SO-10320,2025-05-12,C1147,Ceramic Vase,Home & Kitchen,West,Online Store,4,39.28,0.05,157.12,149.26,64.98,84.28
+SO-10322,2025-05-12,C1021,Wireless Earbuds,Electronics,East,Online Store,1,77.59,0.05,77.59,73.71,47.29,26.42
+SO-10323,2025-05-12,C1317,Desk Lamp,Office,South,Online Store,2,50.1,0.1,100.2,90.18,49.41,40.77
+SO-10330,2025-05-12,C1156,Ceramic Vase,Home & Kitchen,South,Marketplace,2,40.42,0.1,80.84,72.76,33.06,39.7
+SO-10343,2025-05-12,C1217,Bluetooth Speaker,Electronics,Central,Online Store,2,57.64,0.05,115.28,109.52,68.66,40.86
+SO-10380,2025-05-12,C1017,Running Shoes,Apparel,Central,Marketplace,1,98.46,0.15,98.46,83.69,44.06,39.63
+SO-10334,2025-05-13,C1229,Skincare Set,Beauty,South,Online Store,1,66.84,0.05,66.84,63.5,23.15,40.35
+SO-10381,2025-05-13,C1098,Cotton T-Shirt,Apparel,East,Wholesale,6,19.59,0.12,117.54,103.44,39.45,63.99
+SO-10382,2025-05-13,C1147,Bluetooth Speaker,Electronics,West,Online Store,3,60.89,0.05,182.67,173.54,104.51,69.03
+SO-10317,2025-05-14,C1211,Notebook Pack,Office,Central,Online Store,1,15.0,0.15,15.0,12.75,5.84,6.91
+SO-10345,2025-05-14,C1027,Wireless Earbuds,Electronics,East,Retail Store,2,82.06,0.1,164.12,147.71,95.66,52.05
+SO-10366,2025-05-14,C1313,Running Shoes,Apparel,West,Marketplace,1,98.7,0.05,98.7,93.77,43.51,50.26
+SO-10388,2025-05-14,C1126,Hair Dryer,Beauty,North,Marketplace,4,85.86,0.05,343.44,326.27,174.02,152.25
+SO-10327,2025-05-15,C1217,Hair Dryer,Beauty,South,Marketplace,2,91.19,0.05,182.38,173.26,83.0,90.26
+SO-10355,2025-05-15,C1217,Cotton T-Shirt,Apparel,West,Marketplace,1,19.35,0.0,19.35,19.35,6.46,12.89
+SO-10358,2025-05-15,C1007,Espresso Maker,Home & Kitchen,East,Retail Store,1,251.69,0.0,251.69,251.69,143.4,108.29
+SO-10348,2025-05-17,C1217,Air Fryer,Home & Kitchen,East,Marketplace,1,126.69,0.0,126.69,126.69,72.27,54.42
+SO-10350,2025-05-17,C1205,Cotton T-Shirt,Apparel,East,Marketplace,3,19.33,0.15,57.99,49.29,19.66,29.63
+SO-10351,2025-05-17,C1268,Cookware Set,Home & Kitchen,East,Marketplace,1,174.42,0.05,174.42,165.7,95.5,70.2
+SO-10352,2025-05-17,C1102,Skincare Set,Beauty,South,Online Store,1,63.1,0.05,63.1,59.95,23.62,36.33
+SO-10354,2025-05-17,C1101,Running Shoes,Apparel,East,Online Store,1,93.29,0.0,93.29,93.29,44.23,49.06
+SO-10333,2025-05-18,C1101,Ceramic Vase,Home & Kitchen,South,Online Store,2,39.56,0.15,79.12,67.25,32.37,34.88
+SO-10367,2025-05-19,C1060,Skincare Set,Beauty,West,Retail Store,1,66.88,0.0,66.88,66.88,24.01,42.87
+SO-10324,2025-05-20,C1149,Air Fryer,Home & Kitchen,West,Online Store,1,129.23,0.0,129.23,129.23,69.74,59.49
+SO-10331,2025-05-20,C1145,Bluetooth Speaker,Electronics,South,Marketplace,1,59.28,0.15,59.28,50.39,34.82,15.57
+SO-10369,2025-05-20,C1217,Laptop Stand,Electronics,East,Retail Store,2,43.35,0.15,86.7,73.7,46.26,27.44
+SO-10374,2025-05-20,C1213,Laptop Stand,Electronics,South,Marketplace,1,44.74,0.1,44.74,40.27,23.72,16.55
+SO-10362,2025-05-21,C1167,Ceramic Vase,Home & Kitchen,South,Online Store,4,38.85,0.1,155.4,139.86,64.68,75.18
+SO-10368,2025-05-21,C1167,Hair Dryer,Beauty,Central,Retail Store,1,87.24,0.0,87.24,87.24,42.55,44.69
+SO-10359,2025-05-22,C1061,Desk Lamp,Office,South,Retail Store,2,48.87,0.05,97.74,92.85,49.02,43.83
+SO-10365,2025-05-22,C1014,Espresso Maker,Home & Kitchen,North,Marketplace,2,241.21,0.05,482.42,458.3,281.33,176.97
+SO-10325,2025-05-23,C1229,Laptop Stand,Electronics,Central,Marketplace,1,44.12,0.0,44.12,44.12,23.61,20.51
+SO-10341,2025-05-23,C1213,Air Fryer,Home & Kitchen,West,Online Store,1,129.99,0.0,129.99,129.99,69.26,60.73
+SO-10353,2025-05-23,C1229,Smart Watch,Electronics,South,Online Store,2,203.61,0.05,407.22,386.86,257.73,129.13
+SO-10376,2025-05-23,C1280,Running Shoes,Apparel,East,Online Store,4,92.19,0.0,368.76,368.76,176.64,192.12
+SO-10357,2025-05-24,C1290,Laptop Stand,Electronics,Central,Wholesale,5,46.63,0.12,233.15,205.17,119.73,85.44
+SO-10361,2025-05-24,C1030,Cotton T-Shirt,Apparel,West,Retail Store,1,19.69,0.0,19.69,19.69,6.49,13.2
+SO-10337,2025-05-25,C1217,Ceramic Vase,Home & Kitchen,North,Online Store,1,37.93,0.0,37.93,37.93,16.55,21.38
+SO-10356,2025-05-25,C1158,Skincare Set,Beauty,West,Online Store,1,62.68,0.15,62.68,53.28,23.5,29.78
+SO-10332,2025-05-26,C1001,Wool Scarf,Apparel,Central,Marketplace,4,28.09,0.05,112.36,106.74,43.59,63.15
+SO-10347,2025-05-26,C1273,Notebook Pack,Office,South,Marketplace,3,14.75,0.1,44.25,39.83,18.24,21.59
+SO-10390,2025-05-26,C1213,Cotton T-Shirt,Apparel,East,Retail Store,3,18.76,0.15,56.28,47.84,20.47,27.37
+SO-10338,2025-05-27,C1237,Wool Scarf,Apparel,West,Marketplace,3,29.92,0.15,89.76,76.3,33.64,42.66
+SO-10328,2025-05-28,C1301,Cotton T-Shirt,Apparel,West,Marketplace,1,18.77,0.0,18.77,18.77,6.64,12.13
+SO-10349,2025-05-28,C1222,Cotton T-Shirt,Apparel,West,Online Store,1,19.23,0.0,19.23,19.23,6.62,12.61
+SO-10373,2025-05-28,C1067,Cotton T-Shirt,Apparel,West,Online Store,1,19.22,0.0,19.22,19.22,6.58,12.64
+SO-10371,2025-05-29,C1087,Bluetooth Speaker,Electronics,West,Wholesale,8,56.81,0.15,454.48,386.31,268.85,117.46
+SO-10370,2025-05-30,C1148,Wireless Earbuds,Electronics,North,Retail Store,1,79.54,0.0,79.54,79.54,48.53,31.01
+SO-10372,2025-05-30,C1167,Denim Jacket,Apparel,East,Wholesale,10,87.3,0.15,873.0,742.05,371.17,370.88
+SO-10378,2025-05-30,C1092,Running Shoes,Apparel,East,Retail Store,3,94.52,0.0,283.56,283.56,128.23,155.33
+SO-10319,2025-05-31,C1212,Cotton T-Shirt,Apparel,West,Online Store,4,18.81,0.05,75.24,71.48,27.11,44.37
+SO-10406,2025-06-01,C1156,Desk Lamp,Office,West,Marketplace,1,50.33,0.15,50.33,42.78,24.79,17.99
+SO-10417,2025-06-01,C1158,Running Shoes,Apparel,West,Online Store,3,97.84,0.1,293.52,264.17,128.37,135.8
+SO-10445,2025-06-01,C1254,Notebook Pack,Office,South,Wholesale,6,15.59,0.12,93.54,82.32,35.35,46.97
+SO-10442,2025-06-03,C1027,Hair Dryer,Beauty,West,Retail Store,1,90.4,0.05,90.4,85.88,43.89,41.99
+SO-10391,2025-06-04,C1189,Ceramic Vase,Home & Kitchen,West,Online Store,2,37.76,0.1,75.52,67.97,33.58,34.39
+SO-10396,2025-06-04,C1197,Cotton T-Shirt,Apparel,East,Online Store,2,18.67,0.05,37.34,35.47,13.32,22.15
+SO-10425,2025-06-04,C1022,Cookware Set,Home & Kitchen,North,Retail Store,1,185.95,0.15,185.95,158.06,94.02,64.04
+SO-10407,2025-06-05,C1137,Running Shoes,Apparel,West,Online Store,2,94.6,0.15,189.2,160.82,85.24,75.58
+SO-10412,2025-06-05,C1083,Wool Scarf,Apparel,North,Marketplace,1,28.31,0.0,28.31,28.31,10.81,17.5
+SO-10431,2025-06-05,C1045,Wool Scarf,Apparel,North,Online Store,1,30.02,0.1,30.02,27.02,10.93,16.09
+SO-10435,2025-06-05,C1217,Skincare Set,Beauty,North,Retail Store,2,67.33,0.05,134.66,127.93,46.49,81.44
+SO-10441,2025-06-05,C1194,Espresso Maker,Home & Kitchen,East,Online Store,4,255.73,0.1,1022.92,920.63,584.26,336.37
+SO-10399,2025-06-06,C1150,Hair Dryer,Beauty,South,Retail Store,1,85.68,0.15,85.68,72.83,42.0,30.83
+SO-10419,2025-06-06,C1137,Bluetooth Speaker,Electronics,East,Marketplace,1,56.69,0.15,56.69,48.19,33.65,14.54
+SO-10420,2025-06-07,C1217,Air Fryer,Home & Kitchen,West,Online Store,1,131.66,0.0,131.66,131.66,70.94,60.72
+SO-10411,2025-06-08,C1158,Wool Scarf,Apparel,East,Online Store,1,28.0,0.0,28.0,28.0,11.24,16.76
+SO-10443,2025-06-08,C1156,Denim Jacket,Apparel,East,Online Store,4,85.03,0.05,340.12,323.11,147.01,176.1
+SO-10397,2025-06-09,C1097,Running Shoes,Apparel,West,Online Store,1,92.5,0.05,92.5,87.88,44.18,43.7
+SO-10403,2025-06-09,C1206,Running Shoes,Apparel,West,Wholesale,9,93.68,0.12,843.12,741.95,386.08,355.87
+SO-10405,2025-06-09,C1167,Wool Scarf,Apparel,West,Online Store,1,29.13,0.15,29.13,24.76,11.02,13.74
+SO-10444,2025-06-09,C1164,Air Fryer,Home & Kitchen,North,Online Store,1,130.35,0.15,130.35,110.8,69.08,41.72
+SO-10402,2025-06-11,C1285,Running Shoes,Apparel,North,Marketplace,4,94.06,0.05,376.24,357.43,174.04,183.39
+SO-10409,2025-06-11,C1229,Skincare Set,Beauty,East,Marketplace,2,64.52,0.05,129.04,122.59,48.18,74.41
+SO-10424,2025-06-11,C1217,Running Shoes,Apparel,South,Online Store,1,93.13,0.05,93.13,88.47,44.2,44.27
+SO-10438,2025-06-11,C1308,Running Shoes,Apparel,South,Online Store,1,92.89,0.0,92.89,92.89,42.64,50.25
+SO-10416,2025-06-12,C1082,Ceramic Vase,Home & Kitchen,West,Marketplace,1,37.95,0.0,37.95,37.95,16.45,21.5
+SO-10421,2025-06-12,C1038,Espresso Maker,Home & Kitchen,West,Online Store,2,246.62,0.05,493.24,468.58,286.85,181.73
+SO-10432,2025-06-13,C1217,Skincare Set,Beauty,East,Marketplace,1,67.5,0.05,67.5,64.12,23.65,40.47
+SO-10392,2025-06-14,C1102,Air Fryer,Home & Kitchen,East,Wholesale,10,127.07,0.12,1270.7,1118.22,730.55,387.67
+SO-10398,2025-06-14,C1217,Ergonomic Chair,Office,North,Wholesale,6,334.74,0.12,2008.44,1767.43,1236.36,531.07
+SO-10408,2025-06-14,C1309,Skincare Set,Beauty,South,Retail Store,2,65.21,0.0,130.42,130.42,46.89,83.53
+SO-10430,2025-06-16,C1067,Hair Dryer,Beauty,North,Online Store,1,86.66,0.0,86.66,86.66,43.98,42.68
+SO-10426,2025-06-17,C1263,Wireless Earbuds,Electronics,South,Online Store,1,81.79,0.0,81.79,81.79,48.82,32.97
+SO-10400,2025-06-18,C1315,Notebook Pack,Office,East,Marketplace,3,15.01,0.05,45.03,42.78,18.32,24.46
+SO-10401,2025-06-18,C1311,Ceramic Vase,Home & Kitchen,East,Retail Store,2,39.45,0.15,78.9,67.06,33.1,33.96
+SO-10423,2025-06-18,C1067,Bluetooth Speaker,Electronics,North,Online Store,2,58.29,0.05,116.58,110.75,70.4,40.35
+SO-10414,2025-06-19,C1229,Cotton T-Shirt,Apparel,South,Retail Store,3,18.42,0.0,55.26,55.26,20.27,34.99
+SO-10395,2025-06-20,C1008,Wireless Earbuds,Electronics,West,Online Store,1,81.95,0.05,81.95,77.85,48.71,29.14
+SO-10404,2025-06-20,C1312,Notebook Pack,Office,South,Wholesale,8,15.31,0.12,122.48,107.78,48.99,58.79
+SO-10418,2025-06-20,C1158,Ergonomic Chair,Office,West,Online Store,4,327.08,0.0,1308.32,1308.32,796.04,512.28
+SO-10439,2025-06-20,C1156,Wireless Earbuds,Electronics,Central,Online Store,3,77.23,0.05,231.69,220.11,142.12,77.99
+SO-10428,2025-06-22,C1217,Espresso Maker,Home & Kitchen,East,Online Store,2,251.49,0.0,502.98,502.98,284.29,218.69
+SO-10434,2025-06-22,C1262,Wireless Earbuds,Electronics,North,Marketplace,1,81.18,0.05,81.18,77.12,47.48,29.64
+SO-10433,2025-06-23,C1263,Wireless Earbuds,Electronics,East,Online Store,1,79.27,0.05,79.27,75.31,46.45,28.86
+SO-10446,2025-06-23,C1244,Cotton T-Shirt,Apparel,West,Online Store,2,19.38,0.0,38.76,38.76,12.91,25.85
+SO-10427,2025-06-24,C1217,Air Fryer,Home & Kitchen,East,Marketplace,2,123.94,0.0,247.88,247.88,144.7,103.18
+SO-10413,2025-06-25,C1108,Smart Watch,Electronics,West,Online Store,2,198.47,0.0,396.94,396.94,247.95,148.99
+SO-10440,2025-06-25,,Smart Watch,Electronics,West,Online Store,1,202.79,0.1,202.79,182.51,128.99,53.52
+SO-10415,2025-06-26,C1004,Wireless Earbuds,Electronics,East,Retail Store,3,78.1,0.1,234.3,210.87,141.68,69.19
+SO-10422,2025-06-26,C1120,Smart Watch,Electronics,West,Online Store,4,195.43,0.1,781.72,703.55,514.23,189.32
+SO-10410,2025-06-27,C1314,Notebook Pack,Office,East,Online Store,2,14.47,0.0,28.94,28.94,11.84,17.1
+SO-10437,2025-06-28,C1156,Desk Lamp,Office,South,Marketplace,2,48.42,0.0,96.84,96.84,47.92,48.92
+SO-10393,2025-06-29,C1126,Wireless Earbuds,Electronics,North,Marketplace,2,79.3,0.1,158.6,142.74,97.24,45.5
+SO-10429,2025-06-29,C1101,Running Shoes,Apparel,North,Wholesale,7,96.3,0.12,674.1,593.21,307.2,286.01
+SO-10436,2025-06-29,C1033,Cotton T-Shirt,Apparel,Central,Online Store,2,19.53,0.1,39.06,35.15,13.2,21.95
+SO-10394,2025-06-30,C1083,Running Shoes,Apparel,Central,Online Store,1,96.84,0.0,96.84,96.84,42.45,54.39
+SO-10453,2025-07-01,C1116,Laptop Stand,Electronics,West,Marketplace,2,44.11,0.05,88.22,83.81,45.75,38.06
+SO-10471,2025-07-01,C1109,Cotton T-Shirt,Apparel,South,Online Store,2,19.55,0.05,39.1,37.15,13.04,24.11
+SO-10483,2025-07-01,C1192,Smart Watch,Electronics,North,Online Store,4,203.02,0.1,812.08,730.87,515.42,215.45
+SO-10500,2025-07-01,C1198,Ceramic Vase,Home & Kitchen,West,Online Store,1,38.8,0.15,38.8,32.98,16.16,16.82
+SO-10459,2025-07-02,C1283,Running Shoes,Apparel,North,Online Store,1,93.56,0.15,93.56,79.53,42.83,36.7
+SO-10481,2025-07-02,C1134,Bluetooth Speaker,Electronics,North,Wholesale,9,59.22,0.12,532.98,469.02,307.82,161.2
+SO-10488,2025-07-02,C1285,Running Shoes,Apparel,South,Online Store,1,96.12,0.15,96.12,81.7,43.35,38.35
+SO-10450,2025-07-03,C1194,Laptop Stand,Electronics,North,Online Store,1,44.58,0.1,44.58,40.12,23.46,16.66
+SO-10487,2025-07-04,C1253,Ergonomic Chair,Office,North,Marketplace,3,330.79,0.05,992.37,942.75,605.19,337.56
+SO-10496,2025-07-04,C1134,Bluetooth Speaker,Electronics,South,Online Store,2,59.44,0.0,118.88,118.88,68.47,50.41
+SO-10498,2025-07-04,C1101,Espresso Maker,Home & Kitchen,North,Online Store,3,253.13,0.0,759.39,759.39,437.89,321.5
+SO-10454,2025-07-06,C1217,Notebook Pack,Office,East,Online Store,1,14.79,0.15,14.79,12.57,6.11,6.46
+SO-10451,2025-07-08,C1167,Notebook Pack,Office,South,Online Store,1,15.17,0.0,15.17,15.17,5.91,9.26
+SO-10478,2025-07-09,C1033,Wireless Earbuds,Electronics,Central,Retail Store,3,77.25,0.15,231.75,196.99,138.67,58.32
+SO-10486,2025-07-09,C1250,Denim Jacket,Apparel,West,Online Store,1,82.02,0.0,82.02,82.02,36.59,45.43
+SO-10489,2025-07-09,C1099,Laptop Stand,Electronics,South,Marketplace,1,44.5,0.1,44.5,40.05,24.03,16.02
+SO-10447,2025-07-10,C1208,Cotton T-Shirt,Apparel,Central,Wholesale,8,18.66,0.12,149.28,131.37,54.29,77.08
+SO-10492,2025-07-10,C1229,Air Fryer,Home & Kitchen,North,Retail Store,2,124.37,0.0,248.74,248.74,140.07,108.67
+SO-10495,2025-07-10,C1061,Notebook Pack,Office,West,Retail Store,3,15.33,0.0,45.99,45.99,18.24,27.75
+SO-10455,2025-07-11,C1038,Desk Lamp,Office,South,Online Store,4,47.07,0.05,188.28,178.87,98.66,80.21
+SO-10472,2025-07-11,C1141,Hair Dryer,Beauty,North,Marketplace,2,86.31,0.15,172.62,146.73,84.04,62.69
+SO-10460,2025-07-12,C1122,Hair Dryer,Beauty,East,Online Store,1,91.15,0.05,91.15,86.59,42.82,43.77
+SO-10490,2025-07-12,C1282,Bluetooth Speaker,Electronics,West,Online Store,2,60.78,0.05,121.56,115.48,67.85,47.63
+SO-10448,2025-07-13,C1167,Hair Dryer,Beauty,North,Marketplace,1,87.3,0.05,87.3,82.93,41.73,41.2
+SO-10474,2025-07-13,C1283,Denim Jacket,Apparel,West,Marketplace,1,86.55,0.05,86.55,82.22,37.82,44.4
+SO-10499,2025-07-13,C1038,Wireless Earbuds,Electronics,West,Retail Store,1,79.28,0.0,79.28,79.28,46.21,33.07
+SO-10456,2025-07-14,C1208,Skincare Set,Beauty,North,Online Store,4,63.37,0.05,253.48,240.81,92.26,148.55
+SO-10462,2025-07-14,C1318,Hair Dryer,Beauty,North,Marketplace,1,90.06,0.15,90.06,76.55,41.62,34.93
+SO-10473,2025-07-14,C1218,Running Shoes,Apparel,East,Marketplace,4,92.73,0.15,370.92,315.28,171.12,144.16
+SO-10461,2025-07-15,C1213,Running Shoes,Apparel,North,Online Store,1,97.17,0.1,97.17,87.45,42.48,44.97
+SO-10468,2025-07-15,C1268,Laptop Stand,Electronics,North,Retail Store,2,45.22,0.15,90.44,76.87,47.83,29.04
+SO-10476,2025-07-15,C1268,Wireless Earbuds,Electronics,East,Retail Store,3,77.26,0.1,231.78,208.6,140.08,68.52
+SO-10466,2025-07-17,C1229,Air Fryer,Home & Kitchen,West,Online Store,4,126.82,0.0,507.28,507.28,287.87,219.41
+SO-10457,2025-07-19,C1087,Hair Dryer,Beauty,North,Wholesale,8,88.7,0.15,709.6,603.16,345.14,258.02
+SO-10458,2025-07-20,C1283,Cookware Set,Home & Kitchen,East,Retail Store,1,173.92,0.0,173.92,173.92,93.58,80.34
+SO-10467,2025-07-20,C1061,Hair Dryer,Beauty,West,Wholesale,7,92.3,0.12,646.1,568.57,300.35,268.22
+SO-10494,2025-07-20,C1063,Denim Jacket,Apparel,North,Retail Store,3,86.4,0.15,259.2,220.32,111.82,108.5
+SO-10484,2025-07-21,C1254,Ceramic Vase,Home & Kitchen,West,Marketplace,1,40.18,0.15,40.18,34.15,16.34,17.81
+SO-10452,2025-07-22,C1092,Wireless Earbuds,Electronics,North,Wholesale,5,79.13,0.12,395.65,348.17,239.91,108.26
+SO-10470,2025-07-22,C1156,Wool Scarf,Apparel,North,Marketplace,2,28.66,0.1,57.32,51.59,21.8,29.79
+SO-10480,2025-07-22,C1141,Desk Lamp,Office,Central,Marketplace,1,48.44,0.0,48.44,48.44,24.62,23.82
+SO-10477,2025-07-23,C1193,Air Fryer,Home & Kitchen,Central,Online Store,4,130.79,0.0,523.16,523.16,278.07,245.09
+SO-10449,2025-07-25,C1126,Laptop Stand,Electronics,South,Online Store,2,45.0,0.0,90.0,90.0,47.28,42.72
+SO-10497,2025-07-25,C1156,Notebook Pack,Office,East,Online Store,1,14.86,0.0,14.86,14.86,6.0,8.86
+SO-10463,2025-07-26,C1244,Cotton T-Shirt,Apparel,South,Online Store,4,18.44,0.0,73.76,73.76,26.22,47.54
+SO-10475,2025-07-27,C1143,Bluetooth Speaker,Electronics,Central,Retail Store,2,57.19,0.15,114.38,97.22,67.21,30.01
+SO-10485,2025-07-27,C1246,Skincare Set,Beauty,North,Retail Store,2,65.25,0.05,130.5,123.97,46.74,77.23
+SO-10464,2025-07-28,C1041,Running Shoes,Apparel,South,Online Store,3,92.95,0.0,278.85,278.85,130.37,148.48
+SO-10469,2025-07-29,C1187,Notebook Pack,Office,East,Online Store,2,15.3,0.0,30.6,30.6,12.09,18.51
+SO-10479,2025-07-29,C1293,Running Shoes,Apparel,North,Online Store,3,96.73,0.05,290.19,275.68,132.3,143.38
+SO-10491,2025-07-29,C1229,Air Fryer,Home & Kitchen,South,Online Store,2,127.61,0.05,255.22,242.46,140.25,102.21
+SO-10493,2025-07-29,C1167,Notebook Pack,Office,South,Online Store,3,15.52,0.0,46.56,46.56,18.09,28.47
+SO-10465,2025-07-30,C1177,Running Shoes,Apparel,East,Online Store,2,95.27,0.1,190.54,171.49,87.52,83.97
+SO-10482,2025-07-31,C1184,Running Shoes,Apparel,South,Online Store,2,94.63,0.05,189.26,179.8,85.27,94.53
+SO-10505,2025-08-01,C1061,Smart Watch,Electronics,West,Online Store,3,192.96,0.05,578.88,549.94,379.57,170.37
+SO-10531,2025-08-01,C1003,Espresso Maker,Home & Kitchen,South,Retail Store,2,251.99,0.1,503.98,453.58,291.32,162.26
+SO-10527,2025-08-03,C1317,Skincare Set,Beauty,Central,Marketplace,1,63.16,0.0,63.16,63.16,22.91,40.25
+SO-10533,2025-08-03,C1059,Cotton T-Shirt,Apparel,East,Online Store,1,19.27,0.0,19.27,19.27,6.65,12.62
+SO-10544,2025-08-03,C1217,Espresso Maker,Home & Kitchen,South,Marketplace,4,256.76,0.0,1027.04,1027.04,575.03,452.01
+SO-10525,2025-08-04,C1167,Running Shoes,Apparel,West,Retail Store,1,92.28,0.05,92.28,87.67,44.38,43.29
+SO-10557,2025-08-04,C1101,Skincare Set,Beauty,East,Online Store,2,65.67,0.05,131.34,124.77,45.93,78.84
+SO-10520,2025-08-05,C1194,Espresso Maker,Home & Kitchen,Central,Marketplace,3,256.68,0.1,770.04,693.04,425.22,267.82
+SO-10549,2025-08-05,C1210,Bluetooth Speaker,Electronics,Central,Marketplace,1,56.9,0.05,56.9,54.05,34.33,19.72
+SO-10526,2025-08-06,C1318,Hair Dryer,Beauty,South,Online Store,2,86.59,0.05,173.18,164.52,86.99,77.53
+SO-10553,2025-08-06,C1029,Wireless Earbuds,Electronics,East,Wholesale,9,80.37,0.12,723.33,636.53,439.18,197.35
+SO-10552,2025-08-07,C1154,Smart Watch,Electronics,West,Retail Store,1,192.69,0.1,192.69,173.42,129.21,44.21
+SO-10501,2025-08-08,C1092,Smart Watch,Electronics,North,Wholesale,10,192.35,0.15,1923.5,1634.97,1289.7,345.27
+SO-10504,2025-08-08,C1229,Ergonomic Chair,Office,Central,Online Store,3,341.07,0.0,1023.21,1023.21,593.83,429.38
+SO-10509,2025-08-08,C1151,Cookware Set,Home & Kitchen,West,Marketplace,2,183.37,0.0,366.74,366.74,187.68,179.06
+SO-10532,2025-08-08,C1101,Running Shoes,Apparel,North,Online Store,2,93.04,0.15,186.08,158.17,84.78,73.39
+SO-10566,2025-08-08,C1274,Laptop Stand,Electronics,West,Retail Store,3,43.34,0.0,130.02,130.02,68.16,61.86
+SO-10567,2025-08-10,C1209,Cookware Set,Home & Kitchen,North,Online Store,1,184.84,0.05,184.84,175.6,97.24,78.36
+SO-10503,2025-08-11,C1217,Cotton T-Shirt,Apparel,East,Marketplace,1,19.13,0.1,19.13,17.22,6.82,10.4
+SO-10511,2025-08-11,C1027,Smart Watch,Electronics,South,Marketplace,1,200.71,0.15,200.71,170.6,129.67,40.93
+SO-10521,2025-08-11,C1042,Smart Watch,Electronics,East,Marketplace,1,198.14,0.15,198.14,168.42,127.47,40.95
+SO-10524,2025-08-11,C1207,Ergonomic Chair,Office,North,Retail Store,3,332.63,0.15,997.89,848.21,589.86,258.35
+SO-10535,2025-08-11,C1079,Air Fryer,Home & Kitchen,Central,Retail Store,2,126.78,0.05,253.56,240.88,140.42,100.46
+SO-10523,2025-08-12,C1217,Air Fryer,Home & Kitchen,North,Marketplace,4,124.11,0.05,496.44,471.62,287.8,183.82
+SO-10537,2025-08-12,C1242,Desk Lamp,Office,South,Online Store,2,49.72,0.0,99.44,99.44,48.13,51.31
+SO-10550,2025-08-12,C1223,Desk Lamp,Office,North,Wholesale,7,49.41,0.12,345.87,304.37,173.78,130.59
+SO-10541,2025-08-13,C1210,Notebook Pack,Office,North,Online Store,1,14.63,0.0,14.63,14.63,5.96,8.67
+SO-10510,2025-08-14,C1158,Desk Lamp,Office,West,Retail Store,2,50.13,0.0,100.26,100.26,49.49,50.77
+SO-10534,2025-08-14,C1004,Air Fryer,Home & Kitchen,South,Marketplace,1,129.31,0.15,129.31,109.91,71.14,38.77
+SO-10560,2025-08-14,C1262,Wireless Earbuds,Electronics,Central,Online Store,1,79.32,0.05,79.32,75.35,46.04,29.31
+SO-10507,2025-08-15,C1167,Cookware Set,Home & Kitchen,East,Online Store,1,180.4,0.1,180.4,162.36,94.05,68.31
+SO-10513,2025-08-15,C1081,Wireless Earbuds,Electronics,West,Online Store,1,75.95,0.15,75.95,64.56,47.65,16.91
+SO-10538,2025-08-15,C1120,Espresso Maker,Home & Kitchen,Central,Online Store,1,258.36,0.05,258.36,245.44,143.44,102.0
+SO-10516,2025-08-16,C1131,Notebook Pack,Office,West,Marketplace,1,15.5,0.0,15.5,15.5,6.04,9.46
+SO-10519,2025-08-16,C1229,Notebook Pack,Office,South,Online Store,1,14.8,0.05,14.8,14.06,6.04,8.02
+SO-10528,2025-08-16,C1148,Smart Watch,Electronics,West,Marketplace,2,193.42,0.05,386.84,367.5,262.06,105.44
+SO-10545,2025-08-16,C1217,Denim Jacket,Apparel,South,Wholesale,8,88.21,0.12,705.68,621.0,298.39,322.61
+SO-10562,2025-08-17,C1213,Running Shoes,Apparel,West,Online Store,4,95.81,0.0,383.24,383.24,176.93,206.31
+SO-10512,2025-08-18,C1229,Air Fryer,Home & Kitchen,East,Retail Store,4,133.36,0.0,533.44,533.44,291.65,241.79
+SO-10551,2025-08-19,C1291,Notebook Pack,Office,West,Online Store,4,14.53,0.05,58.12,55.21,24.34,30.87
+SO-10559,2025-08-19,C1278,Smart Watch,Electronics,North,Online Store,4,191.54,0.05,766.16,727.85,519.6,208.25
+SO-10543,2025-08-20,C1283,Air Fryer,Home & Kitchen,North,Retail Store,3,124.41,0.0,373.23,373.23,206.59,166.64
+SO-10517,2025-08-21,C1079,Air Fryer,Home & Kitchen,East,Online Store,1,124.5,0.1,124.5,112.05,72.73,39.32
+SO-10539,2025-08-21,C1098,Cookware Set,Home & Kitchen,East,Retail Store,3,184.39,0.05,553.17,525.51,290.71,234.8
+SO-10518,2025-08-22,C1272,Smart Watch,Electronics,North,Online Store,1,205.41,0.0,205.41,205.41,129.97,75.44
+SO-10556,2025-08-22,,Bluetooth Speaker,Electronics,West,Retail Store,4,60.66,0.15,242.64,206.24,135.75,70.49
+SO-10555,2025-08-24,C1198,Wireless Earbuds,Electronics,South,Retail Store,3,81.99,0.0,245.97,245.97,145.04,100.93
+SO-10561,2025-08-24,C1018,Desk Lamp,Office,North,Retail Store,3,48.15,0.1,144.45,130.0,72.29,57.71
+SO-10565,2025-08-24,C1092,Smart Watch,Electronics,West,Retail Store,1,195.24,0.05,195.24,185.48,125.01,60.47
+SO-10529,2025-08-25,C1263,Ergonomic Chair,Office,North,Online Store,2,325.64,0.05,651.28,618.72,398.66,220.06
+SO-10547,2025-08-25,C1199,Wireless Earbuds,Electronics,West,Retail Store,3,77.23,0.05,231.69,220.11,140.46,79.65
+SO-10514,2025-08-26,C1137,Smart Watch,Electronics,West,Marketplace,3,194.39,0.05,583.17,554.01,393.29,160.72
+SO-10515,2025-08-26,C1061,Cotton T-Shirt,Apparel,South,Online Store,2,19.09,0.05,38.18,36.27,13.07,23.2
+SO-10530,2025-08-26,C1147,Cookware Set,Home & Kitchen,South,Online Store,2,171.99,0.0,343.98,343.98,184.06,159.92
+SO-10542,2025-08-27,C1241,Bluetooth Speaker,Electronics,North,Retail Store,4,57.56,0.15,230.24,195.7,136.85,58.85
+SO-10554,2025-08-27,C1318,Bluetooth Speaker,Electronics,South,Marketplace,1,60.19,0.0,60.19,60.19,33.44,26.75
+SO-10502,2025-08-28,C1147,Smart Watch,Electronics,North,Online Store,4,194.63,0.05,778.52,739.59,522.13,217.46
+SO-10536,2025-08-29,C1213,Ceramic Vase,Home & Kitchen,South,Wholesale,6,37.73,0.12,226.38,199.21,98.52,100.69
+SO-10546,2025-08-29,C1122,Bluetooth Speaker,Electronics,South,Marketplace,1,58.14,0.0,58.14,58.14,35.06,23.08
+SO-10548,2025-08-29,C1155,Smart Watch,Electronics,West,Online Store,1,203.48,0.05,203.48,193.31,126.73,66.58
+SO-10563,2025-08-29,C1156,Wool Scarf,Apparel,South,Online Store,1,28.49,0.15,28.49,24.22,10.86,13.36
+SO-10564,2025-08-29,C1067,Notebook Pack,Office,North,Marketplace,2,15.2,0.0,30.4,30.4,12.05,18.35
+SO-10506,2025-08-30,C1141,Smart Watch,Electronics,East,Marketplace,1,196.85,0.15,196.85,167.32,125.91,41.41
+SO-10508,2025-08-30,C1087,Cookware Set,Home & Kitchen,West,Marketplace,1,175.6,0.05,175.6,166.82,94.08,72.74
+SO-10558,2025-08-30,C1167,Ceramic Vase,Home & Kitchen,East,Online Store,3,38.53,0.05,115.59,109.81,48.95,60.86
+SO-10522,2025-08-31,C1120,Desk Lamp,Office,West,Retail Store,2,50.84,0.1,101.68,91.51,48.99,42.52
+SO-10540,2025-08-31,C1305,Wireless Earbuds,Electronics,East,Marketplace,1,76.37,0.05,76.37,72.55,47.52,25.03
+SO-10597,2025-09-01,C1011,Skincare Set,Beauty,Central,Online Store,1,66.04,0.05,66.04,62.74,23.75,38.99
+SO-10612,2025-09-01,C1141,Running Shoes,Apparel,South,Retail Store,1,91.49,,91.49,77.77,44.11,33.66
+SO-10613,2025-09-01,C1115,Desk Lamp,Office,East,Marketplace,2,49.43,0.05,98.86,93.92,47.91,46.01
+SO-10578,2025-09-02,C1062,Espresso Maker,Home & Kitchen,East,Online Store,2,242.97,0.05,485.94,461.64,282.03,179.61
+SO-10615,2025-09-02,C1301,Laptop Stand,Electronics,North,Online Store,2,43.82,0.05,87.64,83.26,46.41,36.85
+SO-10579,2025-09-03,C1167,Ceramic Vase,Home & Kitchen,West,Online Store,2,39.5,0.05,79.0,75.05,33.53,41.52
+SO-10585,2025-09-03,C1038,Skincare Set,Beauty,East,Marketplace,2,64.29,0.0,128.58,128.58,47.06,81.52
+SO-10617,2025-09-03,C1305,Bluetooth Speaker,Electronics,North,Online Store,1,57.47,0.0,57.47,57.47,33.41,24.06
+SO-10596,2025-09-04,C1150,Air Fryer,Home & Kitchen,West,Online Store,3,125.02,0.15,375.06,318.8,214.12,104.68
+SO-10570,2025-09-05,C1155,Air Fryer,Home & Kitchen,East,Marketplace,1,131.92,0.1,131.92,118.73,70.03,48.7
+SO-10621,2025-09-06,C1096,Running Shoes,Apparel,North,Online Store,3,96.75,0.05,290.25,275.74,130.26,145.48
+SO-10580,2025-09-07,C1156,Bluetooth Speaker,Electronics,North,Retail Store,3,58.14,0.05,174.42,165.7,101.84,63.86
+SO-10581,2025-09-08,C1156,Running Shoes,Apparel,West,Online Store,2,95.4,0.05,190.8,181.26,87.73,93.53
+SO-10589,2025-09-08,C1268,Cotton T-Shirt,Apparel,Central,Online Store,1,18.4,0.05,18.4,17.48,6.46,11.02
+SO-10607,2025-09-08,C1318,Air Fryer,Home & Kitchen,North,Online Store,4,126.3,0.05,505.2,479.94,285.01,194.93
+SO-10598,2025-09-09,C1291,Skincare Set,Beauty,South,Retail Store,1,63.43,0.05,63.43,60.26,22.72,37.54
+SO-10599,2025-09-09,C1281,Wireless Earbuds,Electronics,North,Marketplace,1,78.51,0.05,78.51,74.58,48.28,26.3
+SO-10605,2025-09-10,C1099,Cotton T-Shirt,Apparel,North,Retail Store,2,18.48,0.1,36.96,33.26,13.27,19.99
+SO-10610,2025-09-10,C1071,Air Fryer,Home & Kitchen,East,Marketplace,1,125.46,0.0,125.46,125.46,70.24,55.22
+SO-10569,2025-09-11,C1164,Cookware Set,Home & Kitchen,West,Online Store,3,180.46,0.05,541.38,514.31,285.01,229.3
+SO-10609,2025-09-11,C1254,Espresso Maker,Home & Kitchen,East,Marketplace,1,242.86,0.1,242.86,218.57,145.67,72.9
+SO-10622,2025-09-11,C1198,Espresso Maker,Home & Kitchen,North,Marketplace,1,255.94,0.0,255.94,255.94,143.73,112.21
+SO-10577,2025-09-12,C1111,Hair Dryer,Beauty,East,Retail Store,1,91.91,0.0,91.91,91.91,41.8,50.11
+SO-10576,2025-09-13,C1288,Notebook Pack,Office,South,Retail Store,4,15.25,0.05,61.0,57.95,24.46,33.49
+SO-10601,2025-09-15,C1016,Hair Dryer,Beauty,North,Online Store,1,92.35,0.15,92.35,78.5,42.82,35.68
+SO-10592,2025-09-17,C1227,Wireless Earbuds,Electronics,West,Wholesale,54,78.33,0.18,4229.82,3468.45,2559.6,908.85
+SO-10604,2025-09-17,C1229,Bluetooth Speaker,Electronics,West,Online Store,1,58.94,0.0,58.94,58.94,34.38,24.56
+SO-10619,2025-09-17,C1274,Wireless Earbuds,Electronics,South,Marketplace,1,79.25,0.05,79.25,75.29,47.22,28.07
+SO-10568,2025-09-18,C1092,Denim Jacket,Apparel,Central,Online Store,2,87.15,0.0,174.3,174.3,74.77,99.53
+SO-10594,2025-09-18,C1141,Cookware Set,Home & Kitchen,North,Retail Store,1,185.91,0.15,185.91,158.02,96.09,61.93
+SO-10608,2025-09-18,C1082,Laptop Stand,Electronics,North,Online Store,2,44.34,0.0,88.68,88.68,46.62,42.06
+SO-10572,2025-09-19,C1283,Denim Jacket,Apparel,West,Online Store,1,83.32,0.05,83.32,79.15,37.86,41.29
+SO-10573,2025-09-19,C1069,Denim Jacket,Apparel,North,Wholesale,8,85.98,0.12,687.84,605.3,303.12,302.18
+SO-10582,2025-09-19,C1229,Wireless Earbuds,Electronics,Central,Online Store,3,81.1,0.1,243.3,218.97,142.7,76.27
+SO-10593,2025-09-19,C1308,Notebook Pack,Office,West,Online Store,1,14.76,0.1,14.76,13.28,6.12,7.16
+SO-10595,2025-09-19,C1217,Cotton T-Shirt,Apparel,East,Online Store,3,19.53,0.0,58.59,58.59,20.35,38.24
+SO-10611,2025-09-19,C1147,Running Shoes,Apparel,East,Marketplace,4,96.04,0.0,384.16,384.16,171.05,213.11
+SO-10574,2025-09-20,C1207,Air Fryer,Home & Kitchen,West,Online Store,2,133.49,0.15,266.98,226.93,145.02,81.91
+SO-10602,2025-09-20,C1295,Air Fryer,Home & Kitchen,Central,Online Store,3,129.75,0.1,389.25,350.32,207.04,143.28
+SO-10575,2025-09-21,C1102,Notebook Pack,Office,West,Retail Store,2,14.95,0.05,29.9,28.4,12.17,16.23
+SO-10618,2025-09-21,C1245,Cotton T-Shirt,Apparel,North,Online Store,3,18.63,0.05,55.89,53.1,19.41,33.69
+SO-10620,2025-09-21,C1254,Bluetooth Speaker,Electronics,East,Marketplace,1,59.61,0.1,59.61,53.65,33.26,20.39
+SO-10587,2025-09-22,C1167,Ceramic Vase,Home & Kitchen,West,Online Store,3,38.61,0.05,115.83,110.04,49.14,60.9
+SO-10614,2025-09-22,C1003,Hair Dryer,Beauty,East,Online Store,1,86.61,0.1,86.61,77.95,42.04,35.91
+SO-10588,2025-09-24,C1017,Bluetooth Speaker,Electronics,East,Marketplace,1,57.17,0.05,57.17,54.31,34.14,20.17
+SO-10583,2025-09-25,C1254,Wool Scarf,Apparel,North,Retail Store,1,28.11,0.0,28.11,28.11,10.97,17.14
+SO-10590,2025-09-25,C1290,Laptop Stand,Electronics,North,Online Store,1,43.49,0.1,43.49,39.14,24.09,15.05
+SO-10591,2025-09-25,C1262,Air Fryer,Home & Kitchen,East,Marketplace,2,133.84,0.05,267.68,254.3,138.52,115.78
+SO-10584,2025-09-26,C1063,Running Shoes,Apparel,South,Online Store,1,95.22,0.15,95.22,80.94,43.18,37.76
+SO-10600,2025-09-26,,Running Shoes,Apparel,East,Retail Store,2,97.37,0.0,194.74,194.74,88.16,106.58
+SO-10571,2025-09-27,C1076,Wireless Earbuds,Electronics,Central,Retail Store,1,77.41,0.05,77.41,73.54,48.34,25.2
+SO-10586,2025-09-28,C1285,Smart Watch,Electronics,East,Online Store,1,206.36,,206.36,196.04,129.58,66.46
+SO-10603,2025-09-29,C1104,Air Fryer,Home & Kitchen,East,Online Store,2,129.02,0.05,258.04,245.14,143.19,101.95
+SO-10616,2025-09-29,C1167,Desk Lamp,Office,West,Marketplace,4,50.39,0.15,201.56,171.33,98.38,72.95
+SO-10606,2025-09-30,C1017,Denim Jacket,Apparel,East,Retail Store,1,88.22,0.05,88.22,83.81,36.48,47.33
+SO-10629,2025-10-01,C1038,Cotton T-Shirt,Apparel,South,Wholesale,6,18.28,0.12,109.68,96.52,40.69,55.83
+SO-10639,2025-10-01,C1029,Wool Scarf,Apparel,East,Marketplace,1,28.93,0.15,28.93,24.59,10.9,13.69
+SO-10671,2025-10-01,C1086,Laptop Stand,Electronics,South,Retail Store,2,46.47,0.0,92.94,92.94,47.61,45.33
+SO-10631,2025-10-02,C1229,Running Shoes,Apparel,East,Retail Store,3,98.45,0.1,295.35,265.82,128.24,137.58
+SO-10654,2025-10-02,C1003,Denim Jacket,Apparel,North,Online Store,4,87.79,0.0,351.16,351.16,147.26,203.9
+SO-10670,2025-10-03,C1212,Desk Lamp,Office,South,Online Store,1,47.69,0.05,47.69,45.31,24.63,20.68
+SO-10676,2025-10-03,C1217,Laptop Stand,Electronics,North,Online Store,1,45.96,0.15,45.96,39.07,23.89,15.18
+SO-10668,2025-10-04,C1088,Skincare Set,Beauty,Central,Marketplace,1,66.17,0.1,66.17,59.55,23.39,36.16
+SO-10669,2025-10-05,C1287,Air Fryer,Home & Kitchen,North,Online Store,1,130.95,0.05,130.95,124.4,69.9,54.5
+SO-10678,2025-10-05,C1238,Wireless Earbuds,Electronics,Central,Online Store,2,77.93,0.05,155.86,148.07,92.82,55.25
+SO-10643,2025-10-06,C1229,Desk Lamp,Office,East,Online Store,1,48.37,0.05,48.37,45.95,24.21,21.74
+SO-10644,2025-10-06,C1042,Desk Lamp,Office,Central,Retail Store,1,49.99,0.0,49.99,49.99,25.13,24.86
+SO-10659,2025-10-06,C1097,Bluetooth Speaker,Electronics,South,Marketplace,3,57.23,0.0,171.69,171.69,100.38,71.31
+SO-10647,2025-10-07,C1308,Hair Dryer,Beauty,Central,Wholesale,58,87.85,0.18,5095.3,4178.15,2477.76,1700.39
+SO-10672,2025-10-07,C1207,Wireless Earbuds,Electronics,East,Retail Store,1,79.03,0.15,79.03,67.18,48.7,18.48
+SO-10640,2025-10-08,C1256,Wool Scarf,Apparel,East,Marketplace,1,28.93,0.1,28.93,26.04,11.33,14.71
+SO-10653,2025-10-08,C1156,Bluetooth Speaker,Electronics,East,Marketplace,2,61.02,0.05,122.04,115.94,70.46,45.48
+SO-10667,2025-10-08,C1020,Skincare Set,Beauty,North,Retail Store,2,64.73,0.0,129.46,129.46,46.76,82.7
+SO-10664,2025-10-09,C1076,Cotton T-Shirt,Apparel,West,Wholesale,8,18.92,0.12,151.36,133.2,53.86,79.34
+SO-10677,2025-10-09,C1184,Bluetooth Speaker,Electronics,West,Online Store,4,58.67,0.0,234.68,234.68,135.33,99.35
+SO-10661,2025-10-10,C1229,Ceramic Vase,Home & Kitchen,North,Marketplace,1,38.15,0.05,38.15,36.24,16.27,19.97
+SO-10673,2025-10-10,C1167,Notebook Pack,Office,West,Marketplace,1,15.09,0.1,15.09,13.58,5.89,7.69
+SO-10634,2025-10-12,C1167,Cookware Set,Home & Kitchen,East,Online Store,1,176.75,0.05,176.75,167.91,94.19,73.72
+SO-10628,2025-10-14,C1167,Ceramic Vase,Home & Kitchen,West,Marketplace,2,37.74,0.0,75.48,75.48,33.39,42.09
+SO-10636,2025-10-14,C1316,Cotton T-Shirt,Apparel,West,Wholesale,6,19.27,0.15,115.62,98.28,40.48,57.8
+SO-10651,2025-10-15,C1283,Desk Lamp,Office,South,Online Store,2,50.24,0.15,100.48,85.41,48.21,37.2
+SO-10660,2025-10-15,C1283,Air Fryer,Home & Kitchen,East,Online Store,3,127.05,0.0,381.15,381.15,212.46,168.69
+SO-10630,2025-10-16,C1229,Cookware Set,Home & Kitchen,West,Online Store,2,175.12,0.05,350.24,332.73,186.3,146.43
+SO-10642,2025-10-16,C1218,Wireless Earbuds,Electronics,East,Marketplace,2,76.57,0.05,153.14,145.48,97.23,48.25
+SO-10652,2025-10-17,C1170,Running Shoes,Apparel,North,Retail Store,2,97.79,0.05,195.58,185.8,88.55,97.25
+SO-10681,2025-10-17,C1063,Skincare Set,Beauty,West,Retail Store,3,64.24,0.0,192.72,192.72,71.7,121.02
+SO-10627,2025-10-18,C1067,Skincare Set,Beauty,East,Marketplace,1,64.7,0.05,64.7,61.46,24.09,37.37
+SO-10680,2025-10-18,C1319,Espresso Maker,Home & Kitchen,South,Marketplace,1,252.85,0.0,252.85,252.85,145.35,107.5
+SO-10638,2025-10-20,C1316,Skincare Set,Beauty,North,Online Store,4,66.39,0.15,265.56,225.73,94.76,130.97
+SO-10623,2025-10-21,C1213,Denim Jacket,Apparel,East,Marketplace,2,83.56,0.05,167.12,158.76,73.41,85.35
+SO-10633,2025-10-21,C1295,Notebook Pack,Office,Central,Online Store,2,15.28,0.0,30.56,30.56,11.76,18.8
+SO-10637,2025-10-21,C1120,Hair Dryer,Beauty,North,Wholesale,6,92.25,0.12,553.5,487.08,257.63,229.45
+SO-10663,2025-10-21,C1056,Running Shoes,Apparel,North,Online Store,2,95.67,0.0,191.34,191.34,89.55,101.79
+SO-10624,2025-10-22,C1027,Wireless Earbuds,Electronics,South,Online Store,4,77.67,0.1,310.68,279.61,187.01,92.6
+SO-10650,2025-10-22,C1167,Running Shoes,Apparel,East,Retail Store,2,98.43,0.0,196.86,196.86,85.24,111.62
+SO-10674,2025-10-22,C1213,Wireless Earbuds,Electronics,West,Marketplace,2,77.68,0.1,155.36,139.82,97.54,42.28
+SO-10641,2025-10-23,C1229,Laptop Stand,Electronics,North,Marketplace,2,45.44,0.0,90.88,90.88,45.68,45.2
+SO-10646,2025-10-23,C1141,Ceramic Vase,Home & Kitchen,West,Online Store,2,37.85,0.0,75.7,75.7,31.94,43.76
+SO-10666,2025-10-24,C1000,Desk Lamp,Office,East,Retail Store,4,49.89,0.15,199.56,169.63,98.46,71.17
+SO-10632,2025-10-26,C1147,Notebook Pack,Office,West,Marketplace,4,15.44,0.0,61.76,61.76,24.34,37.42
+SO-10655,2025-10-26,C1254,Laptop Stand,Electronics,Central,Marketplace,1,45.64,0.0,45.64,45.64,23.28,22.36
+SO-10625,2025-10-27,C1228,Wireless Earbuds,Electronics,North,Marketplace,4,79.53,0.1,318.12,286.31,189.86,96.45
+SO-10626,2025-10-27,C1049,Bluetooth Speaker,Electronics,West,Marketplace,1,59.09,0.15,59.09,50.23,33.55,16.68
+SO-10635,2025-10-28,C1027,Cotton T-Shirt,Apparel,West,Marketplace,2,18.67,0.0,37.34,37.34,13.29,24.05
+SO-10656,2025-10-28,C1101,Laptop Stand,Electronics,North,Marketplace,3,43.45,0.1,130.35,117.31,69.81,47.5
+SO-10662,2025-10-28,C1167,Skincare Set,Beauty,North,Marketplace,1,62.53,0.0,62.53,62.53,23.44,39.09
+SO-10665,2025-10-28,C1217,Running Shoes,Apparel,East,Online Store,1,96.86,0.05,96.86,92.02,43.31,48.71
+SO-10658,2025-10-29,C1147,Desk Lamp,Office,North,Retail Store,2,49.14,0.1,98.28,88.45,50.19,38.26
+SO-10675,2025-10-30,C1234,Skincare Set,Beauty,North,Online Store,4,66.11,0.05,264.44,251.22,96.04,155.18
+SO-10645,2025-10-31,C1229,Smart Watch,Electronics,East,Marketplace,3,193.86,0.05,581.58,552.5,372.57,179.93
+SO-10648,2025-10-31,C1283,Skincare Set,Beauty,South,Online Store,2,65.33,0.05,130.66,124.13,47.16,76.97
+SO-10649,2025-10-31,C1167,Skincare Set,Beauty,North,Retail Store,1,66.77,0.1,66.77,60.09,23.38,36.71
+SO-10657,2025-10-31,C1189,Notebook Pack,Office,East,Marketplace,2,15.13,0.05,30.26,28.75,11.86,16.89
+SO-10679,2025-10-31,C1155,Desk Lamp,Office,East,Retail Store,4,47.18,0.15,188.72,160.41,99.62,60.79
+SO-10698,2025-11-01,C1207,Hair Dryer,Beauty,Central,Retail Store,4,87.52,0.15,350.08,297.57,174.78,122.79
+SO-10684,2025-11-02,C1096,Smart Watch,Electronics,West,Online Store,1,194.96,0.0,194.96,194.96,128.59,66.37
+SO-10685,2025-11-02,C1244,Air Fryer,Home & Kitchen,South,Marketplace,1,125.53,0.0,125.53,125.53,69.65,55.88
+SO-10701,2025-11-02,C1123,Running Shoes,Apparel,North,Online Store,1,93.66,0.15,93.66,79.61,44.74,34.87
+SO-10711,2025-11-02,C1195,Desk Lamp,Office,West,Marketplace,2,47.12,0.0,94.24,94.24,48.2,46.04
+SO-10696,2025-11-03,C1108,Cotton T-Shirt,Apparel,North,Wholesale,7,19.3,0.12,135.1,118.89,46.6,72.29
+SO-10734,2025-11-03,C1126,Smart Watch,Electronics,South,Retail Store,2,191.87,0.0,383.74,383.74,257.39,126.35
+SO-10697,2025-11-07,C1217,Laptop Stand,Electronics,East,Wholesale,6,44.32,0.12,265.92,234.01,136.66,97.35
+SO-10705,2025-11-07,C1253,Notebook Pack,Office,South,Online Store,2,15.58,0.05,31.16,29.6,12.22,17.38
+SO-10691,2025-11-08,C1229,Desk Lamp,Office,West,Online Store,1,49.53,0.0,49.53,49.53,25.12,24.41
+SO-10729,2025-11-08,C1311,Cookware Set,Home & Kitchen,East,Wholesale,5,182.37,0.12,911.85,802.43,482.19,320.24
+SO-10720,2025-11-09,C1185,Bluetooth Speaker,Electronics,North,Wholesale,9,57.96,0.15,521.64,443.39,311.88,131.51
+SO-10736,2025-11-09,C1283,Cookware Set,Home & Kitchen,South,Marketplace,1,180.38,0.0,180.38,180.38,97.31,83.07
+SO-10692,2025-11-11,C1198,Desk Lamp,Office,East,Retail Store,4,49.67,0.0,198.68,198.68,96.56,102.12
+SO-10694,2025-11-11,C1217,Smart Watch,Electronics,South,Online Store,3,199.32,0.0,597.96,597.96,377.84,220.12
+SO-10731,2025-11-11,C1092,Desk Lamp,Office,South,Retail Store,2,50.75,0.15,101.5,86.27,49.87,36.4
+SO-10683,2025-11-12,C1017,Bluetooth Speaker,Electronics,South,Marketplace,2,59.97,0.15,119.94,101.95,68.33,33.62
+SO-10693,2025-11-12,C1167,Skincare Set,Beauty,East,Online Store,3,65.56,0.0,196.68,196.68,70.69,125.99
+SO-10708,2025-11-12,C1017,Wireless Earbuds,Electronics,South,Marketplace,1,78.5,0.0,78.5,78.5,48.57,29.93
+SO-10733,2025-11-12,C1277,Air Fryer,Home & Kitchen,East,Marketplace,1,128.46,0.1,128.46,115.61,69.43,46.18
+SO-10719,2025-11-13,C1281,Ergonomic Chair,Office,North,Wholesale,8,322.67,0.15,2581.36,2194.16,1611.78,582.38
+SO-10702,2025-11-14,C1153,Smart Watch,Electronics,East,Wholesale,7,199.53,0.12,1396.71,1229.1,902.89,326.21
+SO-10703,2025-11-14,C1217,Smart Watch,Electronics,East,Online Store,1,200.43,0.0,200.43,200.43,125.73,74.7
+SO-10716,2025-11-14,C1156,Notebook Pack,Office,North,Online Store,1,14.63,0.05,14.63,13.9,6.08,7.82
+SO-10728,2025-11-14,C1167,Desk Lamp,Office,East,Marketplace,1,50.62,0.05,50.62,48.09,23.84,24.25
+SO-10712,2025-11-15,C1011,Smart Watch,Electronics,North,Online Store,2,199.74,0.0,399.48,399.48,257.2,142.28
+SO-10713,2025-11-15,C1213,Wool Scarf,Apparel,Central,Retail Store,1,28.94,0.0,28.94,28.94,10.93,18.01
+SO-10715,2025-11-15,C1099,Smart Watch,Electronics,North,Online Store,1,206.32,0.05,206.32,196.0,126.51,69.49
+SO-10725,2025-11-15,C1102,Skincare Set,Beauty,West,Online Store,4,65.32,0.1,261.28,235.15,92.2,142.95
+SO-10695,2025-11-16,C1313,Running Shoes,Apparel,East,Marketplace,1,98.73,0.0,98.73,98.73,44.82,53.91
+SO-10738,2025-11-18,C1217,Cotton T-Shirt,Apparel,Central,Marketplace,1,18.51,0.0,18.51,18.51,6.84,11.67
+SO-10700,2025-11-19,C1028,Cotton T-Shirt,Apparel,East,Wholesale,10,19.25,0.12,192.5,169.4,65.49,103.91
+SO-10706,2025-11-19,C1035,Hair Dryer,Beauty,East,Retail Store,1,88.18,0.05,88.18,83.77,43.54,40.23
+SO-10704,2025-11-20,C1100,Air Fryer,Home & Kitchen,West,Wholesale,9,126.58,0.15,1139.22,968.34,622.15,346.19
+SO-10735,2025-11-20,,Desk Lamp,Office,Central,Retail Store,1,47.13,0.05,47.13,44.77,23.99,20.78
+SO-10682,2025-11-22,C1217,Ceramic Vase,Home & Kitchen,West,Retail Store,1,40.53,0.05,40.53,38.5,16.02,22.48
+SO-10724,2025-11-22,C1027,Ceramic Vase,Home & Kitchen,North,Retail Store,1,39.18,0.0,39.18,39.18,16.4,22.78
+SO-10730,2025-11-22,C1157,Wireless Earbuds,Electronics,West,Marketplace,1,81.59,0.1,81.59,73.43,48.82,24.61
+SO-10737,2025-11-22,C1217,Smart Watch,Electronics,North,Online Store,2,199.52,0.0,399.04,399.04,251.65,147.39
+SO-10699,2025-11-23,C1099,Espresso Maker,Home & Kitchen,West,Retail Store,1,249.24,0.15,249.24,211.85,144.36,67.49
+SO-10707,2025-11-24,C1238,Desk Lamp,Office,West,Online Store,2,48.57,0.0,97.14,97.14,48.43,48.71
+SO-10717,2025-11-24,C1141,Cookware Set,Home & Kitchen,West,Marketplace,4,184.64,0.05,738.56,701.63,383.01,318.62
+SO-10722,2025-11-24,C1061,Laptop Stand,Electronics,South,Marketplace,2,44.31,0.15,88.62,75.33,47.96,27.37
+SO-10726,2025-11-24,C1164,Wool Scarf,Apparel,North,Retail Store,2,29.35,0.15,58.7,49.9,21.51,28.39
+SO-10727,2025-11-24,C1140,Running Shoes,Apparel,South,Online Store,2,93.7,0.05,187.4,178.03,88.05,89.98
+SO-10687,2025-11-25,C1108,Notebook Pack,Office,East,Marketplace,2,15.52,0.0,31.04,31.04,12.3,18.74
+SO-10688,2025-11-25,C1138,Air Fryer,Home & Kitchen,North,Wholesale,5,133.71,0.12,668.55,588.32,354.88,233.44
+SO-10689,2025-11-25,C1213,Notebook Pack,Office,East,Online Store,2,14.55,0.1,29.1,26.19,11.64,14.55
+SO-10718,2025-11-25,C1102,Smart Watch,Electronics,West,Wholesale,6,198.58,0.12,1191.48,1048.5,774.86,273.64
+SO-10709,2025-11-26,C1316,Smart Watch,Electronics,West,Online Store,1,201.03,0.0,201.03,201.03,125.59,75.44
+SO-10739,2025-11-26,C1130,Ergonomic Chair,Office,North,Marketplace,3,327.66,0.15,982.98,835.53,595.31,240.22
+SO-10686,2025-11-27,C1067,Air Fryer,Home & Kitchen,West,Marketplace,1,127.99,0.1,127.99,115.19,71.9,43.29
+SO-10710,2025-11-28,C1145,Smart Watch,Electronics,South,Online Store,3,205.65,0.1,616.95,555.26,388.0,167.26
+SO-10732,2025-11-29,C1217,Running Shoes,Apparel,East,Wholesale,8,97.56,0.12,780.48,686.82,340.94,345.88
+SO-10690,2025-11-30,C1229,Ceramic Vase,Home & Kitchen,East,Online Store,1,40.31,0.05,40.31,38.29,16.82,21.47
+SO-10714,2025-11-30,C1038,Laptop Stand,Electronics,East,Retail Store,4,45.08,0.05,180.32,171.3,96.41,74.89
+SO-10721,2025-11-30,C1141,Laptop Stand,Electronics,East,Online Store,4,46.08,0.0,184.32,184.32,96.38,87.94
+SO-10723,2025-11-30,C1282,Laptop Stand,Electronics,North,Online Store,1,44.33,0.05,44.33,42.11,22.72,19.39
+SO-10742,2025-12-01,C1314,Cookware Set,Home & Kitchen,North,Marketplace,1,173.5,0.0,173.5,173.5,95.22,78.28
+SO-10762,2025-12-02,C1167,Wireless Earbuds,Electronics,East,Marketplace,1,80.63,0.15,80.63,68.54,46.97,21.57
+SO-10784,2025-12-02,C1229,Air Fryer,Home & Kitchen,East,Retail Store,4,132.1,0.15,528.4,449.14,281.1,168.04
+SO-10795,2025-12-03,C1035,Cotton T-Shirt,Apparel,West,Marketplace,2,19.13,0.05,38.26,36.35,13.32,23.03
+SO-10798,2025-12-03,C1147,Bluetooth Speaker,Electronics,Central,Retail Store,4,60.66,0.0,242.64,242.64,134.37,108.27
+SO-10802,2025-12-03,C1156,Air Fryer,Home & Kitchen,North,Retail Store,1,133.74,0.15,133.74,113.68,72.81,40.87
+SO-10810,2025-12-03,C1214,Cotton T-Shirt,Apparel,North,Online Store,1,19.19,0.0,19.19,19.19,6.8,12.39
+SO-10753,2025-12-04,C1244,Espresso Maker,Home & Kitchen,West,Retail Store,3,254.73,0.1,764.19,687.77,416.22,271.55
+SO-10767,2025-12-04,C1011,Cotton T-Shirt,Apparel,East,Marketplace,1,19.52,0.0,19.52,19.52,6.81,12.71
+SO-10782,2025-12-04,C1236,Cookware Set,Home & Kitchen,Central,Marketplace,2,177.62,0.15,355.24,301.95,190.15,111.8
+SO-10808,2025-12-04,C1283,Running Shoes,Apparel,South,Online Store,4,94.48,0.05,377.92,359.02,174.07,184.95
+SO-10756,2025-12-05,C1207,Wool Scarf,Apparel,North,Marketplace,1,28.32,0.1,28.32,25.49,11.32,14.17
+SO-10752,2025-12-06,C1167,Air Fryer,Home & Kitchen,East,Online Store,2,130.25,0.0,260.5,260.5,138.56,121.94
+SO-10763,2025-12-06,C1035,Cotton T-Shirt,Apparel,North,Online Store,1,19.45,0.15,19.45,16.53,6.57,9.96
+SO-10757,2025-12-07,C1111,Desk Lamp,Office,South,Online Store,4,47.14,0.1,188.56,169.7,100.72,68.98
+SO-10813,2025-12-07,C1041,Bluetooth Speaker,Electronics,East,Retail Store,4,59.87,0.0,239.48,239.48,138.71,100.77
+SO-10787,2025-12-08,C1088,Cookware Set,Home & Kitchen,West,Online Store,2,180.47,0.05,360.94,342.89,191.34,151.55
+SO-10807,2025-12-08,C1217,Ceramic Vase,Home & Kitchen,Central,Online Store,1,37.9,0.0,37.9,37.9,16.84,21.06
+SO-10811,2025-12-08,C1143,Cookware Set,Home & Kitchen,West,Online Store,2,177.88,0.1,355.76,320.18,190.65,129.53
+SO-10747,2025-12-09,C1134,Bluetooth Speaker,Electronics,South,Wholesale,10,57.2,0.15,572.0,486.2,351.63,134.57
+SO-10748,2025-12-09,C1158,Ceramic Vase,Home & Kitchen,North,Online Store,2,38.69,0.0,77.38,77.38,32.71,44.67
+SO-10775,2025-12-09,C1156,Notebook Pack,Office,North,Marketplace,1,15.55,0.0,15.55,15.55,6.06,9.49
+SO-10791,2025-12-09,C1167,Desk Lamp,Office,South,Online Store,2,48.17,0.15,96.34,81.89,48.19,33.7
+SO-10812,2025-12-09,C1229,Cotton T-Shirt,Apparel,North,Online Store,4,18.63,0.05,74.52,70.79,27.31,43.48
+SO-10771,2025-12-10,C1140,Wool Scarf,Apparel,East,Online Store,3,29.59,0.05,88.77,84.33,32.15,52.18
+SO-10790,2025-12-10,C1281,Espresso Maker,Home & Kitchen,North,Wholesale,7,239.04,0.15,1673.28,1422.29,1005.47,416.82
+SO-10797,2025-12-10,C1000,Denim Jacket,Apparel,North,Online Store,1,83.7,0.05,83.7,79.52,37.04,42.48
+SO-10746,2025-12-12,C1016,Cookware Set,Home & Kitchen,South,Online Store,1,181.29,0.0,181.29,181.29,94.37,86.92
+SO-10751,2025-12-12,C1101,Desk Lamp,Office,South,Retail Store,1,49.97,0.0,49.97,49.97,23.97,26.0
+SO-10761,2025-12-12,C1002,Wireless Earbuds,Electronics,North,Online Store,2,76.91,0.1,153.82,138.44,93.2,45.24
+SO-10799,2025-12-12,C1283,Notebook Pack,Office,East,Retail Store,2,15.25,0.05,30.5,28.97,12.01,16.96
+SO-10801,2025-12-12,C1296,Cotton T-Shirt,Apparel,North,Online Store,2,18.8,0.15,37.6,31.96,13.27,18.69
+SO-10764,2025-12-13,C1276,Bluetooth Speaker,Electronics,East,Marketplace,1,58.53,0.1,58.53,52.68,33.37,19.31
+SO-10768,2025-12-13,C1229,Cookware Set,Home & Kitchen,East,Online Store,1,176.27,0.0,176.27,176.27,93.49,82.78
+SO-10789,2025-12-13,C1223,Desk Lamp,Office,West,Online Store,3,49.58,0.1,148.74,133.87,72.75,61.12
+SO-10804,2025-12-13,C1143,Ergonomic Chair,Office,South,Online Store,1,341.69,0.0,341.69,341.69,201.57,140.12
+SO-10777,2025-12-14,C1048,Laptop Stand,Electronics,North,Marketplace,2,45.45,0.05,90.9,86.36,47.23,39.13
+SO-10796,2025-12-14,C1240,Air Fryer,Home & Kitchen,West,Online Store,1,125.75,0.0,125.75,125.75,69.27,56.48
+SO-10815,2025-12-14,C1319,Air Fryer,Home & Kitchen,South,Marketplace,4,125.57,0.05,502.28,477.17,291.85,185.32
+SO-10754,2025-12-16,C1314,Hair Dryer,Beauty,South,Online Store,3,88.12,0.0,264.36,264.36,125.24,139.12
+SO-10773,2025-12-16,C1083,Bluetooth Speaker,Electronics,South,Retail Store,2,56.73,0.05,113.46,107.79,68.1,39.69
+SO-10814,2025-12-16,C1187,Air Fryer,Home & Kitchen,West,Online Store,3,126.77,0.05,380.31,361.29,218.49,142.8
+SO-10816,2025-12-16,C1000,Air Fryer,Home & Kitchen,North,Retail Store,2,128.18,0.1,256.36,230.72,141.07,89.65
+SO-10741,2025-12-17,C1167,Wireless Earbuds,Electronics,Central,Online Store,2,78.96,0.0,157.92,157.92,94.37,63.55
+SO-10770,2025-12-17,C1108,Hair Dryer,Beauty,South,Online Store,1,89.92,0.0,89.92,89.92,42.4,47.52
+SO-10749,2025-12-18,C1167,Espresso Maker,Home & Kitchen,North,Online Store,1,250.0,0.15,250.0,212.5,141.05,71.45
+SO-10769,2025-12-18,C1140,Wool Scarf,Apparel,Central,Online Store,4,29.69,0.0,118.76,118.76,44.25,74.51
+SO-10780,2025-12-18,C1229,Ergonomic Chair,Office,North,Wholesale,6,323.58,0.12,1941.48,1708.5,1172.6,535.9
+SO-10781,2025-12-18,C1119,Notebook Pack,Office,East,Online Store,2,14.69,0.1,29.38,26.44,11.79,14.65
+SO-10772,2025-12-19,C1311,Skincare Set,Beauty,North,Retail Store,1,67.07,0.05,67.07,63.72,23.51,40.21
+SO-10778,2025-12-19,C1210,Cotton T-Shirt,Apparel,East,Online Store,1,19.51,0.15,19.51,16.58,6.67,9.91
+SO-10779,2025-12-19,C1008,Espresso Maker,Home & Kitchen,West,Retail Store,1,242.4,0.0,242.4,242.4,140.68,101.72
+SO-10745,2025-12-20,C1229,Air Fryer,Home & Kitchen,West,Online Store,1,134.11,0.15,134.11,113.99,70.38,43.61
+SO-10750,2025-12-20,C1143,Notebook Pack,Office,North,Online Store,3,15.07,0.05,45.21,42.95,18.03,24.92
+SO-10788,2025-12-20,C1067,Running Shoes,Apparel,East,Marketplace,3,97.63,0.05,292.89,278.25,133.72,144.53
+SO-10800,2025-12-20,C1060,Desk Lamp,Office,South,Online Store,1,47.56,0.05,47.56,45.18,23.9,21.28
+SO-10776,2025-12-21,C1152,Bluetooth Speaker,Electronics,East,Marketplace,1,60.14,0.1,60.14,54.13,33.74,20.39
+SO-10783,2025-12-21,C1295,Desk Lamp,Office,West,Online Store,2,48.1,0.0,96.2,96.2,48.56,47.64
+SO-10740,2025-12-22,C1102,Skincare Set,Beauty,West,Online Store,4,64.04,0.0,256.16,256.16,93.59,162.57
+SO-10786,2025-12-22,C1224,Cotton T-Shirt,Apparel,West,Online Store,1,18.55,0.1,18.55,16.7,6.45,10.25
+SO-10792,2025-12-22,,Air Fryer,Home & Kitchen,Central,Marketplace,2,132.78,0.1,265.56,239.0,138.61,100.39
+SO-10805,2025-12-22,C1229,Laptop Stand,Electronics,East,Retail Store,1,44.69,0.15,44.69,37.99,23.64,14.35
+SO-10774,2025-12-23,C1167,Bluetooth Speaker,Electronics,North,Marketplace,1,60.77,0.0,60.77,60.77,34.14,26.63
+SO-10785,2025-12-23,C1142,Laptop Stand,Electronics,East,Marketplace,4,46.01,0.1,184.04,165.64,94.58,71.06
+SO-10803,2025-12-23,C1158,Wireless Earbuds,Electronics,East,Marketplace,3,78.48,0.05,235.44,223.67,140.21,83.46
+SO-10755,2025-12-24,C1103,Smart Watch,Electronics,East,Retail Store,2,202.95,0.15,405.9,345.01,255.8,89.21
+SO-10760,2025-12-24,C1030,Running Shoes,Apparel,South,Online Store,4,94.1,0.05,376.4,357.58,170.33,187.25
+SO-10758,2025-12-25,C1111,Desk Lamp,Office,South,Online Store,2,47.78,0.0,95.56,95.56,49.09,46.47
+SO-10766,2025-12-25,C1116,Ergonomic Chair,Office,North,Marketplace,1,334.1,0.0,334.1,334.1,197.61,136.49
+SO-10793,2025-12-25,C1153,Bluetooth Speaker,Electronics,East,Online Store,2,59.04,0.0,118.08,118.08,67.28,50.8
+SO-10794,2025-12-25,C1253,Cookware Set,Home & Kitchen,West,Online Store,1,177.14,0.15,177.14,150.57,96.51,54.06
+SO-10743,2025-12-27,C1082,Running Shoes,Apparel,South,Retail Store,3,96.19,0.15,288.57,245.28,130.25,115.03
+SO-10759,2025-12-27,C1108,Denim Jacket,Apparel,East,Online Store,2,82.23,0.05,164.46,156.24,76.01,80.23
+SO-10765,2025-12-28,C1133,Wool Scarf,Apparel,Central,Marketplace,3,29.47,0.05,88.41,83.99,33.45,50.54
+SO-10744,2025-12-30,C1127,Bluetooth Speaker,Electronics,East,Online Store,2,59.05,0.15,118.1,100.38,70.36,30.02
+SO-10806,2025-12-30,C1082,Bluetooth Speaker,Electronics,North,Marketplace,4,57.85,0.0,231.4,231.4,135.84,95.56
+SO-10809,2025-12-31,C1318,Espresso Maker,Home & Kitchen,Central,Retail Store,2,256.79,0.05,513.58,487.9,290.64,197.26
+SO-10845,2026-01-02,C1168,Ergonomic Chair,Office,Central,Online Store,4,316.5,0.15,1266.0,1076.1,816.76,259.34
+SO-10818,2026-01-03,C1208,Running Shoes,Apparel,West,Wholesale,9,95.53,0.12,859.77,756.6,389.71,366.89
+SO-10822,2026-01-03,C1052,Smart Watch,Electronics,East,Online Store,2,196.54,0.0,393.08,393.08,259.69,133.39
+SO-10849,2026-01-03,C1214,Desk Lamp,Office,West,Marketplace,2,48.02,0.1,96.04,86.44,48.22,38.22
+SO-10848,2026-01-04,C1217,Air Fryer,Home & Kitchen,East,Marketplace,1,132.45,0.0,132.45,132.45,69.04,63.41
+SO-10862,2026-01-04,C1254,Air Fryer,Home & Kitchen,Central,Marketplace,2,132.62,0.0,265.24,265.24,145.5,119.74
+SO-10843,2026-01-05,C1183,Running Shoes,Apparel,East,Wholesale,6,96.2,0.12,577.2,507.94,262.83,245.11
+SO-10852,2026-01-06,C1213,Desk Lamp,Office,East,Online Store,4,49.61,0.05,198.44,188.52,96.25,92.27
+SO-10863,2026-01-06,C1092,Air Fryer,Home & Kitchen,North,Retail Store,2,129.51,0.1,259.02,233.12,143.02,90.1
+SO-10819,2026-01-07,C1194,Air Fryer,Home & Kitchen,North,Retail Store,1,124.81,0.05,124.81,118.57,71.6,46.97
+SO-10857,2026-01-08,C1038,Air Fryer,Home & Kitchen,West,Marketplace,2,132.26,0.05,264.52,251.29,144.98,106.31
+SO-10817,2026-01-09,C1295,Notebook Pack,Office,West,Online Store,2,15.32,0.1,30.64,27.58,11.73,15.85
+SO-10842,2026-01-09,C1319,Wool Scarf,Apparel,South,Online Store,3,28.81,0.05,86.43,82.11,32.21,49.9
+SO-10826,2026-01-10,C1059,Cotton T-Shirt,Apparel,East,Online Store,2,19.16,0.0,38.32,38.32,12.99,25.33
+SO-10836,2026-01-10,C1309,Skincare Set,Beauty,East,Retail Store,3,63.82,0.05,191.46,181.89,70.76,111.13
+SO-10840,2026-01-10,C1254,Air Fryer,Home & Kitchen,North,Online Store,3,130.39,0.0,391.17,391.17,212.62,178.55
+SO-10838,2026-01-12,C1014,Wool Scarf,Apparel,East,Retail Store,2,29.35,0.15,58.7,49.9,22.01,27.89
+SO-10821,2026-01-13,C1221,Bluetooth Speaker,Electronics,North,Online Store,1,61.13,0.1,61.13,55.02,34.3,20.72
+SO-10856,2026-01-13,C1313,Running Shoes,Apparel,South,Retail Store,2,95.96,0.1,191.92,172.73,85.48,87.25
+SO-10846,2026-01-14,C1167,Laptop Stand,Electronics,Central,Retail Store,2,44.54,0.15,89.08,75.72,45.8,29.92
+SO-10844,2026-01-16,C1217,Air Fryer,Home & Kitchen,South,Retail Store,2,130.2,0.0,260.4,260.4,139.49,120.91
+SO-10850,2026-01-16,C1164,Notebook Pack,Office,Central,Retail Store,4,15.54,0.15,62.16,52.84,24.36,28.48
+SO-10851,2026-01-16,C1027,Laptop Stand,Electronics,West,Wholesale,7,45.11,0.15,315.77,268.4,158.95,109.45
+SO-10854,2026-01-16,C1104,Air Fryer,Home & Kitchen,South,Marketplace,1,133.74,0.05,133.74,127.05,72.93,54.12
+SO-10820,2026-01-17,C1207,Skincare Set,Beauty,South,Marketplace,4,66.16,0.05,264.64,251.41,92.37,159.04
+SO-10859,2026-01-17,C1283,Running Shoes,Apparel,East,Marketplace,1,97.52,0.15,97.52,82.89,43.66,39.23
+SO-10825,2026-01-18,C1101,Notebook Pack,Office,West,Online Store,4,15.04,0.15,60.16,51.14,24.14,27.0
+SO-10832,2026-01-18,C1217,Cookware Set,Home & Kitchen,Central,Marketplace,2,181.62,0.0,363.24,363.24,187.54,175.7
+SO-10858,2026-01-19,C1210,Desk Lamp,Office,West,Marketplace,2,48.03,0.05,96.06,91.26,48.67,42.59
+SO-10855,2026-01-20,C1187,Cotton T-Shirt,Apparel,Central,Online Store,2,18.42,0.05,36.84,35.0,12.93,22.07
+SO-10835,2026-01-21,C1019,Air Fryer,Home & Kitchen,West,Online Store,2,133.33,0.05,266.66,253.33,140.26,113.07
+SO-10837,2026-01-21,C1291,Hair Dryer,Beauty,West,Retail Store,4,85.67,0.1,342.68,308.41,169.65,138.76
+SO-10823,2026-01-23,C1167,Ceramic Vase,Home & Kitchen,North,Retail Store,2,39.8,0.0,79.6,79.6,33.38,46.22
+SO-10827,2026-01-23,C1217,Desk Lamp,Office,Central,Online Store,1,47.81,0.05,47.81,45.42,24.76,20.66
+SO-10839,2026-01-23,C1003,Desk Lamp,Office,South,Marketplace,1,48.76,0.05,48.76,46.32,25.01,21.31
+SO-10824,2026-01-24,C1167,Wireless Earbuds,Electronics,South,Online Store,4,80.56,0.1,322.24,290.02,192.32,97.7
+SO-10829,2026-01-24,C1308,Cotton T-Shirt,Apparel,South,Marketplace,1,18.54,0.0,18.54,18.54,6.65,11.89
+SO-10847,2026-01-24,C1183,Air Fryer,Home & Kitchen,South,Online Store,1,129.02,0.05,129.02,122.57,72.97,49.6
+SO-10833,2026-01-25,C1104,Air Fryer,Home & Kitchen,West,Online Store,2,131.37,0.1,262.74,236.47,140.84,95.63
+SO-10834,2026-01-25,C1164,Skincare Set,Beauty,Central,Wholesale,10,64.31,0.12,643.1,565.93,237.49,328.44
+SO-10828,2026-01-26,C1311,Denim Jacket,Apparel,East,Marketplace,4,82.27,0.15,329.08,279.72,147.75,131.97
+SO-10831,2026-01-26,C1061,Wireless Earbuds,Electronics,East,Marketplace,4,79.97,0.1,319.88,287.89,187.6,100.29
+SO-10861,2026-01-26,C1213,Ceramic Vase,Home & Kitchen,West,Online Store,1,39.49,0.0,39.49,39.49,16.32,23.17
+SO-10853,2026-01-28,C1147,Wireless Earbuds,Electronics,East,Retail Store,1,77.07,0.1,77.07,69.36,47.32,22.04
+SO-10830,2026-01-30,C1167,Cotton T-Shirt,Apparel,East,Online Store,1,18.43,0.1,18.43,16.59,6.61,9.98
+SO-10841,2026-01-30,C1156,Hair Dryer,Beauty,Central,Marketplace,1,87.56,0.1,87.56,78.8,43.91,34.89
+SO-10860,2026-01-30,C1027,Cotton T-Shirt,Apparel,West,Retail Store,2,18.81,0.05,37.62,35.74,13.54,22.2
+SO-10866,2026-02-01,C1184,Espresso Maker,Home & Kitchen,East,Online Store,1,249.28,0.0,249.28,249.28,138.81,110.47
+SO-10913,2026-02-01,C1217,Denim Jacket,Apparel,Central,Marketplace,1,87.94,0.05,87.94,83.54,36.93,46.61
+SO-10868,2026-02-02,C1224,Hair Dryer,Beauty,West,Online Store,2,86.12,0.0,172.24,172.24,86.04,86.2
+SO-10879,2026-02-02,C1217,Running Shoes,Apparel,East,Online Store,2,97.14,0.0,194.28,194.28,86.04,108.24
+SO-10886,2026-02-02,C1083,Notebook Pack,Office,West,Retail Store,1,15.43,0.0,15.43,15.43,5.91,9.52
+SO-10912,2026-02-02,C1167,Skincare Set,Beauty,North,Retail Store,2,64.94,0.0,129.88,129.88,47.3,82.58
+SO-10875,2026-02-03,C1205,Bluetooth Speaker,Electronics,East,Marketplace,1,60.02,0.05,60.02,57.02,33.97,23.05
+SO-10880,2026-02-03,C1293,Hair Dryer,Beauty,North,Marketplace,1,86.43,0.0,86.43,86.43,42.89,43.54
+SO-10910,2026-02-03,C1213,Skincare Set,Beauty,East,Marketplace,1,63.97,0.0,63.97,63.97,23.89,40.08
+SO-10870,2026-02-04,C1156,Wireless Earbuds,Electronics,North,Online Store,3,78.55,0.05,235.65,223.87,142.99,80.88
+SO-10894,2026-02-04,C1217,Running Shoes,Apparel,West,Marketplace,2,95.96,0.0,191.92,191.92,85.54,106.38
+SO-10930,2026-02-04,C1086,Hair Dryer,Beauty,North,Online Store,1,85.56,0.1,85.56,77.0,42.25,34.75
+SO-10872,2026-02-05,C1217,Cookware Set,Home & Kitchen,Central,Online Store,4,184.94,0.0,739.76,739.76,389.28,350.48
+SO-10928,2026-02-05,C1123,Notebook Pack,Office,South,Retail Store,4,15.12,0.1,60.48,54.43,23.93,30.5
+SO-10929,2026-02-05,C1233,Hair Dryer,Beauty,Central,Online Store,2,89.58,0.05,179.16,170.2,84.31,85.89
+SO-10888,2026-02-07,C1158,Wireless Earbuds,Electronics,East,Marketplace,1,77.48,0.05,77.48,73.61,48.22,25.39
+SO-10883,2026-02-08,C1275,Desk Lamp,Office,North,Online Store,2,47.08,0.15,94.16,80.04,49.06,30.98
+SO-10873,2026-02-09,C1167,Air Fryer,Home & Kitchen,East,Retail Store,1,127.38,0.0,127.38,127.38,70.13,57.25
+SO-10918,2026-02-10,C1274,Air Fryer,Home & Kitchen,North,Marketplace,1,124.46,0.15,124.46,105.79,69.2,36.59
+SO-10874,2026-02-11,C1301,Bluetooth Speaker,Electronics,North,Online Store,2,60.86,0.05,121.72,115.63,69.92,45.71
+SO-10889,2026-02-12,C1213,Running Shoes,Apparel,West,Retail Store,3,94.7,0.0,284.1,284.1,133.38,150.72
+SO-10892,2026-02-12,C1309,Bluetooth Speaker,Electronics,East,Marketplace,1,59.07,0.05,59.07,56.12,34.02,22.1
+SO-10903,2026-02-12,C1013,Skincare Set,Beauty,West,Online Store,2,65.43,0.0,130.86,130.86,45.75,85.11
+SO-10915,2026-02-12,C1087,Ceramic Vase,Home & Kitchen,North,Online Store,1,40.54,0.05,40.54,38.51,16.26,22.25
+SO-10922,2026-02-13,C1120,Notebook Pack,Office,North,Online Store,2,15.53,0.0,31.06,31.06,12.23,18.83
+SO-10927,2026-02-13,C1134,Skincare Set,Beauty,Central,Retail Store,2,63.42,0.15,126.84,107.81,47.62,60.19
+SO-10867,2026-02-14,C1184,Skincare Set,Beauty,West,Online Store,2,67.33,0.1,134.66,121.19,47.46,73.73
+SO-10917,2026-02-14,C1223,Wireless Earbuds,Electronics,North,Wholesale,8,81.0,0.15,648.0,550.8,388.04,162.76
+SO-10897,2026-02-15,C1083,Skincare Set,Beauty,West,Wholesale,5,62.57,0.12,312.85,275.31,115.37,159.94
+SO-10904,2026-02-15,C1156,Air Fryer,Home & Kitchen,North,Online Store,3,127.05,0.0,381.15,381.15,212.55,168.6
+SO-10919,2026-02-15,C1217,Cookware Set,Home & Kitchen,North,Marketplace,4,184.31,0.15,737.24,626.65,386.28,240.37
+SO-10924,2026-02-15,C1001,Running Shoes,Apparel,East,Online Store,1,92.24,0.0,92.24,92.24,45.0,47.24
+SO-10876,2026-02-16,C1312,Air Fryer,Home & Kitchen,West,Wholesale,7,125.77,0.12,880.39,774.74,493.45,281.29
+SO-10916,2026-02-16,C1207,Cotton T-Shirt,Apparel,West,Online Store,1,18.51,0.0,18.51,18.51,6.47,12.04
+SO-10878,2026-02-17,C1209,Desk Lamp,Office,West,Online Store,1,49.31,0.15,49.31,41.91,24.07,17.84
+SO-10905,2026-02-17,C1261,Ceramic Vase,Home & Kitchen,North,Wholesale,53,39.11,0.18,2072.83,1699.72,868.14,831.58
+SO-10914,2026-02-17,C1101,Skincare Set,Beauty,West,Marketplace,1,65.25,0.1,65.25,58.73,24.01,34.72
+SO-10923,2026-02-17,C1281,Air Fryer,Home & Kitchen,North,Marketplace,1,126.32,0.1,126.32,113.69,70.33,43.36
+SO-10925,2026-02-17,C1143,Air Fryer,Home & Kitchen,Central,Retail Store,2,127.26,0.0,254.52,254.52,145.75,108.77
+SO-10887,2026-02-18,C1011,Running Shoes,Apparel,North,Retail Store,1,91.29,0.1,91.29,82.16,43.71,38.45
+SO-10907,2026-02-18,C1077,Espresso Maker,Home & Kitchen,South,Retail Store,2,247.24,0.0,494.48,494.48,276.21,218.27
+SO-10926,2026-02-18,C1156,Bluetooth Speaker,Electronics,North,Marketplace,4,59.26,0.1,237.04,213.34,139.67,73.67
+SO-10881,2026-02-19,C1282,Bluetooth Speaker,Electronics,East,Retail Store,3,59.11,0.0,177.33,177.33,104.39,72.94
+SO-10900,2026-02-19,C1082,Denim Jacket,Apparel,East,Online Store,3,83.17,0.05,249.51,237.03,109.64,127.39
+SO-10901,2026-02-19,C1122,Notebook Pack,Office,East,Retail Store,1,15.05,0.15,15.05,12.79,6.18,6.61
+SO-10909,2026-02-19,C1267,Notebook Pack,Office,South,Marketplace,1,15.38,0.0,15.38,15.38,6.12,9.26
+SO-10890,2026-02-20,C1088,Wool Scarf,Apparel,North,Retail Store,2,28.92,0.1,57.84,52.06,21.78,30.28
+SO-10896,2026-02-20,C1311,Laptop Stand,Electronics,South,Marketplace,1,44.44,0.1,44.44,40.0,23.95,16.05
+SO-10895,2026-02-21,C1104,Denim Jacket,Apparel,Central,Online Store,1,82.59,0.0,82.59,82.59,37.13,45.46
+SO-10906,2026-02-21,C1290,Smart Watch,Electronics,North,Marketplace,1,195.34,0.1,195.34,175.81,124.27,51.54
+SO-10885,2026-02-22,C1117,Air Fryer,Home & Kitchen,South,Online Store,4,129.31,0.0,517.24,517.24,275.65,241.59
+SO-10891,2026-02-22,C1213,Air Fryer,Home & Kitchen,South,Online Store,3,133.07,0.05,399.21,379.25,212.89,166.36
+SO-10902,2026-02-22,C1156,Air Fryer,Home & Kitchen,West,Online Store,1,127.68,0.1,127.68,114.91,72.54,42.37
+SO-10908,2026-02-22,C1217,Desk Lamp,Office,East,Online Store,1,50.61,0.15,50.61,43.02,24.18,18.84
+SO-10899,2026-02-23,C1032,Cotton T-Shirt,Apparel,South,Online Store,2,19.74,0.05,39.48,37.51,13.13,24.38
+SO-10920,2026-02-24,C1142,Cookware Set,Home & Kitchen,North,Online Store,2,184.03,0.1,368.06,331.25,185.4,145.85
+SO-10921,2026-02-24,C1120,Notebook Pack,Office,West,Online Store,1,15.24,0.05,15.24,14.48,6.18,8.3
+SO-10871,2026-02-25,C1229,Wireless Earbuds,Electronics,North,Retail Store,3,78.72,0.0,236.16,236.16,146.21,89.95
+SO-10865,2026-02-26,C1311,Espresso Maker,Home & Kitchen,South,Marketplace,1,249.05,0.0,249.05,249.05,140.89,108.16
+SO-10869,2026-02-26,C1235,Denim Jacket,Apparel,East,Wholesale,6,86.09,0.12,516.54,454.56,219.99,234.57
+SO-10898,2026-02-26,C1213,Smart Watch,Electronics,North,Marketplace,2,195.43,0.05,390.86,371.32,252.67,118.65
+SO-10911,2026-02-26,C1011,Wireless Earbuds,Electronics,East,Wholesale,9,80.38,0.12,723.42,636.61,437.13,199.48
+SO-10877,2026-02-27,C1156,Cookware Set,Home & Kitchen,Central,Marketplace,4,177.11,0.0,708.44,708.44,390.04,318.4
+SO-10893,2026-02-27,C1272,Air Fryer,Home & Kitchen,South,Online Store,4,132.18,0.05,528.72,502.28,286.92,215.36
+SO-10864,2026-02-28,C1167,Skincare Set,Beauty,West,Marketplace,1,65.56,0.05,65.56,62.28,23.74,38.54
+SO-10882,2026-02-28,C1177,Wireless Earbuds,Electronics,South,Retail Store,1,81.44,0.15,81.44,69.22,46.59,22.63
+SO-10884,2026-02-28,C1218,Laptop Stand,Electronics,North,Online Store,1,45.92,0.15,45.92,39.03,23.78,15.25
+SO-10937,2026-03-01,C1217,Wool Scarf,Apparel,East,Marketplace,1,29.16,0.1,29.16,26.24,10.86,15.38
+SO-10937,2026-03-01,C1217,Wool Scarf,Apparel,East,Marketplace,1,29.16,0.1,29.16,26.24,10.86,15.38
+SO-10969,2026-03-01,C1245,Ceramic Vase,Home & Kitchen,North,Marketplace,2,38.52,0.05,77.04,73.19,33.64,39.55
+SO-10974,2026-03-01,C1085,Laptop Stand,Electronics,West,Online Store,1,46.04,0.0,46.04,46.04,23.78,22.26
+SO-10948,2026-03-02,C1167,Ceramic Vase,Home & Kitchen,West,Online Store,1,37.61,0.05,37.61,35.73,16.58,19.15
+SO-10961,2026-03-03,C1156,Denim Jacket,Apparel,Central,Retail Store,3,86.35,0.0,259.05,259.05,114.09,144.96
+SO-10942,2026-03-04,C1141,Wireless Earbuds,Electronics,West,Online Store,4,79.28,0.1,317.12,285.41,188.69,96.72
+SO-10958,2026-03-04,C1156,Smart Watch,Electronics,West,Online Store,3,206.5,0.15,619.5,526.57,375.29,151.28
+SO-10980,2026-03-04,C1217,Ergonomic Chair,Office,East,Online Store,2,330.08,0.0,660.16,660.16,391.78,268.38
+SO-10949,2026-03-05,C1092,Desk Lamp,Office,South,Online Store,2,49.35,0.1,98.7,88.83,47.75,41.08
+SO-10957,2026-03-05,C1079,Smart Watch,Electronics,North,Marketplace,2,196.32,0.0,392.64,392.64,261.0,131.64
+SO-10959,2026-03-05,C1141,Ergonomic Chair,Office,East,Retail Store,2,321.03,0.05,642.06,609.96,412.1,197.86
+SO-10975,2026-03-06,C1277,Running Shoes,Apparel,East,Retail Store,2,97.88,0.0,195.76,195.76,88.95,106.81
+SO-10976,2026-03-06,C1291,Cotton T-Shirt,Apparel,East,Online Store,4,19.33,0.0,77.32,77.32,26.33,50.99
+SO-10950,2026-03-08,C1026,Cookware Set,Home & Kitchen,North,Online Store,1,180.53,0.05,180.53,171.5,92.24,79.26
+SO-10960,2026-03-08,C1045,Air Fryer,Home & Kitchen,East,Retail Store,1,132.84,0.0,132.84,132.84,72.89,59.95
+SO-10970,2026-03-09,C1229,Wireless Earbuds,Electronics,West,Retail Store,3,76.99,0.15,230.97,196.32,139.13,57.19
+SO-10956,2026-03-10,C1147,Ceramic Vase,Home & Kitchen,Central,Retail Store,4,38.22,0.05,152.88,145.24,63.92,81.32
+SO-10936,2026-03-11,C1155,Smart Watch,Electronics,West,Online Store,2,193.19,0.1,386.38,347.74,255.39,92.35
+SO-10982,2026-03-11,C1156,Smart Watch,Electronics,North,Marketplace,1,206.57,0.05,206.57,196.24,130.55,65.69
+SO-10931,2026-03-12,C1210,Ergonomic Chair,Office,West,Online Store,1,318.92,0.05,318.92,302.97,200.23,102.74
+SO-10951,2026-03-12,C1014,Notebook Pack,Office,West,Online Store,1,15.23,0.0,15.23,15.23,5.99,9.24
+SO-10952,2026-03-12,C1210,Smart Watch,Electronics,West,Online Store,2,198.23,0.15,396.46,336.99,258.25,78.74
+SO-10954,2026-03-13,C1309,Laptop Stand,Electronics,North,Marketplace,3,44.04,0.0,132.12,132.12,72.21,59.91
+SO-10981,2026-03-13,C1060,Running Shoes,Apparel,West,Online Store,4,98.08,0.05,392.32,372.7,176.62,196.08
+SO-10955,2026-03-14,C1059,Cotton T-Shirt,Apparel,East,Marketplace,4,18.76,0.0,75.04,75.04,26.7,48.34
+SO-10968,2026-03-14,C1155,Cotton T-Shirt,Apparel,East,Marketplace,4,18.7,0.05,74.8,71.06,27.05,44.01
+SO-10945,2026-03-16,C1017,Hair Dryer,Beauty,North,Marketplace,2,85.49,0.1,170.98,153.88,87.33,66.55
+SO-10963,2026-03-16,C1217,Skincare Set,Beauty,East,Retail Store,2,67.02,,134.04,134.04,46.79,87.25
+SO-10978,2026-03-17,C1311,Cotton T-Shirt,Apparel,Central,Marketplace,1,19.26,0.05,19.26,18.3,6.77,11.53
+SO-10979,2026-03-17,C1076,Notebook Pack,Office,East,Retail Store,2,14.8,0.1,29.6,26.64,12.06,14.58
+SO-10935,2026-03-18,C1062,Wireless Earbuds,Electronics,South,Online Store,1,76.84,0.05,76.84,73.0,46.97,26.03
+SO-10943,2026-03-18,C1229,Smart Watch,Electronics,North,Marketplace,1,202.48,0.0,202.48,202.48,127.19,75.29
+SO-10971,2026-03-19,C1138,Cotton T-Shirt,Apparel,East,Retail Store,1,18.82,0.0,18.82,18.82,6.63,12.19
+SO-10966,2026-03-20,,Laptop Stand,Electronics,East,Retail Store,3,45.04,0.15,135.12,114.85,69.68,45.17
+SO-10932,2026-03-21,C1214,Cookware Set,Home & Kitchen,North,Retail Store,1,176.14,0.05,176.14,167.33,96.05,71.28
+SO-10965,2026-03-21,,Bluetooth Speaker,Electronics,East,Marketplace,4,57.01,0.15,228.04,193.83,134.53,59.3
+SO-10972,2026-03-21,C1261,Smart Watch,Electronics,North,Online Store,1,205.75,0.0,205.75,205.75,126.63,79.12
+SO-10940,2026-03-22,C1046,Running Shoes,Apparel,West,Retail Store,2,96.28,0.15,192.56,163.68,87.14,76.54
+SO-10934,2026-03-23,C1198,Desk Lamp,Office,Central,Marketplace,1,49.1,0.1,49.1,44.19,24.66,19.53
+SO-10944,2026-03-23,C1101,Running Shoes,Apparel,East,Marketplace,4,94.12,0.05,376.48,357.66,175.35,182.31
+SO-10938,2026-03-24,C1164,Cotton T-Shirt,Apparel,North,Online Store,4,19.43,0.05,77.72,73.83,26.08,47.75
+SO-10953,2026-03-24,C1116,Desk Lamp,Office,West,Retail Store,1,50.12,0.1,50.12,45.11,25.15,19.96
+SO-10967,2026-03-25,C1309,Air Fryer,Home & Kitchen,East,Online Store,2,131.41,0.05,262.82,249.68,141.2,108.48
+SO-10946,2026-03-26,C1158,Skincare Set,Beauty,North,Retail Store,1,65.86,0.15,65.86,55.98,24.05,31.93
+SO-10962,2026-03-26,C1217,Smart Watch,Electronics,North,Online Store,1,193.34,0.0,193.34,193.34,129.35,63.99
+SO-10973,2026-03-26,C1148,Bluetooth Speaker,Electronics,North,Marketplace,4,56.95,0.05,227.8,216.41,133.07,83.34
+SO-10977,2026-03-26,C1283,Smart Watch,Electronics,South,Marketplace,2,193.56,0.15,387.12,329.05,250.08,78.97
+SO-10933,2026-03-27,C1210,Espresso Maker,Home & Kitchen,North,Retail Store,2,257.75,0.0,515.5,515.5,291.75,223.75
+SO-10939,2026-03-27,C1017,Cotton T-Shirt,Apparel,East,Online Store,4,18.86,0.0,75.44,75.44,26.87,48.57
+SO-10941,2026-03-27,C1295,Laptop Stand,Electronics,North,Marketplace,2,45.74,0.0,91.48,91.48,45.56,45.92
+SO-10947,2026-03-30,C1141,Ceramic Vase,Home & Kitchen,South,Online Store,1,37.88,0.0,37.88,37.88,16.69,21.19
+SO-10964,2026-03-30,C1133,Wireless Earbuds,Electronics,East,Online Store,1,80.3,0.05,80.3,76.28,47.82,28.46
+SO-11026,2026-04-01,C1213,Notebook Pack,Office,West,Online Store,1,15.33,0.15,15.33,13.03,6.06,6.97
+SO-10986,2026-04-02,C1000,Hair Dryer,Beauty,North,Wholesale,5,89.86,0.12,449.3,395.38,219.02,176.36
+SO-11012,2026-04-02,C1198,Cotton T-Shirt,Apparel,North,Marketplace,4,18.71,0.05,74.84,71.1,25.87,45.23
+SO-11034,2026-04-02,C1167,Cotton T-Shirt,Apparel,West,Online Store,2,18.84,0.1,37.68,33.91,13.02,20.89
+SO-11036,2026-04-02,C1101,Hair Dryer,Beauty,North,Online Store,4,86.05,0.1,344.2,309.78,167.45,142.33
+SO-11037,2026-04-02,C1274,Hair Dryer,Beauty,West,Retail Store,1,87.63,0.1,87.63,78.87,41.98,36.89
+SO-11014,2026-04-03,C1017,Ceramic Vase,Home & Kitchen,East,Wholesale,7,40.54,0.12,283.78,249.73,112.85,136.88
+SO-11042,2026-04-03,C1129,Notebook Pack,Office,East,Online Store,1,14.76,0.0,14.76,14.76,5.93,8.83
+SO-10997,2026-04-04,C1254,Denim Jacket,Apparel,West,Marketplace,1,84.35,0.1,84.35,75.91,37.0,38.91
+SO-10984,2026-04-05,C1158,Air Fryer,Home & Kitchen,North,Online Store,1,130.22,0.1,130.22,117.2,70.99,46.21
+SO-10996,2026-04-05,C1263,Ceramic Vase,Home & Kitchen,Central,Retail Store,2,38.46,0.0,76.92,76.92,32.32,44.6
+SO-11032,2026-04-05,C1301,Cotton T-Shirt,Apparel,West,Marketplace,2,19.7,0.05,39.4,37.43,13.58,23.85
+SO-11045,2026-04-05,C1142,Cookware Set,Home & Kitchen,South,Online Store,1,174.16,0.05,174.16,165.45,93.13,72.32
+SO-11011,2026-04-06,C1316,Espresso Maker,Home & Kitchen,South,Online Store,2,256.99,0.0,513.98,513.98,291.62,222.36
+SO-11016,2026-04-07,C1213,Wool Scarf,Apparel,North,Marketplace,2,29.54,0.15,59.08,50.22,21.44,28.78
+SO-10994,2026-04-08,C1213,Cotton T-Shirt,Apparel,Central,Online Store,1,19.1,0.0,19.1,19.1,6.59,12.51
+SO-11002,2026-04-08,C1082,Air Fryer,Home & Kitchen,North,Online Store,1,129.53,0.05,129.53,123.05,71.24,51.81
+SO-11025,2026-04-08,C1158,Skincare Set,Beauty,Central,Retail Store,4,66.3,0.05,265.2,251.94,93.7,158.24
+SO-10991,2026-04-09,C1213,Cotton T-Shirt,Apparel,East,Retail Store,2,19.3,0.0,38.6,38.6,13.24,25.36
+SO-10998,2026-04-09,C1229,Wireless Earbuds,Electronics,West,Online Store,3,77.49,0.15,232.47,197.6,145.31,52.29
+SO-11000,2026-04-10,C1192,Bluetooth Speaker,Electronics,West,Marketplace,2,59.51,0.05,119.02,113.07,69.2,43.87
+SO-11006,2026-04-10,C1050,Hair Dryer,Beauty,North,Marketplace,4,90.95,0.0,363.8,363.8,169.91,193.89
+SO-11013,2026-04-10,C1029,Air Fryer,Home & Kitchen,Central,Online Store,2,133.78,0.0,267.56,267.56,141.93,125.63
+SO-11029,2026-04-10,C1156,Air Fryer,Home & Kitchen,West,Online Store,1,128.99,0.0,128.99,128.99,70.43,58.56
+SO-10987,2026-04-11,C1102,Running Shoes,Apparel,West,Online Store,1,93.72,0.1,93.72,84.35,44.07,40.28
+SO-11007,2026-04-11,C1283,Air Fryer,Home & Kitchen,North,Marketplace,2,132.28,0.0,264.56,264.56,138.0,126.56
+SO-11028,2026-04-11,C1172,Denim Jacket,Apparel,East,Online Store,3,88.04,0.15,264.12,224.5,110.51,113.99
+SO-11033,2026-04-12,C1305,Desk Lamp,Office,North,Marketplace,2,50.09,0.05,100.18,95.17,49.93,45.24
+SO-10983,2026-04-14,C1046,Ergonomic Chair,Office,Central,Marketplace,1,338.53,0.05,338.53,321.6,201.51,120.09
+SO-10983,2026-04-14,C1046,Ergonomic Chair,Office,Central,Marketplace,1,338.53,0.05,338.53,321.6,201.51,120.09
+SO-10995,2026-04-14,C1156,Ceramic Vase,Home & Kitchen,West,Retail Store,4,38.62,0.0,154.48,154.48,65.06,89.42
+SO-11008,2026-04-15,C1217,Wireless Earbuds,Electronics,East,Online Store,4,77.13,0.05,308.52,293.09,191.07,102.02
+SO-11015,2026-04-15,C1151,Wireless Earbuds,Electronics,North,Online Store,4,76.18,0.0,304.72,304.72,194.67,110.05
+SO-11024,2026-04-15,C1213,Bluetooth Speaker,Electronics,West,Online Store,1,57.76,0.0,57.76,57.76,34.6,23.16
+SO-11003,2026-04-16,C1104,Wireless Earbuds,Electronics,South,Online Store,4,78.63,0.0,314.52,314.52,187.0,127.52
+SO-11035,2026-04-16,C1213,Hair Dryer,Beauty,West,Marketplace,2,90.68,0.0,181.36,181.36,83.75,97.61
+SO-11019,2026-04-17,C1209,Cotton T-Shirt,Apparel,East,Retail Store,3,18.67,0.1,56.01,50.41,20.0,30.41
+SO-11044,2026-04-17,C1147,Cotton T-Shirt,Apparel,North,Marketplace,1,19.1,0.1,19.1,17.19,6.57,10.62
+SO-11005,2026-04-18,C1302,Cotton T-Shirt,Apparel,North,Marketplace,1,19.44,0.05,19.44,18.47,6.77,11.7
+SO-11046,2026-04-18,C1073,Cotton T-Shirt,Apparel,East,Retail Store,4,19.2,0.05,76.8,72.96,26.24,46.72
+SO-11021,2026-04-19,C1194,Denim Jacket,Apparel,West,Marketplace,4,87.26,0.0,349.04,349.04,149.54,199.5
+SO-10992,2026-04-20,C1225,Cotton T-Shirt,Apparel,East,Online Store,1,18.3,0.0,18.3,18.3,6.5,11.8
+SO-11010,2026-04-20,C1152,Bluetooth Speaker,Electronics,Central,Marketplace,1,58.14,0.15,58.14,49.42,33.84,15.58
+SO-11041,2026-04-20,C1152,Wireless Earbuds,Electronics,South,Online Store,1,76.47,0.05,76.47,72.65,48.69,23.96
+SO-10985,2026-04-22,C1208,Running Shoes,Apparel,South,Online Store,1,95.19,0.15,95.19,80.91,44.9,36.01
+SO-10990,2026-04-22,C1167,Wireless Earbuds,Electronics,East,Retail Store,1,80.21,0.15,80.21,68.18,46.76,21.42
+SO-10999,2026-04-22,C1301,Ceramic Vase,Home & Kitchen,West,Marketplace,3,40.24,0.05,120.72,114.68,48.01,66.67
+SO-11017,2026-04-22,C1095,Desk Lamp,Office,West,Online Store,1,49.32,0.05,49.32,46.85,24.52,22.33
+SO-11020,2026-04-22,C1155,Bluetooth Speaker,Electronics,North,Retail Store,3,58.05,0.05,174.15,165.44,102.03,63.41
+SO-11027,2026-04-22,C1082,Laptop Stand,Electronics,Central,Retail Store,2,44.51,0.15,89.02,75.67,47.0,28.67
+SO-10993,2026-04-24,C1126,Air Fryer,Home & Kitchen,North,Retail Store,1,132.77,0.0,132.77,132.77,72.48,60.29
+SO-11009,2026-04-24,C1067,Cotton T-Shirt,Apparel,East,Retail Store,3,18.52,0.0,55.56,55.56,19.75,35.81
+SO-11018,2026-04-25,C1316,Notebook Pack,Office,North,Marketplace,1,15.1,0.05,15.1,14.34,6.08,8.26
+SO-11023,2026-04-25,C1162,Hair Dryer,Beauty,Central,Online Store,4,90.58,0.05,362.32,344.2,169.83,174.37
+SO-11031,2026-04-25,C1156,Laptop Stand,Electronics,North,Online Store,1,44.01,0.1,44.01,39.61,23.39,16.22
+SO-11040,2026-04-25,C1283,Running Shoes,Apparel,Central,Marketplace,1,98.56,0.1,98.56,88.7,44.49,44.21
+SO-10988,2026-04-26,C1283,Skincare Set,Beauty,East,Online Store,2,64.55,0.1,129.1,116.19,46.66,69.53
+SO-10989,2026-04-27,C1208,Hair Dryer,Beauty,South,Online Store,1,88.67,0.15,88.67,75.37,43.16,32.21
+SO-11043,2026-04-27,C1213,Air Fryer,Home & Kitchen,East,Retail Store,4,132.82,0.05,531.28,504.72,284.06,220.66
+SO-11004,2026-04-28,C1167,Wireless Earbuds,Electronics,East,Marketplace,1,77.24,0.05,77.24,73.38,46.09,27.29
+SO-11022,2026-04-28,C1309,Desk Lamp,Office,West,Marketplace,2,48.63,0.0,97.26,97.26,50.05,47.21
+SO-11030,2026-04-29,C1213,Cotton T-Shirt,Apparel,North,Wholesale,9,19.7,0.12,177.3,156.02,59.92,96.1
+SO-11038,2026-04-29,C1167,Running Shoes,Apparel,West,Online Store,2,92.62,0.0,185.24,185.24,85.39,99.85
+SO-11039,2026-04-29,C1036,Running Shoes,Apparel,West,Online Store,4,93.96,0.1,375.84,338.26,173.85,164.41
+SO-11001,2026-04-30,C1217,Air Fryer,Home & Kitchen,West,Marketplace,2,129.34,0.05,258.68,245.75,142.53,103.22
+SO-11047,2026-05-01,C1067,Cookware Set,Home & Kitchen,East,Online Store,3,182.39,0.1,547.17,492.45,289.92,202.53
+SO-11050,2026-05-01,C1104,Cotton T-Shirt,Apparel,North,Online Store,4,19.69,0.15,78.76,66.95,26.49,40.46
+SO-11071,2026-05-01,C1244,Air Fryer,Home & Kitchen,West,Online Store,1,131.49,0.1,131.49,118.34,70.64,47.7
+SO-11073,2026-05-01,C1123,Wireless Earbuds,Electronics,South,Online Store,1,76.65,0.0,76.65,76.65,47.18,29.47
+SO-11075,2026-05-01,C1262,Wireless Earbuds,Electronics,Central,Marketplace,4,77.42,0.0,309.68,309.68,192.97,116.71
+SO-11091,2026-05-01,C1146,Denim Jacket,Apparel,South,Online Store,4,82.77,0.05,331.08,314.53,146.05,168.48
+SO-11059,2026-05-02,C1092,Wireless Earbuds,Electronics,West,Online Store,3,78.86,0.05,236.58,224.75,142.89,81.86
+SO-11100,2026-05-02,C1319,Wool Scarf,Apparel,North,Retail Store,2,28.79,0.0,57.58,57.58,21.43,36.15
+SO-11056,2026-05-03,C1213,Desk Lamp,Office,East,Online Store,2,49.28,0.0,98.56,98.56,50.19,48.37
+SO-11087,2026-05-03,C1187,Bluetooth Speaker,Electronics,Central,Marketplace,1,59.15,0.15,59.15,50.28,35.13,15.15
+SO-11052,2026-05-04,C1059,Wireless Earbuds,Electronics,East,Marketplace,4,77.21,0.05,308.84,293.4,183.95,109.45
+SO-11081,2026-05-04,C1076,Cookware Set,Home & Kitchen,East,Online Store,1,171.97,0.0,171.97,171.97,95.33,76.64
+SO-11070,2026-05-05,C1167,Running Shoes,Apparel,North,Online Store,3,96.48,0.05,289.44,274.97,129.09,145.88
+SO-11092,2026-05-06,C1049,Bluetooth Speaker,Electronics,West,Online Store,1,57.1,0.0,57.1,57.1,34.76,22.34
+SO-11102,2026-05-06,C1313,Wireless Earbuds,Electronics,East,Retail Store,1,78.71,0.0,78.71,78.71,47.76,30.95
+SO-11064,2026-05-07,C1104,Wireless Earbuds,Electronics,North,Retail Store,3,78.19,0.15,234.57,199.38,145.72,53.66
+SO-11083,2026-05-07,C1225,Running Shoes,Apparel,East,Wholesale,9,94.46,0.12,850.14,748.12,404.03,344.09
+SO-11107,2026-05-07,C1295,Wool Scarf,Apparel,East,Marketplace,1,30.04,0.0,30.04,30.04,10.81,19.23
+SO-11055,2026-05-08,C1237,Bluetooth Speaker,Electronics,South,Online Store,1,60.2,0.05,60.2,57.19,34.5,22.69
+SO-11090,2026-05-08,C1167,Desk Lamp,Office,North,Online Store,1,49.19,0.0,49.19,49.19,24.07,25.12
+SO-11065,2026-05-09,C1217,Air Fryer,Home & Kitchen,West,Online Store,1,126.71,0.0,126.71,126.71,68.91,57.8
+SO-11079,2026-05-10,C1207,Ergonomic Chair,Office,North,Online Store,2,328.6,0.05,657.2,624.34,410.15,214.19
+SO-11105,2026-05-10,C1087,Running Shoes,Apparel,East,Online Store,1,98.69,0.15,98.69,83.89,44.01,39.88
+SO-11057,2026-05-12,C1244,Notebook Pack,Office,South,Marketplace,2,15.04,0.15,30.08,25.57,12.29,13.28
+SO-11058,2026-05-12,C1017,Espresso Maker,Home & Kitchen,West,Online Store,3,251.26,0.05,753.78,716.09,429.58,286.51
+SO-11067,2026-05-12,C1229,Cotton T-Shirt,Apparel,South,Marketplace,1,18.33,0.1,18.33,16.5,6.53,9.97
+SO-11093,2026-05-12,C1141,Ceramic Vase,Home & Kitchen,South,Marketplace,2,38.47,0.0,76.94,76.94,33.68,43.26
+SO-11097,2026-05-14,C1246,Cotton T-Shirt,Apparel,North,Online Store,1,19.02,0.1,19.02,17.12,6.48,10.64
+SO-11069,2026-05-15,C1217,Laptop Stand,Electronics,West,Marketplace,2,43.4,0.1,86.8,78.12,46.99,31.13
+SO-11072,2026-05-15,C1032,Ceramic Vase,Home & Kitchen,South,Retail Store,4,39.55,0.0,158.2,158.2,64.25,93.95
+SO-11048,2026-05-17,C1027,Cookware Set,Home & Kitchen,East,Wholesale,6,186.03,0.12,1116.18,982.24,580.96,401.28
+SO-11049,2026-05-17,C1229,Laptop Stand,Electronics,North,Retail Store,1,45.99,0.15,45.99,39.09,22.71,16.38
+SO-11080,2026-05-17,C1123,Denim Jacket,Apparel,West,Online Store,1,87.18,0.05,87.18,82.82,37.42,45.4
+SO-11084,2026-05-17,C1208,Bluetooth Speaker,Electronics,Central,Online Store,2,58.05,0.15,116.1,98.68,66.48,32.2
+SO-11096,2026-05-17,C1167,Wireless Earbuds,Electronics,West,Marketplace,1,77.36,0.05,77.36,73.49,47.98,25.51
+SO-11068,2026-05-18,C1117,Air Fryer,Home & Kitchen,East,Retail Store,1,127.12,0.0,127.12,127.12,72.46,54.66
+SO-11074,2026-05-18,C1092,Cotton T-Shirt,Apparel,East,Retail Store,2,18.46,0.15,36.92,31.38,12.96,18.42
+SO-11094,2026-05-18,C1130,Notebook Pack,Office,East,Online Store,3,15.26,0.0,45.78,45.78,18.35,27.43
+SO-11098,2026-05-18,C1167,Espresso Maker,Home & Kitchen,North,Marketplace,2,248.26,0.0,496.52,496.52,282.31,214.21
+SO-11099,2026-05-18,C1309,Ceramic Vase,Home & Kitchen,North,Online Store,4,40.31,0.15,161.24,137.05,66.06,70.99
+SO-11103,2026-05-18,C1280,Laptop Stand,Electronics,South,Marketplace,4,44.47,0.1,177.88,160.09,91.14,68.95
+SO-11088,2026-05-20,C1229,Running Shoes,Apparel,South,Retail Store,2,97.85,0.0,195.7,195.7,87.3,108.4
+SO-11062,2026-05-21,C1313,Cotton T-Shirt,Apparel,East,Retail Store,2,19.25,0.15,38.5,32.73,13.21,19.52
+SO-11063,2026-05-23,C1071,Cotton T-Shirt,Apparel,North,Online Store,1,18.53,0.05,18.53,17.6,6.77,10.83
+SO-11061,2026-05-24,C1104,Ergonomic Chair,Office,West,Marketplace,1,330.87,0.0,330.87,330.87,203.31,127.56
+SO-11082,2026-05-25,C1229,Cotton T-Shirt,Apparel,Central,Retail Store,1,18.54,0.0,18.54,18.54,6.57,11.97
+SO-11085,2026-05-25,C1032,Bluetooth Speaker,Electronics,North,Marketplace,1,57.31,0.1,57.31,51.58,34.4,17.18
+SO-11104,2026-05-25,C1293,Cotton T-Shirt,Apparel,South,Retail Store,1,18.48,0.0,18.48,18.48,6.55,11.93
+SO-11089,2026-05-26,C1109,Espresso Maker,Home & Kitchen,East,Retail Store,3,252.82,0.15,758.46,644.69,432.1,212.59
+SO-11106,2026-05-26,C1195,Ceramic Vase,Home & Kitchen,West,Online Store,2,40.15,0.05,80.3,76.28,32.0,44.28
+SO-11053,2026-05-27,C1167,Bluetooth Speaker,Electronics,East,Online Store,3,58.89,0.1,176.67,159.0,103.67,55.33
+SO-11077,2026-05-27,C1213,Desk Lamp,Office,West,Retail Store,2,49.05,0.05,98.1,93.19,47.79,45.4
+SO-11095,2026-05-27,C1244,Ergonomic Chair,Office,West,Online Store,2,323.77,0.0,647.54,647.54,390.65,256.89
+SO-11066,2026-05-28,C1017,Ceramic Vase,Home & Kitchen,West,Retail Store,1,37.84,0.05,37.84,35.95,16.15,19.8
+SO-11060,2026-05-29,C1025,Ceramic Vase,Home & Kitchen,South,Marketplace,3,39.16,0.0,117.48,117.48,48.45,69.03
+SO-11078,2026-05-29,C1283,Ceramic Vase,Home & Kitchen,East,Marketplace,1,38.64,0.0,38.64,38.64,16.44,22.2
+SO-11101,2026-05-30,C1083,Skincare Set,Beauty,West,Online Store,1,64.98,0.0,64.98,64.98,23.48,41.5
+SO-11108,2026-05-30,C1046,Espresso Maker,Home & Kitchen,East,Retail Store,4,246.12,0.05,984.48,935.26,576.12,359.14
+SO-11051,2026-05-31,C1261,Notebook Pack,Office,West,Wholesale,5,14.46,0.12,72.3,63.62,30.77,32.85
+SO-11054,2026-05-31,C1276,Wireless Earbuds,Electronics,East,Retail Store,1,79.28,0.05,79.28,75.32,47.06,28.26
+SO-11076,2026-05-31,C1313,Air Fryer,Home & Kitchen,East,Online Store,1,130.72,0.0,130.72,130.72,69.53,61.19
+SO-11086,2026-05-31,C1029,Bluetooth Speaker,Electronics,North,Retail Store,2,58.64,0.05,117.28,111.42,69.41,42.01
+SO-11128,2026-06-01,C1229,Wireless Earbuds,Electronics,North,Retail Store,2,80.65,0.1,161.3,145.17,93.96,51.21
+SO-11158,2026-06-01,C1104,Cookware Set,Home & Kitchen,West,Marketplace,3,173.25,0.0,519.75,519.75,282.94,236.81
+SO-11117,2026-06-02,C1027,Notebook Pack,Office,Central,Marketplace,1,15.32,0.15,15.32,13.02,6.04,6.98
+SO-11123,2026-06-03,C1307,Ceramic Vase,Home & Kitchen,North,Online Store,1,39.43,0.0,39.43,39.43,16.82,22.61
+SO-11139,2026-06-04,C1143,Wireless Earbuds,Electronics,East,Retail Store,1,81.34,0.05,81.34,77.27,47.9,29.37
+SO-11140,2026-06-04,C1217,Cookware Set,Home & Kitchen,North,Retail Store,1,183.62,0.15,183.62,156.08,95.91,60.17
+SO-11116,2026-06-05,C1224,Wireless Earbuds,Electronics,East,Marketplace,2,78.55,0.05,157.1,149.24,95.14,54.1
+SO-11131,2026-06-05,C1076,Running Shoes,Apparel,Central,Retail Store,3,98.11,0.05,294.33,279.61,127.53,152.08
+SO-11115,2026-06-06,C1092,Espresso Maker,Home & Kitchen,East,Retail Store,2,240.59,0.05,481.18,457.12,289.87,167.25
+SO-11133,2026-06-06,C1283,Wireless Earbuds,Electronics,Central,Marketplace,2,77.72,0.05,155.44,147.67,95.84,51.83
+SO-11146,2026-06-06,C1102,Wool Scarf,Apparel,Central,Marketplace,1,28.56,0.0,28.56,28.56,11.24,17.32
+SO-11169,2026-06-06,C1098,Ceramic Vase,Home & Kitchen,West,Online Store,1,39.67,0.0,39.67,39.67,16.26,23.41
+SO-11153,2026-06-07,C1062,Desk Lamp,Office,South,Online Store,1,48.36,0.0,48.36,48.36,24.05,24.31
+SO-11154,2026-06-08,C1318,Skincare Set,Beauty,East,Marketplace,3,63.96,0.0,191.88,191.88,70.6,121.28
+SO-11164,2026-06-08,C1217,Running Shoes,Apparel,South,Retail Store,4,96.77,0.0,387.08,387.08,173.47,213.61
+SO-11165,2026-06-08,C1238,Hair Dryer,Beauty,South,Retail Store,1,91.61,0.05,91.61,87.03,42.19,44.84
+SO-11142,2026-06-11,C1250,Running Shoes,Apparel,East,Wholesale,10,93.69,0.12,936.9,824.47,436.09,388.38
+SO-11163,2026-06-11,C1120,Laptop Stand,Electronics,South,Marketplace,1,46.41,0.15,46.41,39.45,23.14,16.31
+SO-11137,2026-06-12,C1277,Running Shoes,Apparel,East,Online Store,1,95.29,0.05,95.29,90.53,44.98,45.55
+SO-11155,2026-06-12,C1167,Laptop Stand,Electronics,North,Retail Store,4,43.34,0.05,173.36,164.69,91.69,73.0
+SO-11160,2026-06-12,C1153,Skincare Set,Beauty,North,Retail Store,1,63.46,0.0,63.46,63.46,23.94,39.52
+SO-11168,2026-06-12,C1086,Air Fryer,Home & Kitchen,North,Retail Store,1,124.84,0.05,124.84,118.6,72.83,45.77
+SO-11122,2026-06-13,C1198,Notebook Pack,Office,Central,Online Store,1,15.37,,15.37,13.06,6.17,6.89
+SO-11150,2026-06-13,C1037,Running Shoes,Apparel,South,Online Store,1,98.35,0.1,98.35,88.52,44.68,43.84
+SO-11121,2026-06-14,C1151,Desk Lamp,Office,South,Online Store,1,49.76,0.05,49.76,47.27,23.82,23.45
+SO-11124,2026-06-14,C1099,Hair Dryer,Beauty,East,Marketplace,1,91.15,0.05,91.15,86.59,43.25,43.34
+SO-11125,2026-06-15,C1086,Notebook Pack,Office,East,Retail Store,4,15.41,0.1,61.64,55.48,24.58,30.9
+SO-11111,2026-06-16,C1092,Air Fryer,Home & Kitchen,West,Wholesale,10,129.58,0.12,1295.8,1140.3,698.43,441.87
+SO-11114,2026-06-16,C1140,Espresso Maker,Home & Kitchen,East,Retail Store,3,253.44,0.0,760.32,760.32,422.24,338.08
+SO-11143,2026-06-16,C1164,Air Fryer,Home & Kitchen,East,Retail Store,4,128.12,0.05,512.48,486.86,287.76,199.1
+SO-11147,2026-06-16,C1283,Wireless Earbuds,Electronics,South,Online Store,4,79.61,0.15,318.44,270.67,188.16,82.51
+SO-11148,2026-06-16,C1167,Denim Jacket,Apparel,West,Retail Store,4,82.94,0.15,331.76,282.0,145.43,136.57
+SO-11109,2026-06-17,C1122,Laptop Stand,Electronics,North,Marketplace,4,44.8,0.1,179.2,161.28,90.86,70.42
+SO-11141,2026-06-17,C1102,Running Shoes,Apparel,Central,Online Store,4,96.54,0.05,386.16,366.85,178.72,188.13
+SO-11134,2026-06-18,C1213,Wool Scarf,Apparel,East,Marketplace,2,29.0,0.15,58.0,49.3,22.16,27.14
+SO-11132,2026-06-20,C1086,Skincare Set,Beauty,North,Marketplace,1,64.47,0.0,64.47,64.47,23.41,41.06
+SO-11138,2026-06-20,C1285,Ergonomic Chair,Office,North,Marketplace,1,326.23,0.0,326.23,326.23,205.31,120.92
+SO-11119,2026-06-21,C1029,Air Fryer,Home & Kitchen,South,Retail Store,1,126.59,0.05,126.59,120.26,72.69,47.57
+SO-11159,2026-06-21,C1316,Ceramic Vase,Home & Kitchen,Central,Online Store,1,38.55,0.0,38.55,38.55,16.58,21.97
+SO-11161,2026-06-21,C1167,Skincare Set,Beauty,Central,Online Store,4,64.11,0.05,256.44,243.62,95.07,148.55
+SO-11151,2026-06-22,C1217,Air Fryer,Home & Kitchen,North,Online Store,1,127.99,0.0,127.99,127.99,72.67,55.32
+SO-11110,2026-06-23,C1217,Skincare Set,Beauty,South,Marketplace,3,64.92,0.15,194.76,165.55,69.38,96.17
+SO-11127,2026-06-23,C1292,Running Shoes,Apparel,West,Wholesale,7,95.9,0.12,671.3,590.74,296.93,293.81
+SO-11144,2026-06-23,C1229,Espresso Maker,Home & Kitchen,North,Online Store,2,249.3,0.05,498.6,473.67,283.01,190.66
+SO-11157,2026-06-23,C1218,Cookware Set,Home & Kitchen,South,Marketplace,1,184.9,0.0,184.9,184.9,93.5,91.4
+SO-11166,2026-06-23,C1156,Cookware Set,Home & Kitchen,North,Online Store,4,180.69,0.0,722.76,722.76,383.71,339.05
+SO-11113,2026-06-24,C1130,Cotton T-Shirt,Apparel,East,Wholesale,6,19.11,0.12,114.66,100.9,41.0,59.9
+SO-11118,2026-06-25,C1217,Desk Lamp,Office,West,Online Store,2,50.24,0.0,100.48,100.48,50.03,50.45
+SO-11129,2026-06-25,C1189,Wireless Earbuds,Electronics,South,Retail Store,1,76.65,0.05,76.65,72.82,46.78,26.04
+SO-11149,2026-06-25,C1029,Cotton T-Shirt,Apparel,East,Online Store,2,18.72,0.0,37.44,37.44,13.44,24.0
+SO-11167,2026-06-25,C1054,Air Fryer,Home & Kitchen,North,Online Store,1,128.74,0.0,128.74,128.74,70.31,58.43
+SO-11170,2026-06-25,C1217,Denim Jacket,Apparel,East,Marketplace,1,82.61,0.1,82.61,74.35,37.42,36.93
+SO-11120,2026-06-26,C1038,Air Fryer,Home & Kitchen,East,Online Store,3,125.67,0.15,377.01,320.46,209.12,111.34
+SO-11162,2026-06-27,C1213,Cotton T-Shirt,Apparel,South,Marketplace,2,19.34,0.05,38.68,36.75,13.13,23.62
+SO-11156,2026-06-28,C1217,Air Fryer,Home & Kitchen,North,Retail Store,3,132.93,0.0,398.79,398.79,215.22,183.57
+SO-11130,2026-06-29,C1207,Laptop Stand,Electronics,North,Online Store,2,44.71,0.05,89.42,84.95,45.91,39.04
+SO-11135,2026-06-29,C1268,Notebook Pack,Office,North,Marketplace,4,14.9,0.05,59.6,56.62,23.47,33.15
+SO-11112,2026-06-30,C1025,Wireless Earbuds,Electronics,West,Wholesale,7,75.95,0.15,531.65,451.9,334.54,117.36
+SO-11126,2026-06-30,C1038,Bluetooth Speaker,Electronics,West,Online Store,2,60.18,0.05,120.36,114.34,68.38,45.96
+SO-11136,2026-06-30,C1156,Laptop Stand,Electronics,North,Online Store,3,45.73,0.15,137.19,116.61,69.68,46.93
+SO-11145,2026-06-30,C1311,Ceramic Vase,Home & Kitchen,North,Marketplace,3,39.92,0.05,119.76,113.77,48.57,65.2
+SO-11152,2026-06-30,C1244,Espresso Maker,Home & Kitchen,West,Online Store,1,244.42,0.15,244.42,207.76,139.08,68.68
+SO-11214,2026-07-01,C1311,Skincare Set,Beauty,North,Online Store,1,67.29,0.0,67.29,67.29,23.68,43.61
+SO-11230,2026-07-02,C1027,Wireless Earbuds,Electronics,West,Marketplace,2,80.27,0.05,160.54,152.51,93.31,59.2
+SO-11211,2026-07-03,C1244,Cookware Set,Home & Kitchen,South,Marketplace,4,178.11,0.05,712.44,676.82,374.44,302.38
+SO-11224,2026-07-03,C1200,Desk Lamp,Office,South,Online Store,4,49.27,0.0,197.08,197.08,100.58,96.5
+SO-11174,2026-07-04,C1318,Laptop Stand,Electronics,South,Retail Store,1,43.96,0.0,43.96,43.96,23.72,20.24
+SO-11188,2026-07-04,C1077,Air Fryer,Home & Kitchen,North,Marketplace,1,129.78,0.05,129.78,123.29,71.2,52.09
+SO-11231,2026-07-04,C1156,Air Fryer,Home & Kitchen,South,Online Store,1,132.95,0.1,132.95,119.65,70.14,49.51
+SO-11187,2026-07-05,C1122,Notebook Pack,Office,West,Online Store,3,15.25,0.05,45.75,43.46,18.07,25.39
+SO-11204,2026-07-05,C1148,Cotton T-Shirt,Apparel,North,Online Store,2,19.21,0.0,38.42,38.42,13.28,25.14
+SO-11206,2026-07-05,C1148,Cookware Set,Home & Kitchen,West,Online Store,3,185.67,0.15,557.01,473.46,289.63,183.83
+SO-11217,2026-07-05,C1198,Skincare Set,Beauty,East,Marketplace,1,65.44,0.0,65.44,65.44,23.82,41.62
+SO-11220,2026-07-05,C1036,Wireless Earbuds,Electronics,South,Marketplace,1,79.96,0.0,79.96,79.96,46.52,33.44
+SO-11181,2026-07-06,C1167,Air Fryer,Home & Kitchen,West,Online Store,2,126.63,0.15,253.26,215.27,143.05,72.22
+SO-11191,2026-07-07,C1214,Denim Jacket,Apparel,East,Marketplace,2,84.93,0.05,169.86,161.37,76.7,84.67
+SO-11182,2026-07-08,C1313,Laptop Stand,Electronics,North,Online Store,2,45.77,0.05,91.54,86.96,47.67,39.29
+SO-11218,2026-07-08,C1142,Laptop Stand,Electronics,North,Online Store,2,46.02,0.05,92.04,87.44,47.1,40.34
+SO-11223,2026-07-08,C1229,Desk Lamp,Office,East,Marketplace,1,47.22,0.0,47.22,47.22,24.82,22.4
+SO-11194,2026-07-10,C1217,Wireless Earbuds,Electronics,North,Retail Store,1,78.29,0.15,78.29,66.55,47.81,18.74
+SO-11183,2026-07-11,C1092,Wool Scarf,Apparel,North,Online Store,3,29.03,0.0,87.09,87.09,33.71,53.38
+SO-11172,2026-07-12,C1104,Cotton T-Shirt,Apparel,West,Online Store,1,18.85,0.0,18.85,18.85,6.81,12.04
+SO-11203,2026-07-12,C1048,Air Fryer,Home & Kitchen,East,Marketplace,1,129.97,0.0,129.97,129.97,71.04,58.93
+SO-11207,2026-07-12,C1117,Cotton T-Shirt,Apparel,Central,Wholesale,10,18.82,0.12,188.2,165.62,64.74,100.88
+SO-11229,2026-07-12,C1029,Skincare Set,Beauty,North,Online Store,2,63.92,0.0,127.84,127.84,47.26,80.58
+SO-11171,2026-07-13,C1167,Running Shoes,Apparel,Central,Online Store,3,96.43,0.15,289.29,245.9,133.29,112.61
+SO-11175,2026-07-14,C1046,Laptop Stand,Electronics,East,Retail Store,1,46.17,0.0,46.17,46.17,23.03,23.14
+SO-11184,2026-07-14,C1027,Running Shoes,Apparel,East,Marketplace,2,92.52,0.0,185.04,185.04,88.0,97.04
+SO-11186,2026-07-14,C1141,Cookware Set,Home & Kitchen,South,Retail Store,1,178.12,0.15,178.12,151.4,97.04,54.36
+SO-11202,2026-07-14,C1308,Air Fryer,Home & Kitchen,South,Online Store,1,132.88,0.05,132.88,126.24,69.21,57.03
+SO-11221,2026-07-15,C1067,Wireless Earbuds,Electronics,East,Marketplace,1,78.83,0.05,78.83,74.89,46.56,28.33
+SO-11227,2026-07-15,,Skincare Set,Beauty,Central,Marketplace,1,64.0,0.15,64.0,54.4,23.17,31.23
+SO-11176,2026-07-16,C1217,Cookware Set,Home & Kitchen,South,Online Store,4,172.31,0.1,689.24,620.32,385.93,234.39
+SO-11190,2026-07-16,C1023,Wireless Earbuds,Electronics,North,Online Store,1,80.51,0.05,80.51,76.48,48.09,28.39
+SO-11196,2026-07-16,C1124,Cookware Set,Home & Kitchen,West,Marketplace,4,180.42,0.0,721.68,721.68,375.31,346.37
+SO-11213,2026-07-16,C1035,Desk Lamp,Office,East,Marketplace,3,50.18,0.05,150.54,143.01,72.01,71.0
+SO-11200,2026-07-17,C1217,Notebook Pack,Office,East,Marketplace,1,15.6,0.05,15.6,14.82,6.11,8.71
+SO-11216,2026-07-17,C1319,Bluetooth Speaker,Electronics,East,Marketplace,2,59.37,0.0,118.74,118.74,69.52,49.22
+SO-11185,2026-07-18,C1213,Laptop Stand,Electronics,North,Online Store,4,45.3,0.05,181.2,172.14,91.83,80.31
+SO-11212,2026-07-18,C1014,Wireless Earbuds,Electronics,Central,Online Store,2,81.68,0.1,163.36,147.02,92.08,54.94
+SO-11219,2026-07-19,C1035,Air Fryer,Home & Kitchen,South,Retail Store,1,127.23,0.15,127.23,108.15,71.48,36.67
+SO-11178,2026-07-20,C1026,Bluetooth Speaker,Electronics,South,Marketplace,1,59.76,0.15,59.76,50.8,33.67,17.13
+SO-11180,2026-07-20,C1217,Air Fryer,Home & Kitchen,East,Online Store,3,132.47,0.05,397.41,377.54,209.33,168.21
+SO-11199,2026-07-21,C1087,Wireless Earbuds,Electronics,North,Online Store,1,80.1,0.1,80.1,72.09,46.98,25.11
+SO-11197,2026-07-22,C1159,Bluetooth Speaker,Electronics,South,Online Store,3,59.08,0.05,177.24,168.38,103.59,64.79
+SO-11209,2026-07-23,C1158,Notebook Pack,Office,West,Online Store,2,14.47,0.1,28.94,26.05,12.23,13.82
+SO-11173,2026-07-24,C1055,Espresso Maker,Home & Kitchen,North,Online Store,1,255.28,0.05,255.28,242.52,144.52,98.0
+SO-11198,2026-07-25,C1138,Cotton T-Shirt,Apparel,North,Marketplace,4,18.68,0.15,74.72,63.51,25.95,37.56
+SO-11215,2026-07-25,C1101,Running Shoes,Apparel,South,Retail Store,1,97.49,0.1,97.49,87.74,44.49,43.25
+SO-11189,2026-07-26,C1184,Laptop Stand,Electronics,West,Online Store,4,45.05,0.0,180.2,180.2,92.56,87.64
+SO-11225,2026-07-26,C1295,Ceramic Vase,Home & Kitchen,East,Online Store,2,38.43,0.05,76.86,73.02,32.07,40.95
+SO-11177,2026-07-27,C1213,Notebook Pack,Office,East,Marketplace,2,15.49,0.0,30.98,30.98,12.24,18.74
+SO-11201,2026-07-27,C1234,Air Fryer,Home & Kitchen,East,Retail Store,1,124.83,0.0,124.83,124.83,71.73,53.1
+SO-11205,2026-07-28,C1016,Hair Dryer,Beauty,West,Online Store,2,87.09,0.15,174.18,148.05,85.28,62.77
+SO-11210,2026-07-28,C1027,Air Fryer,Home & Kitchen,North,Retail Store,4,134.09,0.0,536.36,536.36,284.12,252.24
+SO-11179,2026-07-29,C1253,Denim Jacket,Apparel,North,Online Store,1,88.07,0.0,88.07,88.07,38.16,49.91
+SO-11193,2026-07-29,C1005,Skincare Set,Beauty,Central,Online Store,3,63.59,0.05,190.77,181.23,68.89,112.34
+SO-11195,2026-07-29,C1278,Cookware Set,Home & Kitchen,West,Marketplace,4,175.54,0.15,702.16,596.84,373.96,222.88
+SO-11226,2026-07-29,C1198,Running Shoes,Apparel,East,Retail Store,2,97.06,0.05,194.12,184.41,85.24,99.17
+SO-11192,2026-07-30,C1067,Ergonomic Chair,Office,West,Online Store,3,322.34,0.1,967.02,870.32,602.88,267.44
+SO-11208,2026-07-30,C1016,Ergonomic Chair,Office,West,Wholesale,5,328.41,0.12,1642.05,1445.0,977.31,467.69
+SO-11228,2026-07-30,C1276,Wool Scarf,Apparel,South,Marketplace,2,28.46,0.0,56.92,56.92,22.45,34.47
+SO-11222,2026-07-31,C1208,Espresso Maker,Home & Kitchen,North,Retail Store,1,251.18,0.0,251.18,251.18,140.27,110.91
+SO-11242,2026-08-01,C1318,Denim Jacket,Apparel,North,Retail Store,3,85.42,0.1,256.26,230.63,111.86,118.77
+SO-11252,2026-08-01,C1104,Bluetooth Speaker,Electronics,North,Online Store,1,60.89,0.0,60.89,60.89,33.71,27.18
+SO-11302,2026-08-01,C1184,Skincare Set,Beauty,North,Wholesale,8,62.67,0.12,501.36,441.2,190.49,250.71
+SO-11244,2026-08-02,C1156,Hair Dryer,Beauty,East,Online Store,1,87.6,0.05,87.6,83.22,42.4,40.82
+SO-11253,2026-08-02,C1102,Air Fryer,Home & Kitchen,West,Marketplace,1,130.78,0.05,130.78,124.24,69.28,54.96
+SO-11271,2026-08-02,C1126,Ceramic Vase,Home & Kitchen,East,Online Store,4,39.61,0.05,158.44,150.52,64.71,85.81
+SO-11237,2026-08-03,C1167,Wireless Earbuds,Electronics,South,Retail Store,1,78.08,0.0,78.08,78.08,47.01,31.07
+SO-11281,2026-08-03,C1050,Running Shoes,Apparel,East,Retail Store,1,98.76,0.1,98.76,88.88,43.33,45.55
+SO-11301,2026-08-03,C1207,Smart Watch,Electronics,West,Marketplace,4,192.21,0.05,768.84,730.4,514.66,215.74
+SO-11245,2026-08-04,C1083,Smart Watch,Electronics,Central,Online Store,4,193.97,0.0,775.88,775.88,523.25,252.63
+SO-11256,2026-08-04,C1217,Running Shoes,Apparel,West,Online Store,2,98.75,0.05,197.5,187.62,85.76,101.86
+SO-11257,2026-08-04,C1138,Ceramic Vase,Home & Kitchen,North,Wholesale,9,39.18,0.12,352.62,310.31,147.56,162.75
+SO-11265,2026-08-04,C1311,Hair Dryer,Beauty,North,Marketplace,1,90.39,0.05,90.39,85.87,42.23,43.64
+SO-11270,2026-08-04,C1092,Running Shoes,Apparel,West,Retail Store,2,92.71,0.0,185.42,185.42,88.57,96.85
+SO-11294,2026-08-04,C1314,Air Fryer,Home & Kitchen,South,Online Store,3,131.04,0.0,393.12,393.12,219.1,174.02
+SO-11300,2026-08-04,C1092,Ergonomic Chair,Office,West,Online Store,1,338.15,0.0,338.15,338.15,206.0,132.15
+SO-11287,2026-08-05,C1213,Hair Dryer,Beauty,North,Retail Store,1,86.03,0.0,86.03,86.03,42.25,43.78
+SO-11273,2026-08-07,C1103,Smart Watch,Electronics,North,Online Store,2,203.7,0.15,407.4,346.29,251.8,94.49
+SO-11299,2026-08-07,C1024,Air Fryer,Home & Kitchen,Central,Online Store,4,126.71,0.0,506.84,506.84,290.2,216.64
+SO-11235,2026-08-08,C1294,Cotton T-Shirt,Apparel,West,Retail Store,4,18.28,0.1,73.12,65.81,27.05,38.76
+SO-11305,2026-08-08,C1137,Cotton T-Shirt,Apparel,Central,Marketplace,2,19.1,0.0,38.2,38.2,13.22,24.98
+SO-11267,2026-08-09,C1280,Ergonomic Chair,Office,Central,Online Store,1,324.36,0.1,324.36,291.92,196.69,95.23
+SO-11285,2026-08-09,C1034,Wool Scarf,Apparel,West,Retail Store,1,27.89,0.0,27.89,27.89,11.06,16.83
+SO-11291,2026-08-09,C1167,Ergonomic Chair,Office,East,Retail Store,1,318.5,0.15,318.5,270.72,203.03,67.69
+SO-11243,2026-08-10,C1167,Cotton T-Shirt,Apparel,South,Online Store,2,18.32,0.0,36.64,36.64,13.47,23.17
+SO-11254,2026-08-10,C1229,Espresso Maker,Home & Kitchen,South,Online Store,1,243.19,0.05,243.19,231.03,140.28,90.75
+SO-11275,2026-08-10,C1138,Air Fryer,Home & Kitchen,East,Retail Store,1,133.28,0.0,133.28,133.28,72.62,60.66
+SO-11304,2026-08-10,C1148,Running Shoes,Apparel,South,Online Store,1,95.59,0.15,95.59,81.25,43.73,37.52
+SO-11246,2026-08-11,C1083,Espresso Maker,Home & Kitchen,North,Marketplace,3,248.48,0.0,745.44,745.44,431.96,313.48
+SO-11263,2026-08-11,C1027,Denim Jacket,Apparel,East,Marketplace,4,82.86,0.0,331.44,331.44,146.25,185.19
+SO-11278,2026-08-11,C1229,Denim Jacket,Apparel,North,Online Store,4,86.47,0.0,345.88,345.88,151.42,194.46
+SO-11298,2026-08-11,C1213,Cookware Set,Home & Kitchen,East,Marketplace,3,175.4,0.15,526.2,447.27,291.53,155.74
+SO-11261,2026-08-12,C1217,Laptop Stand,Electronics,East,Retail Store,2,43.64,0.05,87.28,82.92,46.51,36.41
+SO-11297,2026-08-12,C1295,Hair Dryer,Beauty,West,Online Store,1,88.07,0.15,88.07,74.86,42.18,32.68
+SO-11303,2026-08-12,C1217,Notebook Pack,Office,North,Online Store,2,14.5,0.0,29.0,29.0,12.27,16.73
+SO-11238,2026-08-13,C1148,Running Shoes,Apparel,North,Retail Store,4,93.32,0.0,373.28,373.28,171.3,201.98
+SO-11260,2026-08-15,C1138,Desk Lamp,Office,South,Online Store,4,48.68,0.05,194.72,184.98,99.91,85.07
+SO-11234,2026-08-16,C1210,Wool Scarf,Apparel,Central,Marketplace,2,28.42,0.0,56.84,56.84,21.72,35.12
+SO-11240,2026-08-16,C1167,Desk Lamp,Office,East,Marketplace,1,49.62,0.05,49.62,47.14,24.9,22.24
+SO-11283,2026-08-16,C1167,Skincare Set,Beauty,South,Marketplace,2,66.25,0.0,132.5,132.5,47.36,85.14
+SO-11292,2026-08-16,C1184,Ergonomic Chair,Office,South,Online Store,1,336.81,0.05,336.81,319.97,202.07,117.9
+SO-11233,2026-08-17,C1217,Running Shoes,Apparel,South,Online Store,1,95.81,0.1,95.81,86.23,42.63,43.6
+SO-11274,2026-08-17,C1092,Wireless Earbuds,Electronics,North,Online Store,4,80.76,0.1,323.04,290.74,191.93,98.81
+SO-11284,2026-08-17,C1041,Air Fryer,Home & Kitchen,West,Retail Store,1,131.55,0.05,131.55,124.97,71.64,53.33
+SO-11308,2026-08-17,C1211,Desk Lamp,Office,North,Marketplace,1,47.22,0.0,47.22,47.22,25.14,22.08
+SO-11236,2026-08-18,C1217,Denim Jacket,Apparel,West,Retail Store,1,85.19,0.05,85.19,80.93,37.48,43.45
+SO-11255,2026-08-18,C1301,Bluetooth Speaker,Electronics,East,Marketplace,1,57.55,0.0,57.55,57.55,34.26,23.29
+SO-11277,2026-08-18,C1167,Bluetooth Speaker,Electronics,East,Marketplace,1,61.13,0.05,61.13,58.07,33.98,24.09
+SO-11295,2026-08-19,C1194,Notebook Pack,Office,South,Marketplace,1,15.07,0.05,15.07,14.32,5.87,8.45
+SO-11249,2026-08-20,C1074,Wireless Earbuds,Electronics,West,Online Store,2,78.64,0.15,157.28,133.69,93.01,40.68
+SO-11306,2026-08-20,C1295,Air Fryer,Home & Kitchen,Central,Marketplace,1,133.13,0.05,133.13,126.47,71.44,55.03
+SO-11307,2026-08-20,C1244,Ergonomic Chair,Office,East,Retail Store,1,318.53,0.15,318.53,270.75,206.11,64.64
+SO-11259,2026-08-21,C1013,Notebook Pack,Office,North,Marketplace,1,15.34,0.1,15.34,13.81,5.93,7.88
+SO-11262,2026-08-21,C1217,Laptop Stand,Electronics,Central,Wholesale,10,44.72,0.12,447.2,393.54,227.29,166.25
+SO-11288,2026-08-21,C1229,Wireless Earbuds,Electronics,North,Retail Store,1,79.61,0.05,79.61,75.63,48.33,27.3
+SO-11293,2026-08-21,C1009,Hair Dryer,Beauty,South,Online Store,2,86.11,0.0,172.22,172.22,83.69,88.53
+SO-11296,2026-08-21,C1229,Air Fryer,Home & Kitchen,East,Retail Store,3,127.29,0.0,381.87,381.87,211.8,170.07
+SO-11241,2026-08-22,C1156,Running Shoes,Apparel,South,Online Store,1,93.75,0.1,93.75,84.38,44.08,40.3
+SO-11264,2026-08-22,C1141,Running Shoes,Apparel,Central,Retail Store,2,92.48,0.0,184.96,184.96,86.81,98.15
+SO-11266,2026-08-22,C1067,Denim Jacket,Apparel,South,Retail Store,4,83.9,0.15,335.6,285.26,149.05,136.21
+SO-11289,2026-08-22,C1283,Smart Watch,Electronics,North,Retail Store,1,191.11,0.0,191.11,191.11,126.08,65.03
+SO-11282,2026-08-23,C1072,Air Fryer,Home & Kitchen,East,Retail Store,2,126.69,0.05,253.38,240.71,138.24,102.47
+SO-11279,2026-08-24,C1131,Desk Lamp,Office,West,Marketplace,3,48.36,0.05,145.08,137.83,71.64,66.19
+SO-11250,2026-08-25,C1242,Wool Scarf,Apparel,East,Online Store,2,29.12,0.0,58.24,58.24,22.23,36.01
+SO-11248,2026-08-26,C1092,Skincare Set,Beauty,East,Retail Store,2,62.91,0.05,125.82,119.53,46.54,72.99
+SO-11269,2026-08-26,C1102,Running Shoes,Apparel,East,Retail Store,2,93.62,0.15,187.24,159.15,89.63,69.52
+SO-11280,2026-08-26,C1142,Cotton T-Shirt,Apparel,West,Marketplace,1,18.83,0.05,18.83,17.89,6.49,11.4
+SO-11232,2026-08-27,C1155,Air Fryer,Home & Kitchen,East,Marketplace,1,128.18,0.1,128.18,115.36,72.68,42.68
+SO-11276,2026-08-27,C1122,Denim Jacket,Apparel,North,Online Store,1,87.75,0.0,87.75,87.75,37.54,50.21
+SO-11239,2026-08-28,C1018,Cookware Set,Home & Kitchen,South,Online Store,1,172.89,0.05,172.89,164.25,93.93,70.32
+SO-11251,2026-08-28,C1050,Running Shoes,Apparel,South,Marketplace,4,98.4,0.1,393.6,354.24,177.43,176.81
+SO-11268,2026-08-28,C1141,Wireless Earbuds,Electronics,South,Online Store,2,81.4,0.0,162.8,162.8,96.76,66.04
+SO-11258,2026-08-29,C1147,Skincare Set,Beauty,North,Marketplace,4,62.66,0.05,250.64,238.11,91.6,146.51
+SO-11272,2026-08-29,C1063,Hair Dryer,Beauty,North,Marketplace,3,86.86,0.05,260.58,247.55,129.44,118.11
+SO-11290,2026-08-30,C1217,Air Fryer,Home & Kitchen,East,Online Store,3,128.28,0.05,384.84,365.6,214.81,150.79
+SO-11247,2026-08-31,C1229,Espresso Maker,Home & Kitchen,North,Marketplace,1,257.07,0.0,257.07,257.07,141.04,116.03
+SO-11286,2026-08-31,C1156,Hair Dryer,Beauty,West,Online Store,1,89.43,0.1,89.43,80.49,41.9,38.59
+SO-11311,2026-09-01,C1244,Laptop Stand,Electronics,Central,Online Store,4,46.18,0.0,184.72,184.72,95.29,89.43
+SO-11330,2026-09-01,C1198,Wireless Earbuds,Electronics,Central,Retail Store,1,80.74,0.1,80.74,72.67,47.02,25.65
+SO-11338,2026-09-02,C1229,Air Fryer,Home & Kitchen,East,Online Store,1,132.93,,132.93,132.93,70.46,62.47
+SO-11333,2026-09-03,C1283,Notebook Pack,Office,South,Online Store,1,14.76,0.1,14.76,13.28,6.08,7.2
+SO-11335,2026-09-03,C1120,Skincare Set,Beauty,East,Wholesale,57,64.02,0.18,3649.14,2992.29,1333.8,1658.49
+SO-11314,2026-09-05,C1156,Wireless Earbuds,Electronics,South,Retail Store,1,77.76,0.0,77.76,77.76,48.61,29.15
+SO-11322,2026-09-05,C1217,Desk Lamp,Office,North,Online Store,1,50.18,0.1,50.18,45.16,25.0,20.16
+SO-11329,2026-09-05,C1141,Notebook Pack,Office,South,Marketplace,4,15.4,0.0,61.6,61.6,23.7,37.9
+SO-11387,2026-09-05,C1253,Wireless Earbuds,Electronics,East,Marketplace,3,80.7,0.0,242.1,242.1,142.74,99.36
+SO-11313,2026-09-06,C1167,Skincare Set,Beauty,North,Online Store,4,64.53,0.0,258.12,258.12,95.4,162.72
+SO-11354,2026-09-06,C1111,Notebook Pack,Office,West,Online Store,3,15.36,0.1,46.08,41.47,17.9,23.57
+SO-11356,2026-09-06,C1156,Desk Lamp,Office,South,Marketplace,2,49.04,0.05,98.08,93.18,48.72,44.46
+SO-11367,2026-09-06,C1086,Air Fryer,Home & Kitchen,West,Marketplace,4,128.94,0.05,515.76,489.97,284.89,205.08
+SO-11318,2026-09-07,C1208,Desk Lamp,Office,South,Marketplace,1,48.74,0.15,48.74,41.43,23.99,17.44
+SO-11327,2026-09-07,C1167,Skincare Set,Beauty,South,Retail Store,2,64.94,0.1,129.88,116.89,45.6,71.29
+SO-11353,2026-09-07,C1283,Denim Jacket,Apparel,North,Online Store,1,82.0,0.0,82.0,82.0,36.89,45.11
+SO-11388,2026-09-07,C1213,Notebook Pack,Office,South,Marketplace,4,15.35,0.15,61.4,52.19,23.89,28.3
+SO-11344,2026-09-08,C1072,Skincare Set,Beauty,North,Online Store,4,63.7,0.05,254.8,242.06,91.78,150.28
+SO-11346,2026-09-08,C1141,Running Shoes,Apparel,West,Wholesale,10,98.25,0.12,982.5,864.6,431.47,433.13
+SO-11381,2026-09-08,C1156,Wool Scarf,Apparel,South,Marketplace,2,28.97,0.1,57.94,52.15,22.41,29.74
+SO-11320,2026-09-09,C1096,Running Shoes,Apparel,North,Online Store,4,93.02,0.1,372.08,334.87,179.34,155.53
+SO-11326,2026-09-10,C1217,Running Shoes,Apparel,East,Online Store,3,94.84,0.0,284.52,284.52,128.66,155.86
+SO-11368,2026-09-10,C1130,Bluetooth Speaker,Electronics,South,Retail Store,2,59.19,0.05,118.38,112.46,66.52,45.94
+SO-11371,2026-09-10,C1229,Notebook Pack,Office,North,Online Store,1,15.53,0.1,15.53,13.98,5.94,8.04
+SO-11379,2026-09-10,C1143,Cotton T-Shirt,Apparel,East,Wholesale,5,18.8,0.12,94.0,82.72,33.22,49.5
+SO-11385,2026-09-10,C1249,Notebook Pack,Office,North,Retail Store,2,14.52,0.05,29.04,27.59,12.03,15.56
+SO-11339,2026-09-11,C1138,Skincare Set,Beauty,West,Online Store,1,64.8,0.0,64.8,64.8,23.03,41.77
+SO-11340,2026-09-11,,Espresso Maker,Home & Kitchen,North,Online Store,1,248.25,0.05,248.25,235.84,139.52,96.32
+SO-11374,2026-09-11,C1017,Wireless Earbuds,Electronics,South,Online Store,1,77.26,0.0,77.26,77.26,46.5,30.76
+SO-11347,2026-09-12,C1197,Ergonomic Chair,Office,South,Online Store,3,340.37,0.05,1021.11,970.05,599.1,370.95
+SO-11383,2026-09-12,C1153,Notebook Pack,Office,South,Retail Store,1,15.11,0.05,15.11,14.35,5.95,8.4
+SO-11319,2026-09-13,C1243,Running Shoes,Apparel,South,Online Store,4,91.86,0.0,367.44,367.44,177.25,190.19
+SO-11328,2026-09-13,C1169,Cotton T-Shirt,Apparel,West,Marketplace,3,18.55,0.0,55.65,55.65,20.48,35.17
+SO-11363,2026-09-13,C1011,Cotton T-Shirt,Apparel,East,Online Store,2,18.72,0.05,37.44,35.57,13.49,22.08
+SO-11380,2026-09-13,C1170,Laptop Stand,Electronics,East,Marketplace,4,43.33,0.15,173.32,147.32,96.24,51.08
+SO-11352,2026-09-14,C1167,Ergonomic Chair,Office,Central,Online Store,1,335.33,0.05,335.33,318.56,196.52,122.04
+SO-11348,2026-09-15,C1229,Skincare Set,Beauty,East,Marketplace,1,66.9,0.05,66.9,63.55,23.8,39.75
+SO-11337,2026-09-16,C1061,Wireless Earbuds,Electronics,West,Online Store,1,78.56,0.0,78.56,78.56,47.98,30.58
+SO-11382,2026-09-16,C1249,Wireless Earbuds,Electronics,East,Retail Store,1,79.48,0.0,79.48,79.48,46.65,32.83
+SO-11325,2026-09-17,C1147,Bluetooth Speaker,Electronics,North,Online Store,3,57.45,0.05,172.35,163.73,102.55,61.18
+SO-11358,2026-09-17,C1167,Cotton T-Shirt,Apparel,South,Online Store,1,18.65,0.05,18.65,17.72,6.6,11.12
+SO-11377,2026-09-17,C1189,Denim Jacket,Apparel,East,Online Store,1,84.44,0.05,84.44,80.22,37.19,43.03
+SO-11315,2026-09-18,C1277,Espresso Maker,Home & Kitchen,West,Online Store,4,252.48,0.05,1009.92,959.42,577.14,382.28
+SO-11332,2026-09-18,C1213,Espresso Maker,Home & Kitchen,West,Marketplace,2,253.05,0.05,506.1,480.8,277.32,203.48
+SO-11350,2026-09-18,C1167,Hair Dryer,Beauty,West,Retail Store,4,89.56,0.0,358.24,358.24,175.85,182.39
+SO-11370,2026-09-18,C1038,Air Fryer,Home & Kitchen,West,Retail Store,2,130.33,0.05,260.66,247.63,145.26,102.37
+SO-11389,2026-09-18,C1167,Smart Watch,Electronics,South,Marketplace,2,194.56,0.15,389.12,330.75,260.31,70.44
+SO-11360,2026-09-19,C1102,Wireless Earbuds,Electronics,South,Online Store,1,77.91,0.1,77.91,70.12,46.62,23.5
+SO-11365,2026-09-19,C1002,Running Shoes,Apparel,Central,Marketplace,2,94.3,0.15,188.6,160.31,85.46,74.85
+SO-11343,2026-09-20,C1134,Running Shoes,Apparel,Central,Wholesale,6,96.42,0.12,578.52,509.1,255.41,253.69
+SO-11362,2026-09-20,C1059,Laptop Stand,Electronics,West,Retail Store,1,46.73,0.1,46.73,42.06,23.76,18.3
+SO-11373,2026-09-20,C1229,Denim Jacket,Apparel,West,Marketplace,1,88.11,0.0,88.11,88.11,37.26,50.85
+SO-11378,2026-09-20,C1085,Bluetooth Speaker,Electronics,North,Online Store,3,60.27,0.0,180.81,180.81,105.63,75.18
+SO-11349,2026-09-21,C1316,Espresso Maker,Home & Kitchen,East,Retail Store,1,254.8,0.15,254.8,216.58,140.21,76.37
+SO-11359,2026-09-21,C1130,Wireless Earbuds,Electronics,East,Wholesale,9,76.9,0.15,692.1,588.28,438.31,149.97
+SO-11372,2026-09-21,C1217,Smart Watch,Electronics,Central,Online Store,4,203.9,0.05,815.6,774.82,499.16,275.66
+SO-11375,2026-09-21,C1319,Ergonomic Chair,Office,North,Online Store,3,339.52,0.05,1018.56,967.63,602.6,365.03
+SO-11321,2026-09-22,C1167,Notebook Pack,Office,South,Online Store,1,14.64,0.0,14.64,14.64,5.9,8.74
+SO-11345,2026-09-22,C1058,Wireless Earbuds,Electronics,East,Marketplace,2,76.16,0.05,152.32,144.7,94.53,50.17
+SO-11366,2026-09-22,C1217,Espresso Maker,Home & Kitchen,Central,Online Store,2,246.45,0.05,492.9,468.25,289.24,179.01
+SO-11376,2026-09-22,C1217,Notebook Pack,Office,East,Retail Store,2,15.3,0.0,30.6,30.6,11.96,18.64
+SO-11324,2026-09-23,C1283,Wireless Earbuds,Electronics,West,Marketplace,1,76.07,0.0,76.07,76.07,47.69,28.38
+SO-11364,2026-09-23,C1102,Laptop Stand,Electronics,East,Online Store,4,44.78,0.0,179.12,179.12,95.38,83.74
+SO-11369,2026-09-23,C1156,Cotton T-Shirt,Apparel,East,Retail Store,1,19.62,0.0,19.62,19.62,6.69,12.93
+SO-11386,2026-09-23,C1213,Wireless Earbuds,Electronics,North,Online Store,2,78.65,0.05,157.3,149.44,93.23,56.21
+SO-11384,2026-09-24,C1089,Running Shoes,Apparel,North,Online Store,1,93.32,0.0,93.32,93.32,43.2,50.12
+SO-11309,2026-09-26,C1104,Running Shoes,Apparel,South,Marketplace,1,96.67,0.15,96.67,82.17,43.25,38.92
+SO-11312,2026-09-26,C1311,Wireless Earbuds,Electronics,North,Marketplace,2,77.71,0.05,155.42,147.65,96.16,51.49
+SO-11316,2026-09-26,C1165,Espresso Maker,Home & Kitchen,Central,Retail Store,1,258.15,0.05,258.15,245.24,143.44,101.8
+SO-11317,2026-09-26,C1104,Bluetooth Speaker,Electronics,West,Online Store,3,59.51,0.1,178.53,160.68,104.25,56.43
+SO-11334,2026-09-26,C1268,Wireless Earbuds,Electronics,South,Marketplace,4,79.05,0.15,316.2,268.77,189.18,79.59
+SO-11336,2026-09-26,C1027,Ergonomic Chair,Office,Central,Marketplace,1,341.23,0.0,341.23,341.23,203.25,137.98
+SO-11361,2026-09-26,C1171,Cotton T-Shirt,Apparel,North,Marketplace,2,19.57,0.1,39.14,35.23,13.01,22.22
+SO-11310,2026-09-28,C1306,Running Shoes,Apparel,West,Retail Store,1,97.46,0.0,97.46,97.46,43.6,53.86
+SO-11355,2026-09-28,C1158,Espresso Maker,Home & Kitchen,South,Marketplace,1,247.48,0.05,247.48,235.11,140.49,94.62
+SO-11323,2026-09-29,C1041,Hair Dryer,Beauty,West,Marketplace,3,85.71,0.05,257.13,244.27,130.19,114.08
+SO-11341,2026-09-29,C1244,Wool Scarf,Apparel,North,Marketplace,1,28.38,0.15,28.38,24.12,11.11,13.01
+SO-11342,2026-09-29,C1308,Denim Jacket,Apparel,West,Marketplace,2,87.02,0.0,174.04,174.04,75.42,98.62
+SO-11351,2026-09-29,C1122,Running Shoes,Apparel,North,Marketplace,1,93.3,0.05,93.3,88.63,43.26,45.37
+SO-11331,2026-09-30,C1253,Espresso Maker,Home & Kitchen,East,Marketplace,2,255.5,0.0,511.0,511.0,288.7,222.3
+SO-11357,2026-09-30,C1213,Running Shoes,Apparel,East,Retail Store,4,91.66,0.15,366.64,311.64,177.54,134.1
+SO-11404,2026-10-01,C1169,Ceramic Vase,Home & Kitchen,West,Marketplace,1,39.17,0.45,39.17,21.54,16.34,5.2
+SO-11421,2026-10-01,C1238,Cotton T-Shirt,Apparel,Central,Online Store,1,19.51,0.05,19.51,18.53,6.8,11.73
+SO-11432,2026-10-01,C1229,Ceramic Vase,Home & Kitchen,Central,Online Store,1,38.56,0.05,38.56,36.63,16.86,19.77
+SO-11434,2026-10-01,C1131,Desk Lamp,Office,North,Marketplace,1,49.67,0.05,49.67,47.19,23.94,23.25
+SO-11431,2026-10-02,C1138,Desk Lamp,Office,North,Marketplace,1,50.41,0.05,50.41,47.89,25.09,22.8
+SO-11402,2026-10-03,C1102,Ceramic Vase,Home & Kitchen,West,Online Store,4,38.1,0.35,152.4,99.06,65.16,33.9
+SO-11447,2026-10-03,C1207,Skincare Set,Beauty,Central,Wholesale,10,65.41,0.12,654.1,575.61,227.57,348.04
+SO-11453,2026-10-03,C1141,Smart Watch,Electronics,North,Retail Store,2,205.67,0.05,411.34,390.77,254.18,136.59
+SO-11396,2026-10-05,,Skincare Set,Beauty,West,Retail Store,3,65.06,0.35,195.18,126.87,71.0,55.87
+SO-11400,2026-10-05,C1161,Notebook Pack,Office,East,Online Store,4,14.66,0.0,58.64,58.64,24.15,34.49
+SO-11443,2026-10-05,C1192,Wireless Earbuds,Electronics,Central,Retail Store,2,80.75,0.0,161.5,161.5,94.76,66.74
+SO-11446,2026-10-05,C1217,Smart Watch,Electronics,South,Marketplace,1,201.59,0.0,201.59,201.59,127.15,74.44
+SO-11456,2026-10-05,C1164,Running Shoes,Apparel,East,Marketplace,2,97.6,0.0,195.2,195.2,85.91,109.29
+SO-11395,2026-10-07,C1316,Smart Watch,Electronics,Central,Marketplace,2,204.0,0.1,408.0,367.2,256.35,110.85
+SO-11444,2026-10-07,C1046,Hair Dryer,Beauty,South,Marketplace,1,90.86,0.0,90.86,90.86,43.5,47.36
+SO-11460,2026-10-07,C1207,Wool Scarf,Apparel,North,Marketplace,2,30.05,0.05,60.1,57.09,22.44,34.65
+SO-11405,2026-10-08,C1038,Laptop Stand,Electronics,North,Retail Store,1,46.08,0.05,46.08,43.78,23.47,20.31
+SO-11442,2026-10-08,C1167,Denim Jacket,Apparel,Central,Online Store,4,86.72,0.05,346.88,329.54,146.27,183.27
+SO-11425,2026-10-09,C1020,Skincare Set,Beauty,Central,Marketplace,2,65.04,0.0,130.08,130.08,48.13,81.95
+SO-11394,2026-10-11,C1217,Laptop Stand,Electronics,North,Marketplace,1,44.34,0.1,44.34,39.91,23.51,16.4
+SO-11451,2026-10-11,C1156,Denim Jacket,Apparel,East,Wholesale,5,85.91,0.12,429.55,378.0,182.17,195.83
+SO-11461,2026-10-11,C1229,Wireless Earbuds,Electronics,South,Retail Store,1,81.26,0.0,81.26,81.26,46.33,34.93
+SO-11409,2026-10-13,C1217,Notebook Pack,Office,East,Marketplace,2,14.65,,29.3,27.84,12.3,15.54
+SO-11426,2026-10-13,C1208,Bluetooth Speaker,Electronics,East,Marketplace,2,57.78,0.05,115.56,109.78,66.49,43.29
+SO-11407,2026-10-14,C1159,Air Fryer,Home & Kitchen,East,Wholesale,9,125.05,0.12,1125.45,990.4,651.3,339.1
+SO-11435,2026-10-14,C1141,Ergonomic Chair,Office,East,Wholesale,5,319.6,0.12,1598.0,1406.24,1016.32,389.92
+SO-11415,2026-10-15,C1311,Laptop Stand,Electronics,West,Marketplace,2,43.24,0.4,86.48,51.89,45.93,5.96
+SO-11398,2026-10-17,C1156,Cotton T-Shirt,Apparel,East,Marketplace,1,19.08,0.05,19.08,18.13,6.77,11.36
+SO-11403,2026-10-17,C1132,Espresso Maker,Home & Kitchen,East,Online Store,1,241.46,0.05,241.46,229.39,143.6,85.79
+SO-11416,2026-10-17,C1167,Bluetooth Speaker,Electronics,East,Online Store,2,59.95,0.05,119.9,113.91,67.28,46.63
+SO-11455,2026-10-17,C1046,Cotton T-Shirt,Apparel,Central,Online Store,2,18.59,0.05,37.18,35.32,13.55,21.77
+SO-11439,2026-10-18,C1229,Air Fryer,Home & Kitchen,West,Online Store,1,125.33,0.45,125.33,68.93,71.71,-2.78
+SO-11450,2026-10-18,C1229,Bluetooth Speaker,Electronics,East,Marketplace,4,59.23,0.05,236.92,225.07,136.97,88.1
+SO-11408,2026-10-19,C1217,Denim Jacket,Apparel,East,Retail Store,3,86.59,0.05,259.77,246.78,113.78,133.0
+SO-11436,2026-10-19,C1127,Smart Watch,Electronics,East,Online Store,1,196.79,0.0,196.79,196.79,127.95,68.84
+SO-11437,2026-10-19,C1184,Espresso Maker,Home & Kitchen,North,Retail Store,2,255.85,0.05,511.7,486.11,287.37,198.74
+SO-11452,2026-10-19,C1025,Notebook Pack,Office,West,Marketplace,3,15.24,0.35,45.72,29.72,17.66,12.06
+SO-11390,2026-10-20,C1064,Smart Watch,Electronics,North,Online Store,1,206.75,0.0,206.75,206.75,130.5,76.25
+SO-11418,2026-10-20,C1167,Cotton T-Shirt,Apparel,South,Online Store,2,19.46,0.05,38.92,36.97,13.23,23.74
+SO-11423,2026-10-20,C1156,Wool Scarf,Apparel,East,Online Store,2,28.49,0.05,56.98,54.13,22.37,31.76
+SO-11401,2026-10-21,C1173,Running Shoes,Apparel,North,Marketplace,3,96.18,0.15,288.54,245.26,131.23,114.03
+SO-11428,2026-10-21,C1124,Desk Lamp,Office,East,Marketplace,1,50.35,0.15,50.35,42.8,24.89,17.91
+SO-11393,2026-10-22,C1167,Smart Watch,Electronics,Central,Online Store,4,201.23,0.0,804.92,804.92,520.14,284.78
+SO-11412,2026-10-22,C1288,Cookware Set,Home & Kitchen,South,Retail Store,4,175.04,0.0,700.16,700.16,371.3,328.86
+SO-11440,2026-10-22,C1153,Hair Dryer,Beauty,West,Wholesale,9,91.85,0.4,826.65,495.99,391.74,104.25
+SO-11392,2026-10-23,C1143,Espresso Maker,Home & Kitchen,East,Retail Store,2,258.77,0.0,517.54,517.54,291.54,226.0
+SO-11411,2026-10-23,C1138,Wireless Earbuds,Electronics,Central,Online Store,1,80.5,0.0,80.5,80.5,47.56,32.94
+SO-11454,2026-10-23,C1120,Wireless Earbuds,Electronics,Central,Online Store,1,77.14,0.0,77.14,77.14,47.94,29.2
+SO-11459,2026-10-23,C1154,Running Shoes,Apparel,West,Online Store,2,95.75,0.4,191.5,114.9,86.12,28.78
+SO-11397,2026-10-24,C1141,Bluetooth Speaker,Electronics,West,Retail Store,3,56.68,0.4,170.04,102.02,103.15,-1.13
+SO-11414,2026-10-24,C1041,Notebook Pack,Office,South,Online Store,1,15.25,0.05,15.25,14.49,6.15,8.34
+SO-11417,2026-10-24,C1294,Ergonomic Chair,Office,South,Online Store,2,316.32,0.15,632.64,537.74,402.13,135.61
+SO-11457,2026-10-25,C1217,Running Shoes,Apparel,East,Marketplace,2,93.0,0.0,186.0,186.0,87.22,98.78
+SO-11419,2026-10-26,C1176,Cotton T-Shirt,Apparel,Central,Retail Store,4,19.31,0.05,77.24,73.38,26.56,46.82
+SO-11420,2026-10-26,C1209,Smart Watch,Electronics,East,Retail Store,1,199.55,0.05,199.55,189.57,126.89,62.68
+SO-11427,2026-10-26,C1313,Smart Watch,Electronics,East,Online Store,1,205.78,0.1,205.78,185.2,124.97,60.23
+SO-11413,2026-10-27,C1110,Cookware Set,Home & Kitchen,North,Online Store,4,183.87,0.0,735.48,735.48,378.73,356.75
+SO-11433,2026-10-27,C1217,Air Fryer,Home & Kitchen,South,Online Store,3,129.55,0.1,388.65,349.78,210.03,139.75
+SO-11445,2026-10-27,C1099,Notebook Pack,Office,East,Online Store,3,14.57,0.05,43.71,41.52,18.29,23.23
+SO-11410,2026-10-28,C1293,Notebook Pack,Office,North,Marketplace,1,15.32,0.05,15.32,14.55,6.04,8.51
+SO-11424,2026-10-28,C1184,Hair Dryer,Beauty,South,Retail Store,1,90.64,0.05,90.64,86.11,43.51,42.6
+SO-11429,2026-10-28,C1134,Air Fryer,Home & Kitchen,West,Online Store,1,131.52,0.45,131.52,72.34,71.74,0.6
+SO-11438,2026-10-28,C1103,Bluetooth Speaker,Electronics,East,Marketplace,1,56.84,0.05,56.84,54.0,33.3,20.7
+SO-11441,2026-10-28,C1095,Hair Dryer,Beauty,North,Retail Store,2,87.31,0.0,174.62,174.62,83.8,90.82
+SO-11449,2026-10-28,C1215,Running Shoes,Apparel,North,Marketplace,3,93.71,0.0,281.13,281.13,127.67,153.46
+SO-11391,2026-10-29,C1156,Wireless Earbuds,Electronics,East,Retail Store,4,79.33,0.15,317.32,269.72,193.43,76.29
+SO-11422,2026-10-30,C1174,Wireless Earbuds,Electronics,Central,Retail Store,1,77.92,0.0,77.92,77.92,46.04,31.88
+SO-11399,2026-10-31,C1005,Skincare Set,Beauty,North,Online Store,1,66.85,0.0,66.85,66.85,23.67,43.18
+SO-11406,2026-10-31,C1156,Wireless Earbuds,Electronics,South,Marketplace,1,80.0,0.1,80.0,72.0,48.03,23.97
+SO-11430,2026-10-31,C1213,Desk Lamp,Office,North,Online Store,1,49.68,0.0,49.68,49.68,23.87,25.81
+SO-11448,2026-10-31,C1071,Skincare Set,Beauty,West,Marketplace,1,62.98,0.45,62.98,34.64,23.26,11.38
+SO-11458,2026-10-31,C1099,Laptop Stand,Electronics,North,Retail Store,4,44.89,0.05,179.56,170.58,95.32,75.26
